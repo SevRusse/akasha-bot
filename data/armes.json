@@ -1,0 +1,1530 @@
+[
+  {
+    "nom": "\"Méga épée magique du suzerain ultime\"",
+    "url": "https://lagazettedeteyvat.fr/armes/mega-epee-magique-du-suzerain-ultime/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Mega-epee-magique-du-suzerain-ultime_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Événement limité, Version 4.3",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Mega-epee-magique-du-suzerain-ultime-guide-1.webp"
+  },
+  {
+    "nom": "Absolution",
+    "url": "https://lagazettedeteyvat.fr/armes/absolution/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/05/Absolution_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Clorinde, Épée à une main, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Absolution-guide-2.webp"
+  },
+  {
+    "nom": "Agate de Rochenoire",
+    "url": "https://lagazettedeteyvat.fr/armes/agate-de-rochenoire/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Agate-de-Rochenoire_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Boutique, Catalyseur",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Agate-de-Rochenoire-guide-1.webp"
+  },
+  {
+    "nom": "Aigue-marine de Makhaira",
+    "url": "https://lagazettedeteyvat.fr/armes/aigue-marine-de-makhaira/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/09/Aigue-marine-de-Makhaira_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Aigue-marine-de-Makhaira-guide-2.webp"
+  },
+  {
+    "nom": "Aileron de brise-vagues",
+    "url": "https://lagazettedeteyvat.fr/armes/aileron-de-brise-vagues/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Aileron-de-brise-vagues_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Aileron-de-brise-vagues-guide.webp"
+  },
+  {
+    "nom": "Ailes de la Voûte d'Azur",
+    "url": "https://lagazettedeteyvat.fr/armes/ailes-de-la-voute-d-azur/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Ailes-de-la-Voute-dAzur_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arc, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ailes-de-la-Voute-dAzur-guide.webp"
+  },
+  {
+    "nom": "Akuoumaru",
+    "url": "https://lagazettedeteyvat.fr/armes/akuoumaru/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Akuoumaru_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Akuoumaru-guide.webp"
+  },
+  {
+    "nom": "Anneau de Yaxche",
+    "url": "https://lagazettedeteyvat.fr/armes/anneau-de-yaxche/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Anneau-de-Yaxche_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Forge, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Anneau-de-Yaxche-guide.webp"
+  },
+  {
+    "nom": "Anneau des Hakushin",
+    "url": "https://lagazettedeteyvat.fr/armes/anneau-des-hakushin/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Anneau-des-Hakushin_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Forge, Inazuma",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Anneau-des-Hakushin-guide-1.webp"
+  },
+  {
+    "nom": "Apparat de la forêt",
+    "url": "https://lagazettedeteyvat.fr/armes/apparat-de-la-foret/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Apparat-de-la-foret_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Forge, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Apparat-de-la-foret-guide.webp"
+  },
+  {
+    "nom": "Arc à poulies",
+    "url": "https://lagazettedeteyvat.fr/armes/arc-a-poulies/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-a-poulies_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Forge, Liyue",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-a-poulies-guide-1.webp"
+  },
+  {
+    "nom": "Arc courbé",
+    "url": "https://lagazettedeteyvat.fr/armes/arc-courbe/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-courbe_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Arc, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-courbe-guide-1.webp"
+  },
+  {
+    "nom": "Arc d'Amos",
+    "url": "https://lagazettedeteyvat.fr/armes/arc-d-amos/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-dAmos_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arc, Ganyu, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-dAmos-guide-1.webp"
+  },
+  {
+    "nom": "Arc d'exorcisme",
+    "url": "https://lagazettedeteyvat.fr/armes/arc-d-exorcisme/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-dexorcisme_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Forge, Inazuma",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-dexorcisme-guide.webp"
+  },
+  {
+    "nom": "Arc de chasse de Favonius",
+    "url": "https://lagazettedeteyvat.fr/armes/arc-de-chasse-de-favonius/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-de-chasse-de-Favonius_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-de-chasse-de-Favonius-guide-1.webp"
+  },
+  {
+    "nom": "Arc de chasse verdoyant",
+    "url": "https://lagazettedeteyvat.fr/armes/arc-de-chasse-verdoyant/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-de-chasse-verdoyant_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Pass de bataille",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-de-chasse-verdoyant-guide-1.webp"
+  },
+  {
+    "nom": "Arc de guerre de Rochenoire",
+    "url": "https://lagazettedeteyvat.fr/armes/arc-de-guerre-de-rochenoire/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-de-guerre-de-Rochenoire_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Boutique",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-de-guerre-de-Rochenoire-guide-1.webp"
+  },
+  {
+    "nom": "Arc du corbeau",
+    "url": "https://lagazettedeteyvat.fr/armes/arc-du-corbeau/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-du-corbeau_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Arc, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-du-corbeau-guide-1.webp"
+  },
+  {
+    "nom": "Arc rituel",
+    "url": "https://lagazettedeteyvat.fr/armes/arc-rituel/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-rituel_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-rituel-guide.webp"
+  },
+  {
+    "nom": "Arc rouillé",
+    "url": "https://lagazettedeteyvat.fr/armes/arc-rouille/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-rouille_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-rouille-guide-1.webp"
+  },
+  {
+    "nom": "Atlas de la Voûte d'Azur",
+    "url": "https://lagazettedeteyvat.fr/armes/atlas-de-la-voute-d-azur/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Atlas-de-la-Voute-dAzur_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Catalyseur, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Atlas-de-la-Voute-dAzur-guide-2.webp"
+  },
+  {
+    "nom": "Atlas des terres et des mers",
+    "url": "https://lagazettedeteyvat.fr/armes/atlas-des-terres-et-des-mers/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Atlas-des-terres-et-des-mers_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Forge, Liyue",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Atlas-des-terres-et-des-mers-guide-2.webp"
+  },
+  {
+    "nom": "Balise de la mer de roseaux",
+    "url": "https://lagazettedeteyvat.fr/armes/balise-de-la-mer-de-roseaux/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/01/Balise-de-la-mer-de-roseaux_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Dehya, Épée à deux mains, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/03/Balise-de-la-mer-de-roseaux-guide-1.webp"
+  },
+  {
+    "nom": "Ballade d'un azur infini",
+    "url": "https://lagazettedeteyvat.fr/armes/ballade-dun-azur-infini/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Ballade-dun-azur-infini_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Événement limité, Version 4.1",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Ballade-dun-azur-infini-guide.webp"
+  },
+  {
+    "nom": "Ballade des fjords",
+    "url": "https://lagazettedeteyvat.fr/armes/ballade-des-fjords/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Ballade-des-fjords_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Pass de bataille",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Ballade-des-fjords-guide-3.webp"
+  },
+  {
+    "nom": "Bâton bavard",
+    "url": "https://lagazettedeteyvat.fr/armes/baton-bavard/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Baton-bavard_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Pass de bataille",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Baton-bavard-guide.webp"
+  },
+  {
+    "nom": "Bâton de Homa",
+    "url": "https://lagazettedeteyvat.fr/armes/baton-de-homa/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Baton-de-Homa_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arme d'hast, Hu Tao, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Baton-de-Homa-guide.webp"
+  },
+  {
+    "nom": "Bâton des sables écarlates",
+    "url": "https://lagazettedeteyvat.fr/armes/baton-des-sables-ecarlates/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/09/Baton-des-sables-ecarlates_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arme d'hast, Cyno, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Baton-des-sables-ecarlates-guide-1.webp"
+  },
+  {
+    "nom": "Berge de la Voûte d'Azur",
+    "url": "https://lagazettedeteyvat.fr/armes/berge-de-la-voute-d-azur/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Berge-de-la-Voute-dAzur_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arme d'hast, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Berge-de-la-Voute-dAzur-guide-2.webp"
+  },
+  {
+    "nom": "Brise-chaîne",
+    "url": "https://lagazettedeteyvat.fr/armes/brise-chaine/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Brise-chaine_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Forge, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Brise-chaine-guide.webp"
+  },
+  {
+    "nom": "Brise-pierre de corne rouge",
+    "url": "https://lagazettedeteyvat.fr/armes/brise-pierre-de-corne-rouge/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Brise-pierre-de-corne-rouge_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arataki Itto, Épée à deux mains, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Brise-pierre-de-corne-rouge-guide-1.webp"
+  },
+  {
+    "nom": "Chaînes mortelles",
+    "url": "https://lagazettedeteyvat.fr/armes/chaines-mortelles/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Chaines-mortelles_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Catalyseur, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Chaines-mortelles-guide-1.webp"
+  },
+  {
+    "nom": "Chalutier",
+    "url": "https://lagazettedeteyvat.fr/armes/chalutier/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Chalutier_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Pêche",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Chalutier-guide-1.webp"
+  },
+  {
+    "nom": "Chanson de patrouille de sommet",
+    "url": "https://lagazettedeteyvat.fr/armes/chanson-de-patrouille-de-sommet/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Chanson-de-patrouille-de-sommet_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à une main, Natlan, Vœux limités, Xilonen",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Chanson-de-patrouille-de-sommet-guide-1.webp"
+  },
+  {
+    "nom": "Chant de quiétude",
+    "url": "https://lagazettedeteyvat.fr/armes/chant-de-quietude/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Chant-de-quietude_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Fontaine, Forge",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Chant-de-quietude-guide-1.webp"
+  },
+  {
+    "nom": "Clair de lune de Xiphos",
+    "url": "https://lagazettedeteyvat.fr/armes/clair-de-lune-de-xiphos/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/10/Clair-de-lune-de-Xiphos_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Clair-de-lune-de-Xiphos-guide.webp"
+  },
+  {
+    "nom": "Clé de Khaj-Nisut",
+    "url": "https://lagazettedeteyvat.fr/armes/cle-de-khaj-nisut/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/10/Cle-de-Khaj-Nisut_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à une main, Nilou, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Cle-de-Khaj-Nisut-guide.webp"
+  },
+  {
+    "nom": "Clou soutenant les montagnes",
+    "url": "https://lagazettedeteyvat.fr/armes/clou-soutenant-les-montagnes/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Clou-soutenant-les-montagnes_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Natlan, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Clou-soutenant-les-montagnes-guide.webp"
+  },
+  {
+    "nom": "Code de Favonius",
+    "url": "https://lagazettedeteyvat.fr/armes/code-de-favonius/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Code-de-Favonius_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Code-de-Favonius-guide.webp"
+  },
+  {
+    "nom": "Condamneur",
+    "url": "https://lagazettedeteyvat.fr/armes/condamneur/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Condamneur_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à deux mains, Navia, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Condamneur-guide-1.webp"
+  },
+  {
+    "nom": "Contes de Dodoco",
+    "url": "https://lagazettedeteyvat.fr/armes/contes-de-dodoco/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Contes-de-Dodoco_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Événement limité, Version 1.6",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Contes-de-Dodoco-guide.webp"
+  },
+  {
+    "nom": "Corde de pluie blanche",
+    "url": "https://lagazettedeteyvat.fr/armes/corde-de-pluie-blanche/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/05/Corde-de-pluie-blanche_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arc, Sigewinne, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Corde-de-pluie-blanche-guide-1.webp"
+  },
+  {
+    "nom": "Corne à boire cendrée",
+    "url": "https://lagazettedeteyvat.fr/armes/corne-a-boire-cendree/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Corne-a-boire-cendree_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Événement limité, Version 5.0",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Corne-a-boire-cendree-guide-1.webp"
+  },
+  {
+    "nom": "Coupeur de jade primordial",
+    "url": "https://lagazettedeteyvat.fr/armes/coupeur-de-jade-primordial/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Coupeur-de-jade-primordial_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à une main, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Coupeur-de-jade-primordial-guide.webp"
+  },
+  {
+    "nom": "Crépuscule couchant",
+    "url": "https://lagazettedeteyvat.fr/armes/crepuscule-couchant/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Crepuscule-couchant_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Événement limité, Version 2.7",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Crepuscule-couchant-guide-1.webp"
+  },
+  {
+    "nom": "Croc de loup",
+    "url": "https://lagazettedeteyvat.fr/armes/croc-de-loup/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Croc-de-loup_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Pass de bataille",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Croc-de-loup-guide-1.webp"
+  },
+  {
+    "nom": "Croc du roi de la montagne",
+    "url": "https://lagazettedeteyvat.fr/armes/croc-du-roi-de-la-montagne/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Croc-du-roi-de-la-montagne_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à deux mains, Kinich, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Croc-du-roi-de-la-montagne-guide.webp"
+  },
+  {
+    "nom": "Croc suppurant",
+    "url": "https://lagazettedeteyvat.fr/armes/croc-suppurant/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Croc-suppurant_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Événement limité, Version 1.2",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Croc-suppurant-guide-1.webp"
+  },
+  {
+    "nom": "Crochet fructueux",
+    "url": "https://lagazettedeteyvat.fr/armes/crochet-fructueux/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Crochet-fructueux_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Natlan, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Crochet-fructueux-guide-1.webp"
+  },
+  {
+    "nom": "Dernière corde",
+    "url": "https://lagazettedeteyvat.fr/armes/derniere-corde/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Derniere-corde_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Derniere-corde-guide.webp"
+  },
+  {
+    "nom": "Descendant du soleil flamboyant",
+    "url": "https://lagazettedeteyvat.fr/armes/descendant-du-soleil-flamboyant/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Descendant-du-soleil-flamboyant_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Pass de bataille",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Descendant-du-soleil-flamboyant-guide.webp"
+  },
+  {
+    "nom": "Dialogues des sages du désert",
+    "url": "https://lagazettedeteyvat.fr/armes/dialogues-des-sages-du-desert/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/02/Dialogues-des-sages-du-desert_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Événement limité, Version 4.5",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/03/Dialogues-des-sages-du-desert-guide-1.webp"
+  },
+  {
+    "nom": "Écho de la grue",
+    "url": "https://lagazettedeteyvat.fr/armes/echo-de-la-grue/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/01/Echo-de-la-grue_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Catalyseur, Vœux limités, Xianyun",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/02/Echo-de-la-grue-guide-1.webp"
+  },
+  {
+    "nom": "Éclair des impasses",
+    "url": "https://lagazettedeteyvat.fr/armes/eclair-des-impasses/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Eclair-des-impasses_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Eclair-des-impasses-guide-1.webp"
+  },
+  {
+    "nom": "Élégie de Lumidouce",
+    "url": "https://lagazettedeteyvat.fr/armes/elegie-de-lumidouce/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Elegie-de-Lumidouce_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arme d'hast, Émilie, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Elegie-de-Lumidouce-guide.webp"
+  },
+  {
+    "nom": "Épée antique des Millelithes",
+    "url": "https://lagazettedeteyvat.fr/armes/epee-antique-des-millelithes/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-antique-des-Millelithes_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-antique-des-Millelithes-guide.webp"
+  },
+  {
+    "nom": "Épée céleste",
+    "url": "https://lagazettedeteyvat.fr/armes/epee-celeste/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-celeste_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Épée à une main, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-celeste-guide.webp"
+  },
+  {
+    "nom": "Épée de Favonius",
+    "url": "https://lagazettedeteyvat.fr/armes/epee-de-favonius/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-de-Favonius_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-de-Favonius-guide.webp"
+  },
+  {
+    "nom": "Épée de la descente",
+    "url": "https://lagazettedeteyvat.fr/armes/epee-de-la-descente/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-de-la-descente_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, PlayStation",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-de-la-descente-guide.webp"
+  },
+  {
+    "nom": "Épée de la raison",
+    "url": "https://lagazettedeteyvat.fr/armes/epee-de-la-raison/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-de-la-raison_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Épée à deux mains, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-de-la-raison-guide-1.webp"
+  },
+  {
+    "nom": "Épée du faucon",
+    "url": "https://lagazettedeteyvat.fr/armes/epee-du-faucon/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-du-faucon_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à une main, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-du-faucon-guide-1.webp"
+  },
+  {
+    "nom": "Épée en fer noir",
+    "url": "https://lagazettedeteyvat.fr/armes/epee-en-fer-noir/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-en-fer-noir_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Dialogue, Épée à une main",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-en-fer-noir-guide-2.webp"
+  },
+  {
+    "nom": "Épée longue de Rochenoire",
+    "url": "https://lagazettedeteyvat.fr/armes/epee-longue-de-rochenoire/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-longue-de-Rochenoire_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Boutique, Épée à une main",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-longue-de-Rochenoire-guide-1.webp"
+  },
+  {
+    "nom": "Épée noire",
+    "url": "https://lagazettedeteyvat.fr/armes/epee-noire/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-noire_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Pass de bataille",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-noire-guide-1.webp"
+  },
+  {
+    "nom": "Épée rituelle",
+    "url": "https://lagazettedeteyvat.fr/armes/epee-rituelle/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-rituelle_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-rituelle-guide-1.webp"
+  },
+  {
+    "nom": "Épée sanglante",
+    "url": "https://lagazettedeteyvat.fr/armes/epee-sanglante/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-sanglante_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Épée à deux mains, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-sanglante-guide-1.webp"
+  },
+  {
+    "nom": "Épée-horloge",
+    "url": "https://lagazettedeteyvat.fr/armes/epee-horloge/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-horloge_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-horloge-guide.webp"
+  },
+  {
+    "nom": "Espadon (prototype)",
+    "url": "https://lagazettedeteyvat.fr/armes/espadon-prototype/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Espadon-prototype_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Forge, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Espadon-prototype-guide-2.webp"
+  },
+  {
+    "nom": "Espadon de Favonius",
+    "url": "https://lagazettedeteyvat.fr/armes/espadon-de-favonius/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Espadon-de-Favonius_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Espadon-de-Favonius-guide-1.webp"
+  },
+  {
+    "nom": "Espadon de Nagamasa",
+    "url": "https://lagazettedeteyvat.fr/armes/espadon-de-nagamasa/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Espadon-de-Nagamasa_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Forge, Inazuma",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Espadon-de-Nagamasa-guide.webp"
+  },
+  {
+    "nom": "Espadon rituel",
+    "url": "https://lagazettedeteyvat.fr/armes/espadon-rituel/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Espadon-rituel_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Espadon-rituel-guide-1.webp"
+  },
+  {
+    "nom": "Étoile du soir errante",
+    "url": "https://lagazettedeteyvat.fr/armes/etoile-du-soir-errante/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/10/Etoile-du-soir-errante_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Etoile-du-soir-errante-guide-2.webp"
+  },
+  {
+    "nom": "Étoile polaire",
+    "url": "https://lagazettedeteyvat.fr/armes/etoile-polaire/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Etoile-polaire_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arc, Tartaglia, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Etoile-polaire-guide-1.webp"
+  },
+  {
+    "nom": "Étouffeur de calamités",
+    "url": "https://lagazettedeteyvat.fr/armes/etouffeur-de-calamites/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Etouffeur-de-calamites_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arme d'hast, Shenhe, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Etouffeur-de-calamites-guide-3.webp"
+  },
+  {
+    "nom": "Fierté de la Voûte d'Azur",
+    "url": "https://lagazettedeteyvat.fr/armes/fierte-de-la-voute-d-azur/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Fierte-de-la-Voute-dAzur_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à deux mains, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fierte-de-la-Voute-dAzur-guide-1.webp"
+  },
+  {
+    "nom": "Final des profondeurs",
+    "url": "https://lagazettedeteyvat.fr/armes/final-des-profondeurs/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Final-des-profondeurs_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Fontaine, Forge",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Final-des-profondeurs-guide.webp"
+  },
+  {
+    "nom": "Fléau du dragon",
+    "url": "https://lagazettedeteyvat.fr/armes/fleau-du-dragon/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Fleau-du-dragon_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fleau-du-dragon-guide-2.webp"
+  },
+  {
+    "nom": "Fleur de mailles",
+    "url": "https://lagazettedeteyvat.fr/armes/fleur-de-mailles/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/01/Fleur-de-mailles_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Événement limité, Version 3.5",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/03/Fleur-de-mailles-guide.webp"
+  },
+  {
+    "nom": "Fluorescence",
+    "url": "https://lagazettedeteyvat.fr/armes/fluorescence/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Fluorescence_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fluorescence-guide.webp"
+  },
+  {
+    "nom": "Flûte",
+    "url": "https://lagazettedeteyvat.fr/armes/flute/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Flute_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Flute-guide-1.webp"
+  },
+  {
+    "nom": "Flûte d'ezpitzal",
+    "url": "https://lagazettedeteyvat.fr/armes/flute-dezpitzal/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Flute-dezpitzal_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Forge, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Flute-dezpitzal-guide-1.webp"
+  },
+  {
+    "nom": "Foret de prospecteur",
+    "url": "https://lagazettedeteyvat.fr/armes/foret-de-prospecteur/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Foret-de-prospecteur_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Foret-de-prospecteur-guide-2.webp"
+  },
+  {
+    "nom": "Fruit du permafrost",
+    "url": "https://lagazettedeteyvat.fr/armes/fruit-du-permafrost/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Fruit-du-permafrost_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Forge, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fruit-du-permafrost-guide-1.webp"
+  },
+  {
+    "nom": "Fuseau de cinabre",
+    "url": "https://lagazettedeteyvat.fr/armes/fuseau-de-cinabre/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Fuseau-de-cinabre_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Albedo, Épée à une main, Événement limité, Version 2.3",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fuseau-de-cinabre-guide.webp"
+  },
+  {
+    "nom": "Grande épée céleste",
+    "url": "https://lagazettedeteyvat.fr/armes/grande-epee-celeste/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Grande-epee-celeste_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Épée à deux mains, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Grande-epee-celeste-guide.webp"
+  },
+  {
+    "nom": "Grande épée en fer blanc",
+    "url": "https://lagazettedeteyvat.fr/armes/grande-epee-en-fer-blanc/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Grande-epee-en-fer-blanc_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Épée à deux mains, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Grande-epee-en-fer-blanc-guide.webp"
+  },
+  {
+    "nom": "Guide de magie",
+    "url": "https://lagazettedeteyvat.fr/armes/guide-de-magie/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Guide-de-magie_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Catalyseur, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Guide-de-magie-guide.webp"
+  },
+  {
+    "nom": "Guisarme stellaire (prototype)",
+    "url": "https://lagazettedeteyvat.fr/armes/guisarme-stellaire-prototype/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Guisarme-stellaire-prototype_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Forge, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Guisarme-stellaire-prototype-guide-2.webp"
+  },
+  {
+    "nom": "Hallebarde",
+    "url": "https://lagazettedeteyvat.fr/armes/hallebarde/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Hallebarde_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Arme d'hast, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hallebarde-guide-1.webp"
+  },
+  {
+    "nom": "Histoire des chasseurs de dragon",
+    "url": "https://lagazettedeteyvat.fr/armes/histoire-des-chasseurs-de-dragon/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Histoire-des-chasseurs-de-dragon_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Catalyseur, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Histoire-des-chasseurs-de-dragon-guide.webp"
+  },
+  {
+    "nom": "Illustre seigneur des mers",
+    "url": "https://lagazettedeteyvat.fr/armes/illustre-seigneur-des-mers/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Illustre-seigneur-des-mers_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Événement limité, Version 2.1",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Illustre-seigneur-des-mers-guide-1.webp"
+  },
+  {
+    "nom": "Instant surfant",
+    "url": "https://lagazettedeteyvat.fr/armes/instant-surfant/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Instant-surfant_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Catalyseur, Mualani, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Instant-surfant-guide-1.webp"
+  },
+  {
+    "nom": "Jade sacrificiel",
+    "url": "https://lagazettedeteyvat.fr/armes/jade-sacrificiel/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Jade-sacrificiel_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Pass de bataille",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Jade-sacrificiel-guide-3.webp"
+  },
+  {
+    "nom": "Jauge de portée",
+    "url": "https://lagazettedeteyvat.fr/armes/jauge-de-portee/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Jauge-de-portee_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Jauge-de-portee-guide-1.webp"
+  },
+  {
+    "nom": "Kagotsurube Isshin",
+    "url": "https://lagazettedeteyvat.fr/armes/kagotsurube-isshin/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/07/Kagotsurube-isshin_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Quête",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kagotsurube-isshin-guide-3.webp"
+  },
+  {
+    "nom": "L'assistant du docker",
+    "url": "https://lagazettedeteyvat.fr/armes/lassistant-du-docker/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Lassistant-du-docker_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Lassistant-du-docker-guide.webp"
+  },
+  {
+    "nom": "L'origine des Quatre Vents",
+    "url": "https://lagazettedeteyvat.fr/armes/l-origine-des-quatre-vents/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lorigine-des-Quatre-vents_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Catalyseur, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lorigine-des-Quatre-Vents-guide.webp"
+  },
+  {
+    "nom": "La calamité d'Eshu",
+    "url": "https://lagazettedeteyvat.fr/armes/la-calamite-d-eshu/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/La-calamite-dEshu_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Événement limité, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/La-calamite-dEshu-guide.webp"
+  },
+  {
+    "nom": "La première grande magie",
+    "url": "https://lagazettedeteyvat.fr/armes/la-premiere-grande-magie/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/La-premiere-grande-magie_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arc, Lyney, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/La-premiere-grande-magie-guide-1.webp"
+  },
+  {
+    "nom": "La prise",
+    "url": "https://lagazettedeteyvat.fr/armes/la-prise/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/La-prise_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Pêche",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/La-prise-guide-1.webp"
+  },
+  {
+    "nom": "La voie du chasseur",
+    "url": "https://lagazettedeteyvat.fr/armes/la-voie-du-chasseur/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/La-voie-du-chasseur_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arc, Tighnari, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/La-voie-du-chasseur-guide-1.webp"
+  },
+  {
+    "nom": "Lame brute",
+    "url": "https://lagazettedeteyvat.fr/armes/lame-brute/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lame-brute_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à deux mains, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-brute-guide-1.webp"
+  },
+  {
+    "nom": "Lame d'aubier",
+    "url": "https://lagazettedeteyvat.fr/armes/lame-d-aubier/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Lame-daubier_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Forge, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-daubier-guide-1.webp"
+  },
+  {
+    "nom": "Lame de la Voûte d'Azur",
+    "url": "https://lagazettedeteyvat.fr/armes/lame-de-la-voute-d-azur/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lame-de-la-Voute-dAzur_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à une main, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-de-la-Voute-dAzur-guide.webp"
+  },
+  {
+    "nom": "Lame du Narzissenkreuz",
+    "url": "https://lagazettedeteyvat.fr/armes/lame-du-narzissenkreuz/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Lame-du-Narzissenkreuz_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Quête",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Lame-du-Narzissenkreuz-guide.webp"
+  },
+  {
+    "nom": "Lame froide",
+    "url": "https://lagazettedeteyvat.fr/armes/lame-froide/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lame-froide_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Épée à une main, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-froide-guide.webp"
+  },
+  {
+    "nom": "Lame kageuchi d'Amenoma",
+    "url": "https://lagazettedeteyvat.fr/armes/lame-kageuchi-d-amenoma/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lame-kageuchi-dAmenoma_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Forge, Inazuma",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-kageuchi-dAmenoma-guide-1.webp"
+  },
+  {
+    "nom": "Lance de Favonius",
+    "url": "https://lagazettedeteyvat.fr/armes/lance-de-favonius/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lance-de-Favonius_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-de-Favonius-guide-2.webp"
+  },
+  {
+    "nom": "Lance de jade ailée",
+    "url": "https://lagazettedeteyvat.fr/armes/lance-de-jade-ailee/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lance-de-jade-ailee_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arme d'hast, Vœux, Xiao",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-de-jade-ailee-guide-2.webp"
+  },
+  {
+    "nom": "Lance de Rochenoire",
+    "url": "https://lagazettedeteyvat.fr/armes/lance-de-rochenoire/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lance-de-Rochenoire_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Boutique",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-de-Rochenoire-guide-3.webp"
+  },
+  {
+    "nom": "Lance des Millelithes",
+    "url": "https://lagazettedeteyvat.fr/armes/lance-des-millelithes/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lance-des-Millelithes_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-des-Millelithes-guide.webp"
+  },
+  {
+    "nom": "Lance Dosdragon",
+    "url": "https://lagazettedeteyvat.fr/armes/lance-dosdragon/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lance-Dosdragon_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Forge, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-dosdragon-guide-1.webp"
+  },
+  {
+    "nom": "Lance du vent saisonnier",
+    "url": "https://lagazettedeteyvat.fr/armes/lance-du-vent-saisonnier/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/09/Lance-du-vent-saisonnier_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Événement limité, Version 3.1",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-du-vent-saisonnier-guide-1.webp"
+  },
+  {
+    "nom": "Lance en croix de Kitain",
+    "url": "https://lagazettedeteyvat.fr/armes/lance-en-croix-de-kitain/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lance-en-croix-de-Kitain_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Forge, Inazuma",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-en-croix-de-Kitain-guide-2.webp"
+  },
+  {
+    "nom": "Lance-pierres",
+    "url": "https://lagazettedeteyvat.fr/armes/lance-pierres/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lance-pierres_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Arc, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-pierres-guide-1.webp"
+  },
+  {
+    "nom": "Le fruit de l'accomplissement",
+    "url": "https://lagazettedeteyvat.fr/armes/le-fruit-de-l-accomplissement/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Le-fruit-de-laccomplissement_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Forge, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Le-fruit-de-laccomplissement-guide-2.webp"
+  },
+  {
+    "nom": "Le valet du roi",
+    "url": "https://lagazettedeteyvat.fr/armes/le-valet-du-roi/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Le-valet-du-roi_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Forge, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Le-valet-du-roi-guide-1.webp"
+  },
+  {
+    "nom": "Lueur de la lune éternelle",
+    "url": "https://lagazettedeteyvat.fr/armes/lueur-de-la-lune-eternelle/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lueur-de-la-lune-eternelle_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Catalyseur, Sangonomiya Kokomi, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lueur-de-la-lune-eternelle-guide-2.webp"
+  },
+  {
+    "nom": "Lumière d'incision foliaire",
+    "url": "https://lagazettedeteyvat.fr/armes/lumiere-d-incision-foliaire/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/01/Lumiere-dincision-foliaire_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Alhaitham, Épée à une main, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lumiere-dincision-foliaire-guide.webp"
+  },
+  {
+    "nom": "Lumière du faucheur",
+    "url": "https://lagazettedeteyvat.fr/armes/lumiere-du-faucheur/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lumiere-du-faucheur_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arme d'hast, Shogun Raiden, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lumiere-du-faucheur-guide-2.webp"
+  },
+  {
+    "nom": "Lune de Mouun",
+    "url": "https://lagazettedeteyvat.fr/armes/lune-de-mouun/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lune-de-Mouun_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lune-de-Mouun-guide.webp"
+  },
+  {
+    "nom": "Lune ondulante de Futsu",
+    "url": "https://lagazettedeteyvat.fr/armes/lune-ondulante-de-futsu/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lune-ondulante-de-Futsu_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à une main, Kamisato Ayato, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lune-ondulante-de-Futsu-guide-1.webp"
+  },
+  {
+    "nom": "Lune paisible (prototype)",
+    "url": "https://lagazettedeteyvat.fr/armes/lune-paisible-prototype/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lune-paisible-prototype_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Forge, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lune-paisible-prototype-guide-1.webp"
+  },
+  {
+    "nom": "Malice (prototype)",
+    "url": "https://lagazettedeteyvat.fr/armes/malice-prototype/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Malice-prototype_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Forge, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Malice-prototype-guide.webp"
+  },
+  {
+    "nom": "Matinée flânée sous le soleil",
+    "url": "https://lagazettedeteyvat.fr/armes/matinee-flanee-sous-le-soleil/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Matinee-flanee-sous-le-soleil_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Catalyseur, Vœux limités, Yumemizuki Mizuki",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Matinee-flanee-sous-le-soleil-guide-1.webp"
+  },
+  {
+    "nom": "Mémoire de Tulaytullah",
+    "url": "https://lagazettedeteyvat.fr/armes/memoire-de-tulaytullah/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/11/Memoire-de-Tulaytullah_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Catalyseur, Nomade, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Memoire-de-Tulaytullah-guide.webp"
+  },
+  {
+    "nom": "Mémoires de rituels",
+    "url": "https://lagazettedeteyvat.fr/armes/memoires-de-rituels/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Memoires-de-rituels_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Memoires-de-rituels-guide-2.webp"
+  },
+  {
+    "nom": "Messager",
+    "url": "https://lagazettedeteyvat.fr/armes/messager/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Messager_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Arc, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Messager-guide.webp"
+  },
+  {
+    "nom": "Messager de l'Aube",
+    "url": "https://lagazettedeteyvat.fr/armes/messager-de-l-aube/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Messager-de-lAube_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Épée à une main, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Messager-de-laube-guide-1.webp"
+  },
+  {
+    "nom": "Mille rêves flottants",
+    "url": "https://lagazettedeteyvat.fr/armes/mille-reves-flottants/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/10/Mille-reves-flottants_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Catalyseur, Nahida, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Mille-reves-flottants-guide-2.webp"
+  },
+  {
+    "nom": "Mille soleils brûlants",
+    "url": "https://lagazettedeteyvat.fr/armes/mille-soleils-brulants/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Mille-soleils-brulants_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à deux mains, Mavuika, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Mille-soleils-brulants-guide.webp"
+  },
+  {
+    "nom": "Mort-du-loup",
+    "url": "https://lagazettedeteyvat.fr/armes/mort-du-loup/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Mort-du-loup_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à deux mains, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Mort-du-loup-guide-1.webp"
+  },
+  {
+    "nom": "Mouvement vagabond",
+    "url": "https://lagazettedeteyvat.fr/armes/mouvement-vagabond/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Mouvement-vagabond_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Mouvement-vagabond-guide-3.webp"
+  },
+  {
+    "nom": "Néphrite jumelle",
+    "url": "https://lagazettedeteyvat.fr/armes/nephrite-jumelle/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Nephrite-jumelle_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Catalyseur, Exploration",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Nephrite-jumelle-guide-1.webp"
+  },
+  {
+    "nom": "Nimbus-forgé",
+    "url": "https://lagazettedeteyvat.fr/armes/nimbus-forge/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/05/Nimbus-forge_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Événement limité, Version 4.7",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Nimbus-forge-guide-1.webp"
+  },
+  {
+    "nom": "Notions colorées",
+    "url": "https://lagazettedeteyvat.fr/armes/notions-colorees/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Notions-colorees_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Catalyseur, Varesa, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Notions-colorees-guide.webp"
+  },
+  {
+    "nom": "Ode au chant du vent",
+    "url": "https://lagazettedeteyvat.fr/armes/ode-au-chant-du-vent/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Ode-au-chant-du-vent_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à deux mains, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ode-au-chant-du-vent-guide.webp"
+  },
+  {
+    "nom": "Ode aux alizées",
+    "url": "https://lagazettedeteyvat.fr/armes/ode-aux-alizees/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Ode-aux-alizees_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Événement limité, Version 1.4",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ode-aux-alizees-guide.webp"
+  },
+  {
+    "nom": "Œil d'assermentation",
+    "url": "https://lagazettedeteyvat.fr/armes/oeil-d-assermentation/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/OEil-dassermentation_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Événement limité, Version 2.5",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/OEil-dassermentation-guide-3.webp"
+  },
+  {
+    "nom": "Œil de la perception",
+    "url": "https://lagazettedeteyvat.fr/armes/oeil-de-la-perception/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/OEil-de-la-perception_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/OEil-de-la-perception-guide-1.webp"
+  },
+  {
+    "nom": "Ombre ferreuse",
+    "url": "https://lagazettedeteyvat.fr/armes/ombre-ferreuse/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/01/Ombre-ferreuse_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Épée à deux mains, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ombre-ferreuse-guide-1.webp"
+  },
+  {
+    "nom": "Ombre immaculée",
+    "url": "https://lagazettedeteyvat.fr/armes/ombre-immaculee/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Ombre-immaculee_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Forge, Liyue",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ombre-immaculee-guide-1.webp"
+  },
+  {
+    "nom": "Ombre tidale",
+    "url": "https://lagazettedeteyvat.fr/armes/ombre-tidale/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Ombre-tidale_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Fontaine, Forge",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Ombre-tidale-guide-1.webp"
+  },
+  {
+    "nom": "Orbe jadien",
+    "url": "https://lagazettedeteyvat.fr/armes/orbe-jadien/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Orbe-jadien_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Catalyseur, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Orbe-jadien-guide-2.webp"
+  },
+  {
+    "nom": "Os robuste",
+    "url": "https://lagazettedeteyvat.fr/armes/os-robuste/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Os-robuste_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Natlan, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Os-robuste-guide-1.webp"
+  },
+  {
+    "nom": "Ossature du dragon",
+    "url": "https://lagazettedeteyvat.fr/armes/ossature-du-dragon/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Ossature-du-dragon_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Pass de bataille",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ossature-du-dragon-guide.webp"
+  },
+  {
+    "nom": "Pampille blanche",
+    "url": "https://lagazettedeteyvat.fr/armes/pampille-blanche/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Pampille-blanche_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Arme d'hast, Exploration",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Pampille-blanche-guide-3.webp"
+  },
+  {
+    "nom": "Pampille noire",
+    "url": "https://lagazettedeteyvat.fr/armes/pampille-noire/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Pampille-noire_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Arme d'hast, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Pampille-noire-guide-2.webp"
+  },
+  {
+    "nom": "Passeur du Fleuve cendré",
+    "url": "https://lagazettedeteyvat.fr/armes/passeur-du-fleuve-cendre/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Passeur-du-Fleuve-cendre_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Pêche",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Passeur-du-fleuve-cendre-guide-1.webp"
+  },
+  {
+    "nom": "Perce-lune",
+    "url": "https://lagazettedeteyvat.fr/armes/perce-lune/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Perce-lune_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Forge, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Perce-lune-guide-2.webp"
+  },
+  {
+    "nom": "Perceur d'ibis",
+    "url": "https://lagazettedeteyvat.fr/armes/perceur-d-ibis/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/04/Perceur-dibis_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Événement limité, Version 3.7",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/05/Perceur-dibis-guide.webp"
+  },
+  {
+    "nom": "Perceur prismatique",
+    "url": "https://lagazettedeteyvat.fr/armes/perceur-prismatique/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Perceur-prismatique_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arme d'hast, Vœux limités, Zhongli",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Perceur-prismatique-guide-2.webp"
+  },
+  {
+    "nom": "Perle solaire",
+    "url": "https://lagazettedeteyvat.fr/armes/perle-solaire/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Perle-solaire_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Pass de bataille",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Perle-solaire-guide-2.webp"
+  },
+  {
+    "nom": "Pique du croissant de lune",
+    "url": "https://lagazettedeteyvat.fr/armes/pique-du-croissant-de-lune/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Pique-du-croissant-de-lune_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Forge, Liyue",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Pique-du-croissant-de-lune-guide-1.webp"
+  },
+  {
+    "nom": "Piqûre de fer",
+    "url": "https://lagazettedeteyvat.fr/armes/piqure-de-fer/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Piqure-de-fer_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Forge, Liyue",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Piqure-de-fer-guide-1.webp"
+  },
+  {
+    "nom": "Pluie florale",
+    "url": "https://lagazettedeteyvat.fr/armes/pluie-florale/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/11/Pluie-florale_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Événement limité, Version 3.3",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Pluie-florale-guide-1.webp"
+  },
+  {
+    "nom": "Plumage cramoisi du vautour astral",
+    "url": "https://lagazettedeteyvat.fr/armes/plumage-cramoisi-du-vautour-astral/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/UI_EquipIcon_Arc_Plumage-cramoisi-du-vautour-astral.webp",
+    "rarete": "5★",
+    "description": "5★, Arc, Chasca, Natlan, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Plumage-cramoisi-du-vautour-astral-guide-1.webp"
+  },
+  {
+    "nom": "Plumard de fleurs",
+    "url": "https://lagazettedeteyvat.fr/armes/plumard-de-fleurs/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/UI_EquipIcon_Arc_Plumard-de-fleurs.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Natlan, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Plumard-de-fleurs-guide-1.webp"
+  },
+  {
+    "nom": "Predator",
+    "url": "https://lagazettedeteyvat.fr/armes/predator/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Predator_icone-1.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, PlayStation",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Predator-guide.webp"
+  },
+  {
+    "nom": "Pulsation du tonnerre",
+    "url": "https://lagazettedeteyvat.fr/armes/pulsation-du-tonnerre/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Pulsation-du-tonnerre_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arc, Vœux limités, Yoimiya",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Pulsation-du-tonnerre-guide-1.webp"
+  },
+  {
+    "nom": "Pureté fluide",
+    "url": "https://lagazettedeteyvat.fr/armes/purete-fluide/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Purete-fluide_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Fontaine, Forge",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Purete-fluide-guide-1.webp"
+  },
+  {
+    "nom": "Récompense légitime",
+    "url": "https://lagazettedeteyvat.fr/armes/recompense-legitime/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Recompense-legitime_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Fontaine, Forge",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Recompense-legitime-guide-1.webp"
+  },
+  {
+    "nom": "Reflet de tranche-brume",
+    "url": "https://lagazettedeteyvat.fr/armes/reflet-de-tranche-brume/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Reflet-de-tranche-brume_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à une main, Kamisato Ayaka, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Reflet-de-tranche-brume-guide-1.webp"
+  },
+  {
+    "nom": "Rugissement du Lion",
+    "url": "https://lagazettedeteyvat.fr/armes/rugissement-du-lion/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Rugissement-du-Lion_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Rugissement-du-lion-guide.webp"
+  },
+  {
+    "nom": "Scie électrique portative",
+    "url": "https://lagazettedeteyvat.fr/armes/scie-electrique-portative/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Scie-electrique-portative_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Scie-electrique-portative-guide.webp"
+  },
+  {
+    "nom": "Scion de la victoire",
+    "url": "https://lagazettedeteyvat.fr/armes/scion-de-la-victoire/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Scion-de-la-victoire_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Pass de bataille",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Scion-de-la-victoire-guide-2.webp"
+  },
+  {
+    "nom": "Semblance de la lune écarlate",
+    "url": "https://lagazettedeteyvat.fr/armes/semblance-de-la-lune-ecarlate/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/03/Semblance-de-la-lune-ecarlate_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arlecchino, Arme d'hast, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/03/Semblance-de-la-lune-ecarlate-guide-2.webp"
+  },
+  {
+    "nom": "Séquence de solitude",
+    "url": "https://lagazettedeteyvat.fr/armes/sequence-de-solitude/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Sequence-de-solitude_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arme d'hast, Escoffier, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Sequence-de-solitude-guide-1.webp"
+  },
+  {
+    "nom": "Serment de l'archer",
+    "url": "https://lagazettedeteyvat.fr/armes/serment-de-l-archer/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Serment-de-larcher_icone.webp",
+    "rarete": "3★",
+    "description": "3★, Arc, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Serment-de-larcher-guide-1.webp"
+  },
+  {
+    "nom": "Serment de la liberté",
+    "url": "https://lagazettedeteyvat.fr/armes/serment-de-la-liberte/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Serment-de-la-liberte_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à une main, Kaedehara Kazuha, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Serment-de-la-liberte-guide.webp"
+  },
+  {
+    "nom": "Simulacre d'eau",
+    "url": "https://lagazettedeteyvat.fr/armes/simulacre-d-eau/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Simulacre-deau_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arc, Vœux limités, Yelan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Simulacre-deau-guide-1.webp"
+  },
+  {
+    "nom": "Splendeur de l'azur",
+    "url": "https://lagazettedeteyvat.fr/armes/splendeur-de-l-azur/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/04/Splendeur-de-lazur_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Baizhu, Catalyseur, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/04/Splendeur-de-lazur-guide-2.webp"
+  },
+  {
+    "nom": "Splendeur des eaux calmes",
+    "url": "https://lagazettedeteyvat.fr/armes/splendeur-des-eaux-calmes/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Splendeur-des-eaux-calmes_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à une main, Furina, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Splendeur-des-eaux-calmes-guide.webp"
+  },
+  {
+    "nom": "Supervision de trésorerie",
+    "url": "https://lagazettedeteyvat.fr/armes/supervision-de-tresorerie/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Supervision-de-tresorerie_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Catalyseur, Vœux limités, Wriothesley",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Supervision-de-tresorerie-guide-1.webp"
+  },
+  {
+    "nom": "Symphoniste des senteurs",
+    "url": "https://lagazettedeteyvat.fr/armes/symphoniste-des-senteurs/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Symphoniste-des-senteurs_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arme d'hast, Escoffier, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Symphoniste-des-senteurs-guide-1.webp"
+  },
+  {
+    "nom": "Tailleur de pierre (prototype)",
+    "url": "https://lagazettedeteyvat.fr/armes/tailleur-de-pierre-prototype/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Tailleur-de-pierre-prototype_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à une main, Forge, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tailleur-de-pierre-prototype-guide-1.webp"
+  },
+  {
+    "nom": "Tamayuratei no Ohanashi",
+    "url": "https://lagazettedeteyvat.fr/armes/tamayuratei-no-ohanashi/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Tamayuratei-no-Ohanashi_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Événement limité, Version 5.4",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Tamayuratei-no-Ohanashi-guide.webp"
+  },
+  {
+    "nom": "Tombe-neige en argétoile",
+    "url": "https://lagazettedeteyvat.fr/armes/tombe-neige-en-argetoile/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Tombe-neige-en-argetoile_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Exploration, Forge, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tombe-neige-en-argetoile-guide-1.webp"
+  },
+  {
+    "nom": "Tome du flux éternel",
+    "url": "https://lagazettedeteyvat.fr/armes/tome-du-flux-eternel/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Tome-du-flux-eternel_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Catalyseur, Neuvillette, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Tome-du-flux-eternel-guide-3.webp"
+  },
+  {
+    "nom": "Tourbillon sur les vagues",
+    "url": "https://lagazettedeteyvat.fr/armes/tourbillon-sur-les-vagues/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/UI_EquipIcon_Catalyseur_Tourbillon-sur-les-vagues.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Natlan, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Tourbillon-sur-les-vagues-guide.webp"
+  },
+  {
+    "nom": "Trace d'arc-en-ciel",
+    "url": "https://lagazettedeteyvat.fr/armes/trace-darc-en-ciel/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Trace-darc-en-ciel_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arme d'hast, Forge, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Trace-darc-en-ciel-guide.webp"
+  },
+  {
+    "nom": "Tranche-Sommets",
+    "url": "https://lagazettedeteyvat.fr/armes/tranche-sommets/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Tranche-sommets_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Épée à une main, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tranche-sommets-guide.webp"
+  },
+  {
+    "nom": "Trancheuse de Rochenoire",
+    "url": "https://lagazettedeteyvat.fr/armes/trancheuse-de-rochenoire/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Trancheuse-de-Rochenoire_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Boutique, Épée à deux mains",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Trancheuse-de-Rochenoire-guide-1.webp"
+  },
+  {
+    "nom": "Traqueur des impasses",
+    "url": "https://lagazettedeteyvat.fr/armes/traqueur-des-impasses/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Traqueur-des-impasses_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Traqueur-des-impasses-guide-1.webp"
+  },
+  {
+    "nom": "Trembleur de terre",
+    "url": "https://lagazettedeteyvat.fr/armes/trembleur-de-terre/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Trembleur-de-terre_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Épée à deux mains, Forge, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Trembleur-de-terre-guide-1.webp"
+  },
+  {
+    "nom": "Ultime soupir",
+    "url": "https://lagazettedeteyvat.fr/armes/ultime-soupir/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Ultime-soupir_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Arc, Venti, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ultime-soupir-guide-1.webp"
+  },
+  {
+    "nom": "Uraku Misugiri",
+    "url": "https://lagazettedeteyvat.fr/armes/uraku-misugiri/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/02/Uraku-Misugiri_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Chiori, Épée à une main, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/03/Uraku-Misugiri-guide.webp"
+  },
+  {
+    "nom": "Valse nocturne",
+    "url": "https://lagazettedeteyvat.fr/armes/valse-nocturne/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Valse-nocturne_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Arc, Fischl, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Valse-noctune-guide.webp"
+  },
+  {
+    "nom": "Veillée d'appel d'étoiles",
+    "url": "https://lagazettedeteyvat.fr/armes/veillee-dappel-detoiles/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Veillee-dappel-detoiles_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Catalyseur, Citlali, Natlan, Vœux limités",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Veillee-dappel-detoiles-guide-1.webp"
+  },
+  {
+    "nom": "Vérité de Kagura",
+    "url": "https://lagazettedeteyvat.fr/armes/verite-de-kagura/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Verite-de-Kagura_icone.webp",
+    "rarete": "5★",
+    "description": "5★, Catalyseur, Vœux limités, Yae Miko",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Verite-de-Kagura-guide.webp"
+  },
+  {
+    "nom": "Vins et chants",
+    "url": "https://lagazettedeteyvat.fr/armes/vins-et-chants/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Vins-et-chants_icone.webp",
+    "rarete": "4★",
+    "description": "4★, Catalyseur, Vœux",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Vins-et-chants-guide.webp"
+  }
+]

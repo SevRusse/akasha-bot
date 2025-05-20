@@ -1,0 +1,834 @@
+[
+  {
+    "nom": "Albedo",
+    "url": "https://lagazettedeteyvat.fr/personnages/albedo/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
+    "element": "Géo",
+    "description": "5★, Albedo, Épée à une main, Géo, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Albedo_build.webp"
+  },
+  {
+    "nom": "Alhaitham",
+    "url": "https://lagazettedeteyvat.fr/personnages/alhaitham/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
+    "element": "Dendro",
+    "description": "5★, Alhaitham, Dendro, Épée à une main, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Alhaitham_build.png"
+  },
+  {
+    "nom": "Aloy",
+    "url": "https://lagazettedeteyvat.fr/personnages/aloy/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "5★, Aloy, Arc, Cryo, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Aloy_MDPS-Cryo_build.webp"
+  },
+  {
+    "nom": "Amber",
+    "url": "https://lagazettedeteyvat.fr/personnages/amber/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "4★, Amber, Arc, Mondstadt, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Amber_MDPS-Pyro_build.webp"
+  },
+  {
+    "nom": "Arataki Itto",
+    "url": "https://lagazettedeteyvat.fr/personnages/arataki-itto/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
+    "element": "Géo",
+    "description": "5★, Arataki Itto, Épée à deux mains, Géo, Inazuma",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arataki-Itto_build.webp"
+  },
+  {
+    "nom": "Arlecchino",
+    "url": "https://lagazettedeteyvat.fr/personnages/arlecchino/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "5★, Arlecchino, Arme d'hast, Fontaine, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/04/Arlecchino_build.webp"
+  },
+  {
+    "nom": "Baizhu",
+    "url": "https://lagazettedeteyvat.fr/personnages/baizhu/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
+    "element": "Dendro",
+    "description": "5★, Baizhu, Catalyseur, Dendro, Liyue",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/04/Baizhu_build.webp"
+  },
+  {
+    "nom": "Barbara",
+    "url": "https://lagazettedeteyvat.fr/personnages/barbara/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
+    "element": "Hydro",
+    "description": "4★, Barbara, Catalyseur, Hydro, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Barbara_Support-Healer_build.webp"
+  },
+  {
+    "nom": "Beidou",
+    "url": "https://lagazettedeteyvat.fr/personnages/beidou/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "4★, Beidou, Électro, Épée à deux mains, Liyue",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Beidou_build.webp"
+  },
+  {
+    "nom": "Bennett",
+    "url": "https://lagazettedeteyvat.fr/personnages/bennett/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "4★, Bennett, Épée à une main, Mondstadt, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Bennett_Healer-Buffer_build.webp"
+  },
+  {
+    "nom": "Candace",
+    "url": "https://lagazettedeteyvat.fr/personnages/candace/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
+    "element": "Hydro",
+    "description": "4★, Arme d'hast, Candace, Hydro, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Candace_Support-Buffer_build.webp"
+  },
+  {
+    "nom": "Charlotte",
+    "url": "https://lagazettedeteyvat.fr/personnages/charlotte/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "4★, Catalyseur, Charlotte, Cryo, Fontaine",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Charlotte_build.webp"
+  },
+  {
+    "nom": "Chasca",
+    "url": "https://lagazettedeteyvat.fr/personnages/chasca/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "5★, Anémo, Arc, Chasca, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Chasca_build.webp"
+  },
+  {
+    "nom": "Chevreuse",
+    "url": "https://lagazettedeteyvat.fr/personnages/chevreuse/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "4★, Arme d'hast, Chevreuse, Fontaine, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/01/Chevreuse_build.webp"
+  },
+  {
+    "nom": "Chiori",
+    "url": "https://lagazettedeteyvat.fr/personnages/chiori/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
+    "element": "Géo",
+    "description": "5★, Chiori, Épée à une main, Fontaine, Géo",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/03/Chiori_build.webp"
+  },
+  {
+    "nom": "Chongyun",
+    "url": "https://lagazettedeteyvat.fr/personnages/chongyun/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "4★, Chongyun, Cryo, Épée à deux mains, Liyue",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Chongyun_build.webp"
+  },
+  {
+    "nom": "Citlali",
+    "url": "https://lagazettedeteyvat.fr/personnages/citlali/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "5★, Catalyseur, Citlali, Cryo, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Citlali_build.webp"
+  },
+  {
+    "nom": "Clorinde",
+    "url": "https://lagazettedeteyvat.fr/personnages/clorinde/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "5★, Clorinde, Électro, Épée à une main, Fontaine",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Clorinde_build.webp"
+  },
+  {
+    "nom": "Collei",
+    "url": "https://lagazettedeteyvat.fr/personnages/collei/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
+    "element": "Dendro",
+    "description": "4★, Arc, Collei, Dendro, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Collei_build.webp"
+  },
+  {
+    "nom": "Cyno",
+    "url": "https://lagazettedeteyvat.fr/personnages/cyno/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "5★, Arme d'hast, Cyno, Électro, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Cyno_build.webp"
+  },
+  {
+    "nom": "Dehya",
+    "url": "https://lagazettedeteyvat.fr/personnages/dehya/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "5★, Dehya, Épée à deux mains, Pyro, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Dehya_Sub-DPS-Burst-DPS_build.webp"
+  },
+  {
+    "nom": "Diluc",
+    "url": "https://lagazettedeteyvat.fr/personnages/diluc/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "5★, Diluc, Épée à deux mains, Mondstadt, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Diluc_build.webp"
+  },
+  {
+    "nom": "Diona",
+    "url": "https://lagazettedeteyvat.fr/personnages/diona/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "4★, Arc, Cryo, Diona, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Diona_build.webp"
+  },
+  {
+    "nom": "Dori",
+    "url": "https://lagazettedeteyvat.fr/personnages/dori/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "4★, Dori, Électro, Épée à deux mains, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Dori_build.webp"
+  },
+  {
+    "nom": "Émilie",
+    "url": "https://lagazettedeteyvat.fr/personnages/emilie/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
+    "element": "Dendro",
+    "description": "5★, Arme d'hast, Dendro, Émilie, Fontaine",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Emilie_build-1.webp"
+  },
+  {
+    "nom": "Escoffier",
+    "url": "https://lagazettedeteyvat.fr/personnages/escoffier/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "5★, Arme d'hast, Cryo, Escoffier, Fontaine",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Escoffier_build.webp"
+  },
+  {
+    "nom": "Eula",
+    "url": "https://lagazettedeteyvat.fr/personnages/eula/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "5★, Cryo, Épée à deux mains, Eula, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Eula_build.webp"
+  },
+  {
+    "nom": "Faruzan",
+    "url": "https://lagazettedeteyvat.fr/personnages/faruzan/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "4★, Anémo, Arc, Faruzan, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Faruzan_build.webp"
+  },
+  {
+    "nom": "Fischl",
+    "url": "https://lagazettedeteyvat.fr/personnages/fischl/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "4★, Arc, Électro, Fischl, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fischl_Batterie-Sub-DPS_build.webp"
+  },
+  {
+    "nom": "Fréminet",
+    "url": "https://lagazettedeteyvat.fr/personnages/freminet/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "4★, Cryo, Épée à deux mains, Fontaine, Fréminet",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Freminet_build-1.webp"
+  },
+  {
+    "nom": "Furina",
+    "url": "https://lagazettedeteyvat.fr/personnages/furina/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
+    "element": "Hydro",
+    "description": "5★, Épée à une main, Fontaine, Furina, Hydro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Furina_build.webp"
+  },
+  {
+    "nom": "Gaming",
+    "url": "https://lagazettedeteyvat.fr/personnages/gaming/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "4★, Épée à deux mains, Gaming, Liyue, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/01/Gaming_build.webp"
+  },
+  {
+    "nom": "Ganyu",
+    "url": "https://lagazettedeteyvat.fr/personnages/ganyu/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "5★, Arc, Cryo, Ganyu, Liyue",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ganyu_MDPS-Cryo-Fonte_build.webp"
+  },
+  {
+    "nom": "Gorou",
+    "url": "https://lagazettedeteyvat.fr/personnages/gorou/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
+    "element": "Géo",
+    "description": "4★, Arc, Géo, Gorou, Inazuma",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Gorou_build.webp"
+  },
+  {
+    "nom": "Hu Tao",
+    "url": "https://lagazettedeteyvat.fr/personnages/hu-tao/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "5★, Arme d'hast, Hu Tao, Liyue, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hu-Tao_build.webp"
+  },
+  {
+    "nom": "Iansan",
+    "url": "https://lagazettedeteyvat.fr/personnages/iansan/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "4★, Arme d'hast, Électro, Iansan, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Iansan_build.webp"
+  },
+  {
+    "nom": "Ifa",
+    "url": "https://lagazettedeteyvat.fr/personnages/ifa/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "4★, Anémo, Catalyseur, Ifa, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Ifa_build.webp"
+  },
+  {
+    "nom": "Jean",
+    "url": "https://lagazettedeteyvat.fr/personnages/jean/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "5★, Anémo, Épée à une main, Jean, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Jean_Support-Anemo-Healer_build-1.webp"
+  },
+  {
+    "nom": "Kachina",
+    "url": "https://lagazettedeteyvat.fr/personnages/kachina/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
+    "element": "Géo",
+    "description": "4★, Arme d'hast, Géo, Kachina, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Kachina_build.webp"
+  },
+  {
+    "nom": "Kaedehara Kazuha",
+    "url": "https://lagazettedeteyvat.fr/personnages/kaedehara-kazuha/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "5★, Anémo, Épée à une main, Inazuma, Kaedehara Kazuha",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kaedehara-Kazuha_build.webp"
+  },
+  {
+    "nom": "Kaeya",
+    "url": "https://lagazettedeteyvat.fr/personnages/kaeya/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "4★, Cryo, Épée à une main, Kaeya, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kaeya_Support-Sub-DPS_build.webp"
+  },
+  {
+    "nom": "Kamisato Ayaka",
+    "url": "https://lagazettedeteyvat.fr/personnages/kamisato-ayaka/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "5★, Cryo, Épée à une main, Inazuma, Kamisato Ayaka",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kamisato-Ayaka_build.webp"
+  },
+  {
+    "nom": "Kamisato Ayato",
+    "url": "https://lagazettedeteyvat.fr/personnages/kamisato-ayato/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
+    "element": "Hydro",
+    "description": "5★, Épée à une main, Hydro, Inazuma, Kamisato Ayato",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kamisato-Ayato_build.webp"
+  },
+  {
+    "nom": "Kaveh",
+    "url": "https://lagazettedeteyvat.fr/personnages/kaveh/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
+    "element": "Dendro",
+    "description": "4★, Dendro, Épée à deux mains, Kaveh, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/04/Kaveh_build.webp"
+  },
+  {
+    "nom": "Keqing",
+    "url": "https://lagazettedeteyvat.fr/personnages/keqing/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "5★, Électro, Épée à une main, Keqing, Liyue",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Keqing_MDPS-Electro_build.webp"
+  },
+  {
+    "nom": "Kinich",
+    "url": "https://lagazettedeteyvat.fr/personnages/kinich/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
+    "element": "Dendro",
+    "description": "5★, Dendro, Épée à deux mains, Kinich, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Kinich_build.webp"
+  },
+  {
+    "nom": "Kirara",
+    "url": "https://lagazettedeteyvat.fr/personnages/kirara/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
+    "element": "Dendro",
+    "description": "4★, Dendro, Épée à une main, Inazuma, Kirara",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/05/Kirara_build.webp"
+  },
+  {
+    "nom": "Klee",
+    "url": "https://lagazettedeteyvat.fr/personnages/klee/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "5★, Catalyseur, Klee, Mondstadt, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Klee_MDPS-Pyro_build.webp"
+  },
+  {
+    "nom": "Kujou Sara",
+    "url": "https://lagazettedeteyvat.fr/personnages/kujou-sara/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "4★, Arc, Électro, Inazuma, Kujou Sara",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kujou-Sara_build.webp"
+  },
+  {
+    "nom": "Kuki Shinobu",
+    "url": "https://lagazettedeteyvat.fr/personnages/kuki-shinobu/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "4★, Électro, Épée à une main, Inazuma, Kuki Shinobu",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kuki-Shinobu_build.webp"
+  },
+  {
+    "nom": "Lan Yan",
+    "url": "https://lagazettedeteyvat.fr/personnages/lan-yan/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "4★, Anémo, Catalyseur, Lan Yan, Liyue",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Lan_Yan_build.webp"
+  },
+  {
+    "nom": "Layla",
+    "url": "https://lagazettedeteyvat.fr/personnages/layla/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "4★, Cryo, Épée à une main, Fontaine, Layla",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Layla_Support-Shielder_build.webp"
+  },
+  {
+    "nom": "Lisa",
+    "url": "https://lagazettedeteyvat.fr/personnages/lisa/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "4★, Catalyseur, Électro, Lisa, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lisa_MDPS-Electro_build-1.webp"
+  },
+  {
+    "nom": "Lynette",
+    "url": "https://lagazettedeteyvat.fr/personnages/lynette/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "4★, Anémo, Épée à une main, Fontaine, Lynette",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Lynette_Support-Anemo-ME_build-1.webp"
+  },
+  {
+    "nom": "Lyney",
+    "url": "https://lagazettedeteyvat.fr/personnages/lyney/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "5★, Arc, Fontaine, Lyney, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Lyney_build.webp"
+  },
+  {
+    "nom": "Mavuika",
+    "url": "https://lagazettedeteyvat.fr/personnages/mavuika/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "5★, Épée à deux mains, Mavuika, Natlan, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Mavuika_build-MDPS-1.webp"
+  },
+  {
+    "nom": "Mika",
+    "url": "https://lagazettedeteyvat.fr/personnages/mika/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "4★, Arme d'hast, Cryo, Mika, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/03/Mika_build.webp"
+  },
+  {
+    "nom": "Mona",
+    "url": "https://lagazettedeteyvat.fr/personnages/mona/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
+    "element": "Hydro",
+    "description": "5★, Catalyseur, Hydro, Mona, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Mona_Support-Buffer_build.webp"
+  },
+  {
+    "nom": "Mualani",
+    "url": "https://lagazettedeteyvat.fr/personnages/mualani/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
+    "element": "Hydro",
+    "description": "5★, Catalyseur, Hydro, Mualani, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Mualani_build.webp"
+  },
+  {
+    "nom": "Nahida",
+    "url": "https://lagazettedeteyvat.fr/personnages/nahida/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
+    "element": "Dendro",
+    "description": "5★, Catalyseur, Dendro, Nahida, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Nahida_build.webp"
+  },
+  {
+    "nom": "Navia",
+    "url": "https://lagazettedeteyvat.fr/personnages/navia/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
+    "element": "Géo",
+    "description": "5★, Épée à deux mains, Fontaine, Géo, Navia",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Navia_build.webp"
+  },
+  {
+    "nom": "Neuvillette",
+    "url": "https://lagazettedeteyvat.fr/personnages/neuvillette/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
+    "element": "Hydro",
+    "description": "5★, Catalyseur, Fontaine, Hydro, Neuvillette",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Neuvillette_build.webp"
+  },
+  {
+    "nom": "Nilou",
+    "url": "https://lagazettedeteyvat.fr/personnages/nilou/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
+    "element": "Hydro",
+    "description": "5★, Épée à une main, Hydro, Nilou, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Nilou_build.webp"
+  },
+  {
+    "nom": "Ningguang",
+    "url": "https://lagazettedeteyvat.fr/personnages/ningguang/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
+    "element": "Géo",
+    "description": "4★, Catalyseur, Géo, Liyue, Ningguang",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Ningguang_build.webp"
+  },
+  {
+    "nom": "Noëlle",
+    "url": "https://lagazettedeteyvat.fr/personnages/noelle/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
+    "element": "Géo",
+    "description": "4★, Épée à deux mains, Géo, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Noelle_MDPS-Geo-C6_build-1.webp"
+  },
+  {
+    "nom": "Nomade",
+    "url": "https://lagazettedeteyvat.fr/personnages/nomade/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "5★, Anémo, Catalyseur, Nomade, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Nomade_build.webp"
+  },
+  {
+    "nom": "Ororon",
+    "url": "https://lagazettedeteyvat.fr/personnages/ororon/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "4★, Arc, Électro, Natlan, Ororon",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Ororon_build.webp"
+  },
+  {
+    "nom": "Qiqi",
+    "url": "https://lagazettedeteyvat.fr/personnages/qiqi/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "5★, Cryo, Épée à une main, Liyue, Qiqi",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Qiqi_build.webp"
+  },
+  {
+    "nom": "Razor",
+    "url": "https://lagazettedeteyvat.fr/personnages/razor/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "4★, Électro, Épée à deux mains, Mondstadt, Razor",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Razor_MDPS-Physique_build.webp"
+  },
+  {
+    "nom": "Rosalia",
+    "url": "https://lagazettedeteyvat.fr/personnages/rosalia/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "4★, Arme d'hast, Cryo, Mondstadt, Rosalia",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Rosalia_Support-Sub-DPS_build.webp"
+  },
+  {
+    "nom": "Sangonomiya Kokomi",
+    "url": "https://lagazettedeteyvat.fr/personnages/sangonomiya-kokomi/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
+    "element": "Hydro",
+    "description": "5★, Catalyseur, Hydro, Inazuma, Sangonomiya Kokomi",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Sangonomiya-Kokomi_Support-Healer_build.webp"
+  },
+  {
+    "nom": "Sayu",
+    "url": "https://lagazettedeteyvat.fr/personnages/sayu/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "4★, Anémo, Épée à deux mains, Inazuma, Sayu",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Sayu_build.webp"
+  },
+  {
+    "nom": "Sethos",
+    "url": "https://lagazettedeteyvat.fr/personnages/sethos/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "4★, Arc, Électro, Sethos, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Sethos_build.webp"
+  },
+  {
+    "nom": "Shenhe",
+    "url": "https://lagazettedeteyvat.fr/personnages/shenhe/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "5★, Arme d'hast, Cryo, Liyue, Shenhe",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Shenhe_build.webp"
+  },
+  {
+    "nom": "Shikanoin Heizou",
+    "url": "https://lagazettedeteyvat.fr/personnages/shikanoin-heizou/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "4★, Anémo, Catalyseur, Inazuma, Shikanoin Heizou",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Shikanoin-Heizou_build.webp"
+  },
+  {
+    "nom": "Shogun Raiden",
+    "url": "https://lagazettedeteyvat.fr/personnages/shogun-raiden/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "5★, Arme d'hast, Électro, Inazuma, Shogun Raiden",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Shogun-Raiden_Batterie-Burst-DPS_build.webp"
+  },
+  {
+    "nom": "Sigewinne",
+    "url": "https://lagazettedeteyvat.fr/personnages/sigewinne/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
+    "element": "Hydro",
+    "description": "5★, Arc, Fontaine, Hydro, Sigewinne",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Sigewinne_build.webp"
+  },
+  {
+    "nom": "Sucrose",
+    "url": "https://lagazettedeteyvat.fr/personnages/sucrose/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "4★, Anémo, Catalyseur, Mondstadt, Sucrose",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Sucrose_build.webp"
+  },
+  {
+    "nom": "Tartaglia",
+    "url": "https://lagazettedeteyvat.fr/personnages/tartaglia/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
+    "element": "Hydro",
+    "description": "5★, Arc, Hydro, Liyue, Tartaglia",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tartaglia_build.webp"
+  },
+  {
+    "nom": "Thomas",
+    "url": "https://lagazettedeteyvat.fr/personnages/thomas/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "4★, Arme d'hast, Inazuma, Pyro, Thomas",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Thomas_Support-Shielder_build.webp"
+  },
+  {
+    "nom": "Tighnari",
+    "url": "https://lagazettedeteyvat.fr/personnages/tighnari/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
+    "element": "Dendro",
+    "description": "5★, Arc, Dendro, Sumeru, Tighnari",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tighnari_build.webp"
+  },
+  {
+    "nom": "Varesa",
+    "url": "https://lagazettedeteyvat.fr/personnages/varesa/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "5★, Catalyseur, Électro, Natlan, Varesa",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Varesa_build.webp"
+  },
+  {
+    "nom": "Venti",
+    "url": "https://lagazettedeteyvat.fr/personnages/venti/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "5★, Anémo, Arc, Mondstadt, Venti",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Venti_Support-Anemo-ME_build-1.webp"
+  },
+  {
+    "nom": "Voyageur Anémo",
+    "url": "https://lagazettedeteyvat.fr/personnages/voyageur-anemo/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "5★, Anémo, Épée à une main, Mondstadt, Voyageur Anémo",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Anemo_build-1.webp"
+  },
+  {
+    "nom": "Voyageur Dendro",
+    "url": "https://lagazettedeteyvat.fr/personnages/voyageur-dendro/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
+    "element": "Dendro",
+    "description": "5★, Dendro, Épée à une main, Sumeru, Voyageur Dendro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Dendro_build.webp"
+  },
+  {
+    "nom": "Voyageur Électro",
+    "url": "https://lagazettedeteyvat.fr/personnages/voyageur-electro/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "5★, Électro, Épée à une main, Inazuma, Voyageur Électro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Electro_build-1.webp"
+  },
+  {
+    "nom": "Voyageur Géo",
+    "url": "https://lagazettedeteyvat.fr/personnages/voyageur-geo/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
+    "element": "Géo",
+    "description": "5★, Épée à une main, Géo, Liyue, Voyageur Géo",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Geo_build-1.webp"
+  },
+  {
+    "nom": "Voyageur Hydro",
+    "url": "https://lagazettedeteyvat.fr/personnages/voyageur-hydro/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
+    "element": "Hydro",
+    "description": "5★, Épée à une main, Fontaine, Hydro, Voyageur Hydro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Voyageur-Hydro_build.webp"
+  },
+  {
+    "nom": "Voyageur Pyro",
+    "url": "https://lagazettedeteyvat.fr/personnages/voyageur-pyro/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "5★, Épée à une main, Natlan, Pyro, Voyageur Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Voyageur-Pyro_build.webp"
+  },
+  {
+    "nom": "Wriothesley",
+    "url": "https://lagazettedeteyvat.fr/personnages/wriothesley/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
+    "element": "Cryo",
+    "description": "5★, Catalyseur, Cryo, Fontaine, Wriothesley",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Wriothesley_MDPS-Cryo-Fonte_build.webp"
+  },
+  {
+    "nom": "Xiangling",
+    "url": "https://lagazettedeteyvat.fr/personnages/xiangling/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "4★, Arme d'hast, Liyue, Pyro, Xiangling",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xiangling_build.webp"
+  },
+  {
+    "nom": "Xianyun",
+    "url": "https://lagazettedeteyvat.fr/personnages/xianyun/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "5★, Anémo, Catalyseur, Liyue, Xianyun",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/01/Xianyun_build.webp"
+  },
+  {
+    "nom": "Xiao",
+    "url": "https://lagazettedeteyvat.fr/personnages/xiao/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "5★, Anémo, Arme d'hast, Liyue, Xiao",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xiao_build.webp"
+  },
+  {
+    "nom": "Xilonen",
+    "url": "https://lagazettedeteyvat.fr/personnages/xilonen/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
+    "element": "Géo",
+    "description": "5★, Épée à une main, Géo, Natlan, Xilonen",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/10/Xilonen_support_build.webp"
+  },
+  {
+    "nom": "Xingqiu",
+    "url": "https://lagazettedeteyvat.fr/personnages/xingqiu/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
+    "element": "Hydro",
+    "description": "4★, Épée à une main, Hydro, Liyue, Xingqiu",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xingqiu_build.webp"
+  },
+  {
+    "nom": "Xinyan",
+    "url": "https://lagazettedeteyvat.fr/personnages/xinyan/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "4★, Épée à deux mains, Liyue, Pyro, Xinyan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xinyan_Support-Shielder_build.webp"
+  },
+  {
+    "nom": "Yae Miko",
+    "url": "https://lagazettedeteyvat.fr/personnages/yae-miko/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
+    "element": "Électro",
+    "description": "5★, Catalyseur, Électro, Inazuma, Yae Miko",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yae-Miko_build.webp"
+  },
+  {
+    "nom": "Yanfei",
+    "url": "https://lagazettedeteyvat.fr/personnages/yanfei/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "4★, Catalyseur, Liyue, Pyro, Yanfei",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yanfei_MDPS-Pyro_build.webp"
+  },
+  {
+    "nom": "Yaoyao",
+    "url": "https://lagazettedeteyvat.fr/personnages/yaoyao/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
+    "element": "Dendro",
+    "description": "4★, Arme d'hast, Dendro, Liyue, Yaoyao",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yaoyao_Support-Healer_build.webp"
+  },
+  {
+    "nom": "Yelan",
+    "url": "https://lagazettedeteyvat.fr/personnages/yelan/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
+    "element": "Hydro",
+    "description": "5★, Arc, Hydro, Liyue, Yelan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yelan_build.webp"
+  },
+  {
+    "nom": "Yoimiya",
+    "url": "https://lagazettedeteyvat.fr/personnages/yoimiya/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
+    "element": "Pyro",
+    "description": "5★, Arc, Liyue, Pyro, Yoimiya",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yoimiya_build.webp"
+  },
+  {
+    "nom": "Yumemizuki Mizuki",
+    "url": "https://lagazettedeteyvat.fr/personnages/yumemizuki-mizuki/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
+    "element": "Anémo",
+    "description": "5★, Anémo, Catalyseur, Inazuma, Yumemizuki Mizuki",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Yumemizuki-Mizuki_build.webp"
+  },
+  {
+    "nom": "Yun Jin",
+    "url": "https://lagazettedeteyvat.fr/personnages/yun-jin/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
+    "element": "Géo",
+    "description": "4★, Arme d'hast, Géo, Liyue, Yun Jin",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yun-Jin_build.webp"
+  },
+  {
+    "nom": "Zhongli",
+    "url": "https://lagazettedeteyvat.fr/personnages/zhongli/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
+    "element": "Géo",
+    "description": "5★, Arme d'hast, Géo, Liyue, Zhongli",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Zhongli_Buffer-Shielder_build.webp"
+  }
+]
