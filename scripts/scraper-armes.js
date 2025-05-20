@@ -1,6 +1,7 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
+const { log } = require('../utils/logger');
 
 const BASE_URL = 'https://lagazettedeteyvat.fr';
 
@@ -35,7 +36,7 @@ const BASE_URL = 'https://lagazettedeteyvat.fr';
         }
 
         fs.writeFileSync('./data/armes.json', JSON.stringify(armes, null, 2), 'utf-8');
-        console.log(`✅ Armes à jour (${armes.length})`);
+        log(`✅ Armes à jour (${armes.length})`);
     } catch (err) {
         console.error('❌ Une erreur est survenue :', err.message);
     }
