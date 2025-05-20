@@ -19,7 +19,7 @@ const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_TOKEN);
     log('Déploiement des commandes slash en cours...');
 
     await rest.put(
-      Routes.applicationGuildCommands(process.env.CLIENT_ID, process.env.GUILD_ID),
+      Routes.applicationCommands(process.env.CLIENT_ID),
       { body: commands }
     );
 
