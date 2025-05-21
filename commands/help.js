@@ -6,16 +6,17 @@ module.exports = {
         .setDescription('Affiche les commandes disponibles'),
 
     async execute(interaction) {
-        await interaction.reply({
-            embeds: [{
-                title: 'Commandes disponibles',
-                color: 0xFFFFFF,
-                description:
-                    '**/personnage** – Affiche la fiche d’un personnage Genshin\n' +
-                    '**/arme** – Affiche la fiche d’une arme\n' +
-                    '**/artefact** – Affiche la fiche d’un set d’artefacts\n',
-            }],
-            ephemeral: true
-        });
+        const embed = new EmbedBuilder()
+            .setTitle('Commandes disponibles')
+            .setDescription(
+                '**/personnage** – Affiche la fiche d’un personnage Genshin\n' +
+                '**/arme** – Affiche la fiche d’une arme\n' +
+                '**/artefact** – Affiche la fiche d’un set d’artefacts\n',
+                '**/help** – Affiche cette page\n',
+                )
+            .setColor(0xFFFFFF)
+            .setTimestamp();
+
+        await interaction.reply({embeds: [{ embed }], ephemeral: true});
     }
 };

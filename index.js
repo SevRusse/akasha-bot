@@ -51,7 +51,7 @@ client.on('interactionCreate', async interaction => {
 
 // cron exécute les scrapers à intervalle régulier => automatisation
 cron.schedule('0 0 1 * *', async () => { // tous les 1er de chaque mois
-    log('⏳ Mise à jour automatique des personnages...');
+    log('⏳ Mise à jour automatique des contenus...');
     await upPersonnages();
     await upArmes();
     await upArtefacts();
