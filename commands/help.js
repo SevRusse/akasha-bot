@@ -11,7 +11,7 @@ module.exports = {
             .setDescription(
                 '**/personnage** - Affiche la fiche d\'un personnage de Genshin Impact\n' +
                 '**/arme** - Affiche la fiche d\'une arme\n' +
-                '**/artefact** - Affiche la fiche d\'un set d\'artefacts\n',
+                '**/artefact** - Affiche la fiche d\'un set d\'artefacts\n' +
                 '**/help** - Affiche cette page\n',
                 )
             .setColor(0xFFFFFF)
