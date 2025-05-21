@@ -43,7 +43,7 @@ Clique sur le lien ci-dessus pour consulter la fiche complète d${('aeiouyé'.in
 
         await interaction.reply({ embeds: [embed] });
         (stats[nom]++ ? stats[nom] : 0);
-        fs.writeFileSync('../data/stats.json', JSON.stringify(stats, null, 2), 'utf-8');
+        fs.writeFileSync('./data/stats.json', JSON.stringify(stats, null, 2), 'utf-8');
     },
 
     // Cette fonction est spécifique pour gérer l'autocomplétion
