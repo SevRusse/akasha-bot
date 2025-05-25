@@ -23,7 +23,7 @@ const BASE_URL = 'https://lagazettedeteyvat.fr';
 
             const rarete = $$('.elementor-post-info__terms-list-item').first().text().trim();
             const description = $$('.elementor-post-info__terms-list').contents().text().trim() || null;
-            const img = $$('a img').first().attr('data-src') || null;
+            const img = $$('.elementor-element-319df57').find('img').attr('data-src') || null;
 
             armes.push({
                 nom,

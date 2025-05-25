@@ -22,7 +22,7 @@ const BASE_URL = 'https://lagazettedeteyvat.fr';
             const $$ = cheerio.load(ficheHTML);
 
             const origine = $$('.elementor-post-info__terms-list').contents().text().trim() || null;
-            const img = $$('a img').first().attr('data-src') || null;
+            const img = $$('.elementor-element-daf6008').find('img').attr('data-src') || null;
 
             artefacts.push({
                 nom,

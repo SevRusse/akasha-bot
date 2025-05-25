@@ -23,7 +23,8 @@ const BASE_URL = 'https://lagazettedeteyvat.fr';
             const $$ = cheerio.load(ficheHTML);
 
             const description = $$('.elementor-post-info__terms-list').contents().text().trim() || null;
-            const img = $$('a img').first().attr('data-src') || null;
+            const build = $$('a img').first().attr('data-src') || null;
+            const farm = $$('.elementor-element-b4f7d09').find('img').attr('data-src') || null;
 
             personnages.push({
                 nom,
@@ -31,7 +32,8 @@ const BASE_URL = 'https://lagazettedeteyvat.fr';
                 thumb,
                 element,
                 description,
-                img
+                build,
+                farm
             });
         }
 

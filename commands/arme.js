@@ -12,10 +12,10 @@ const rarityColors = {
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('arme')
-        .setDescription('Affiche la fiche d’une arme Genshin Impact')
+        .setDescription('Affiche la fiche d\'une arme Genshin Impact')
         .addStringOption(option =>
             option.setName('nom')
-                .setDescription('Nom de l’arme')
+                .setDescription('Nom de l\'arme')
                 .setRequired(true)
                 .setAutocomplete(true)),
 
@@ -33,16 +33,15 @@ module.exports = {
             .setURL(arme.url)
             .setImage(arme.img)
             .setThumbnail(arme.thumb)
-            .setDescription(`
-${arme.description}
-
-Clique sur le lien ci-dessus pour consulter la fiche complète d${('aeiouyé'.includes(arme.nom.toLowerCase()[0]) && !'aeiouyé'.includes(arme.nom.toLowerCase()[1])) ? '\'' : 'e '}**${arme.nom}** sur le site de la Gazette de Teyvat.
-                `)
+            .setDescription(
+                `${arme.description}\n\n` +
+                `Clique sur le lien ci-dessus pour consulter la fiche complète de l'arme **${arme.nom}** sur le site de la Gazette de Teyvat.`
+            )
             .setColor(color)
             .setTimestamp();
 
         await interaction.reply({ embeds: [embed] });
-        (stats[nom]++ ? stats[nom] : 0);
+        (stats[nom] ? stats[nom]++ : 0);
         fs.writeFileSync('./data/stats.json', JSON.stringify(stats, null, 2), 'utf-8');
     },
 

@@ -15,8 +15,8 @@ const elementColors = {
 
 module.exports = {
     data: new SlashCommandBuilder()
-        .setName('personnage')
-        .setDescription('Affiche la fiche de build d\'un personnage Genshin Impact')
+        .setName('farm')
+        .setDescription('Affiche la fiche de farm d\'un personnage Genshin Impact')
         .addStringOption(option =>
             option.setName('nom')
                 .setDescription('Nom du personnage')
@@ -35,11 +35,11 @@ module.exports = {
         const embed = new EmbedBuilder()
             .setTitle(perso.nom)
             .setURL(perso.url)
-            .setImage(perso.build)
+            .setImage(perso.farm)
             .setThumbnail(perso.thumb)
             .setDescription(
                 `${perso.description}\n\n` +
-                `Clique sur le lien ci-dessus pour consulter la fiche de build complète d${('aeiouyé'.includes(perso.nom.toLowerCase()[0]) && !'aeiouyé'.includes(perso.nom.toLowerCase()[1])) ? '\'' : 'e '}**${perso.nom}** sur le site de la Gazette de Teyvat.`
+                `Clique sur le lien ci-dessus pour consulter la fiche de farm complète d${('aeiouyé'.includes(perso.nom.toLowerCase()[0]) && !'aeiouyé'.includes(perso.nom.toLowerCase()[1])) ? '\'' : 'e '}**${perso.nom}** sur le site de la Gazette de Teyvat.`
             )
             .setColor(color)
             .setTimestamp();

@@ -5,7 +5,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
     "element": "Géo",
     "description": "5★, Albedo, Épée à une main, Géo, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Albedo_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Albedo_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Albedo_farm.webp"
   },
   {
     "nom": "Alhaitham",
@@ -13,7 +14,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
     "element": "Dendro",
     "description": "5★, Alhaitham, Dendro, Épée à une main, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Alhaitham_build.png"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Alhaitham_build.png",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Alhaitham_farm.webp"
   },
   {
     "nom": "Aloy",
@@ -21,7 +23,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "5★, Aloy, Arc, Cryo, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Aloy_MDPS-Cryo_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Aloy_MDPS-Cryo_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Aloy_farm.webp"
   },
   {
     "nom": "Amber",
@@ -29,7 +32,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "4★, Amber, Arc, Mondstadt, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Amber_MDPS-Pyro_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Amber_MDPS-Pyro_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Amber_farm.webp"
   },
   {
     "nom": "Arataki Itto",
@@ -37,7 +41,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
     "element": "Géo",
     "description": "5★, Arataki Itto, Épée à deux mains, Géo, Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arataki-Itto_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arataki-Itto_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arataki-Itto_farm.webp"
   },
   {
     "nom": "Arlecchino",
@@ -45,7 +50,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "5★, Arlecchino, Arme d'hast, Fontaine, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/04/Arlecchino_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/04/Arlecchino_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/04/Arlecchino_farm.webp"
   },
   {
     "nom": "Baizhu",
@@ -53,7 +59,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
     "element": "Dendro",
     "description": "5★, Baizhu, Catalyseur, Dendro, Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/04/Baizhu_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/04/Baizhu_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/05/Baizhu_farm.webp"
   },
   {
     "nom": "Barbara",
@@ -61,7 +68,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
     "element": "Hydro",
     "description": "4★, Barbara, Catalyseur, Hydro, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Barbara_Support-Healer_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Barbara_Support-Healer_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Barbara_farm.webp"
   },
   {
     "nom": "Beidou",
@@ -69,7 +77,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "4★, Beidou, Électro, Épée à deux mains, Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Beidou_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Beidou_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Beidou_farm.webp"
   },
   {
     "nom": "Bennett",
@@ -77,7 +86,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "4★, Bennett, Épée à une main, Mondstadt, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Bennett_Healer-Buffer_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Bennett_Healer-Buffer_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Bennett_farm.webp"
   },
   {
     "nom": "Candace",
@@ -85,7 +95,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
     "element": "Hydro",
     "description": "4★, Arme d'hast, Candace, Hydro, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Candace_Support-Buffer_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Candace_Support-Buffer_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Candace_farm.webp"
   },
   {
     "nom": "Charlotte",
@@ -93,7 +104,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "4★, Catalyseur, Charlotte, Cryo, Fontaine",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Charlotte_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Charlotte_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Charlotte_farm.webp"
   },
   {
     "nom": "Chasca",
@@ -101,7 +113,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "5★, Anémo, Arc, Chasca, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Chasca_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Chasca_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Chasca_farm.webp"
   },
   {
     "nom": "Chevreuse",
@@ -109,7 +122,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "4★, Arme d'hast, Chevreuse, Fontaine, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/01/Chevreuse_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/01/Chevreuse_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Chevreuse_farm.webp"
   },
   {
     "nom": "Chiori",
@@ -117,7 +131,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
     "element": "Géo",
     "description": "5★, Chiori, Épée à une main, Fontaine, Géo",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/03/Chiori_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/03/Chiori_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/03/Chiori_farm.webp"
   },
   {
     "nom": "Chongyun",
@@ -125,7 +140,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "4★, Chongyun, Cryo, Épée à deux mains, Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Chongyun_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Chongyun_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Chongyun_farm.webp"
   },
   {
     "nom": "Citlali",
@@ -133,7 +149,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "5★, Catalyseur, Citlali, Cryo, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Citlali_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Citlali_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Citlali_farm.webp"
   },
   {
     "nom": "Clorinde",
@@ -141,7 +158,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "5★, Clorinde, Électro, Épée à une main, Fontaine",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Clorinde_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Clorinde_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/05/Clorinde_farm.webp"
   },
   {
     "nom": "Collei",
@@ -149,7 +167,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
     "element": "Dendro",
     "description": "4★, Arc, Collei, Dendro, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Collei_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Collei_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Collei_farm.webp"
   },
   {
     "nom": "Cyno",
@@ -157,7 +176,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "5★, Arme d'hast, Cyno, Électro, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Cyno_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Cyno_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Cyno_farm.webp"
   },
   {
     "nom": "Dehya",
@@ -165,7 +185,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "5★, Dehya, Épée à deux mains, Pyro, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Dehya_Sub-DPS-Burst-DPS_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Dehya_Sub-DPS-Burst-DPS_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Dehya_farm.webp"
   },
   {
     "nom": "Diluc",
@@ -173,7 +194,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "5★, Diluc, Épée à deux mains, Mondstadt, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Diluc_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Diluc_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Diluc_farm.webp"
   },
   {
     "nom": "Diona",
@@ -181,7 +203,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "4★, Arc, Cryo, Diona, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Diona_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Diona_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Diona_farm.webp"
   },
   {
     "nom": "Dori",
@@ -189,7 +212,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "4★, Dori, Électro, Épée à deux mains, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Dori_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Dori_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Dori_farm.webp"
   },
   {
     "nom": "Émilie",
@@ -197,7 +221,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
     "element": "Dendro",
     "description": "5★, Arme d'hast, Dendro, Émilie, Fontaine",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Emilie_build-1.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Emilie_build-1.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Emilie_farm.webp"
   },
   {
     "nom": "Escoffier",
@@ -205,7 +230,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "5★, Arme d'hast, Cryo, Escoffier, Fontaine",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Escoffier_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Escoffier_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Escoffier_farm.webp"
   },
   {
     "nom": "Eula",
@@ -213,7 +239,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "5★, Cryo, Épée à deux mains, Eula, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Eula_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Eula_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Eula_farm.webp"
   },
   {
     "nom": "Faruzan",
@@ -221,7 +248,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "4★, Anémo, Arc, Faruzan, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Faruzan_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Faruzan_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Faruzan_farm.webp"
   },
   {
     "nom": "Fischl",
@@ -229,7 +257,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "4★, Arc, Électro, Fischl, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fischl_Batterie-Sub-DPS_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fischl_Batterie-Sub-DPS_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fischl_farm.webp"
   },
   {
     "nom": "Fréminet",
@@ -237,7 +266,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "4★, Cryo, Épée à deux mains, Fontaine, Fréminet",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Freminet_build-1.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Freminet_build-1.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Freminet_farm.webp"
   },
   {
     "nom": "Furina",
@@ -245,7 +275,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
     "element": "Hydro",
     "description": "5★, Épée à une main, Fontaine, Furina, Hydro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Furina_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Furina_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Furina_farm.webp"
   },
   {
     "nom": "Gaming",
@@ -253,7 +284,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "4★, Épée à deux mains, Gaming, Liyue, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/01/Gaming_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/01/Gaming_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/01/Gaming_farm.webp"
   },
   {
     "nom": "Ganyu",
@@ -261,7 +293,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "5★, Arc, Cryo, Ganyu, Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ganyu_MDPS-Cryo-Fonte_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ganyu_MDPS-Cryo-Fonte_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ganyu_farm.webp"
   },
   {
     "nom": "Gorou",
@@ -269,7 +302,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
     "element": "Géo",
     "description": "4★, Arc, Géo, Gorou, Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Gorou_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Gorou_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Gorou_farm.webp"
   },
   {
     "nom": "Hu Tao",
@@ -277,7 +311,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "5★, Arme d'hast, Hu Tao, Liyue, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hu-Tao_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hu-Tao_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hu-Tao_farm.webp"
   },
   {
     "nom": "Iansan",
@@ -285,7 +320,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "4★, Arme d'hast, Électro, Iansan, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Iansan_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Iansan_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Iansan_farm.webp"
   },
   {
     "nom": "Ifa",
@@ -293,7 +329,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "4★, Anémo, Catalyseur, Ifa, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Ifa_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Ifa_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Ifa_farm.webp"
   },
   {
     "nom": "Jean",
@@ -301,7 +338,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "5★, Anémo, Épée à une main, Jean, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Jean_Support-Anemo-Healer_build-1.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Jean_Support-Anemo-Healer_build-1.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Jean_farm.webp"
   },
   {
     "nom": "Kachina",
@@ -309,7 +347,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
     "element": "Géo",
     "description": "4★, Arme d'hast, Géo, Kachina, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Kachina_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Kachina_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Kachina_farm.webp"
   },
   {
     "nom": "Kaedehara Kazuha",
@@ -317,7 +356,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "5★, Anémo, Épée à une main, Inazuma, Kaedehara Kazuha",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kaedehara-Kazuha_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kaedehara-Kazuha_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kaedehara-Kazuha_farm.webp"
   },
   {
     "nom": "Kaeya",
@@ -325,7 +365,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "4★, Cryo, Épée à une main, Kaeya, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kaeya_Support-Sub-DPS_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kaeya_Support-Sub-DPS_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kaeya_farm.webp"
   },
   {
     "nom": "Kamisato Ayaka",
@@ -333,7 +374,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "5★, Cryo, Épée à une main, Inazuma, Kamisato Ayaka",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kamisato-Ayaka_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kamisato-Ayaka_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kamisato-Ayaka_farm.webp"
   },
   {
     "nom": "Kamisato Ayato",
@@ -341,7 +383,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
     "element": "Hydro",
     "description": "5★, Épée à une main, Hydro, Inazuma, Kamisato Ayato",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kamisato-Ayato_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kamisato-Ayato_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kamisato-Ayato_farm-1.webp"
   },
   {
     "nom": "Kaveh",
@@ -349,7 +392,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
     "element": "Dendro",
     "description": "4★, Dendro, Épée à deux mains, Kaveh, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/04/Kaveh_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/04/Kaveh_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Kaveh_farm.webp"
   },
   {
     "nom": "Keqing",
@@ -357,7 +401,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "5★, Électro, Épée à une main, Keqing, Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Keqing_MDPS-Electro_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Keqing_MDPS-Electro_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Keqing_farm.webp"
   },
   {
     "nom": "Kinich",
@@ -365,7 +410,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
     "element": "Dendro",
     "description": "5★, Dendro, Épée à deux mains, Kinich, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Kinich_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Kinich_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Kinich_farm.webp"
   },
   {
     "nom": "Kirara",
@@ -373,7 +419,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
     "element": "Dendro",
     "description": "4★, Dendro, Épée à une main, Inazuma, Kirara",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/05/Kirara_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/05/Kirara_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/05/Kirara_farm.webp"
   },
   {
     "nom": "Klee",
@@ -381,7 +428,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "5★, Catalyseur, Klee, Mondstadt, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Klee_MDPS-Pyro_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Klee_MDPS-Pyro_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Klee_farm.webp"
   },
   {
     "nom": "Kujou Sara",
@@ -389,7 +437,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "4★, Arc, Électro, Inazuma, Kujou Sara",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kujou-Sara_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kujou-Sara_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kujou-Sara_farm.webp"
   },
   {
     "nom": "Kuki Shinobu",
@@ -397,7 +446,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "4★, Électro, Épée à une main, Inazuma, Kuki Shinobu",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kuki-Shinobu_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kuki-Shinobu_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kuki-Shinobu_farm.webp"
   },
   {
     "nom": "Lan Yan",
@@ -405,15 +455,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "4★, Anémo, Catalyseur, Lan Yan, Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Lan_Yan_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Lan_Yan_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Lan_Yan_farm.webp"
   },
   {
     "nom": "Layla",
     "url": "https://lagazettedeteyvat.fr/personnages/layla/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
-    "description": "4★, Cryo, Épée à une main, Fontaine, Layla",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Layla_Support-Shielder_build.webp"
+    "description": "4★, Cryo, Épée à une main, Layla, Sumeru",
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Layla_Support-Shielder_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Layla_farm.webp"
   },
   {
     "nom": "Lisa",
@@ -421,7 +473,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "4★, Catalyseur, Électro, Lisa, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lisa_MDPS-Electro_build-1.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lisa_MDPS-Electro_build-1.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lisa_farm.webp"
   },
   {
     "nom": "Lynette",
@@ -429,7 +482,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "4★, Anémo, Épée à une main, Fontaine, Lynette",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Lynette_Support-Anemo-ME_build-1.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Lynette_Support-Anemo-ME_build-1.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Lynette_farm.webp"
   },
   {
     "nom": "Lyney",
@@ -437,7 +491,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "5★, Arc, Fontaine, Lyney, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Lyney_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Lyney_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Lyney_farm.webp"
   },
   {
     "nom": "Mavuika",
@@ -445,7 +500,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "5★, Épée à deux mains, Mavuika, Natlan, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Mavuika_build-MDPS-1.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Mavuika_build-MDPS-1.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Mavuika_farm.webp"
   },
   {
     "nom": "Mika",
@@ -453,7 +509,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "4★, Arme d'hast, Cryo, Mika, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/03/Mika_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/03/Mika_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Mika_farm.webp"
   },
   {
     "nom": "Mona",
@@ -461,7 +518,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
     "element": "Hydro",
     "description": "5★, Catalyseur, Hydro, Mona, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Mona_Support-Buffer_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Mona_Support-Buffer_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Mona_farm.webp"
   },
   {
     "nom": "Mualani",
@@ -469,7 +527,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
     "element": "Hydro",
     "description": "5★, Catalyseur, Hydro, Mualani, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Mualani_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Mualani_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Mualani_farm.webp"
   },
   {
     "nom": "Nahida",
@@ -477,7 +536,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
     "element": "Dendro",
     "description": "5★, Catalyseur, Dendro, Nahida, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Nahida_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Nahida_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Nahida_farm.webp"
   },
   {
     "nom": "Navia",
@@ -485,7 +545,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
     "element": "Géo",
     "description": "5★, Épée à deux mains, Fontaine, Géo, Navia",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Navia_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Navia_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Navia_farm.webp"
   },
   {
     "nom": "Neuvillette",
@@ -493,7 +554,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
     "element": "Hydro",
     "description": "5★, Catalyseur, Fontaine, Hydro, Neuvillette",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Neuvillette_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Neuvillette_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Neuvillette_farm.webp"
   },
   {
     "nom": "Nilou",
@@ -501,7 +563,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
     "element": "Hydro",
     "description": "5★, Épée à une main, Hydro, Nilou, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Nilou_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Nilou_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Nilou_farm.webp"
   },
   {
     "nom": "Ningguang",
@@ -509,7 +572,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
     "element": "Géo",
     "description": "4★, Catalyseur, Géo, Liyue, Ningguang",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Ningguang_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Ningguang_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ningguang_farm.webp"
   },
   {
     "nom": "Noëlle",
@@ -517,7 +581,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
     "element": "Géo",
     "description": "4★, Épée à deux mains, Géo, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Noelle_MDPS-Geo-C6_build-1.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Noelle_MDPS-Geo-C6_build-1.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Noelle_farm.webp"
   },
   {
     "nom": "Nomade",
@@ -525,7 +590,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "5★, Anémo, Catalyseur, Nomade, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Nomade_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Nomade_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Nomade_farm.webp"
   },
   {
     "nom": "Ororon",
@@ -533,7 +599,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "4★, Arc, Électro, Natlan, Ororon",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Ororon_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Ororon_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Ororon_farm.webp"
   },
   {
     "nom": "Qiqi",
@@ -541,7 +608,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "5★, Cryo, Épée à une main, Liyue, Qiqi",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Qiqi_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Qiqi_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Qiqi_farm.webp"
   },
   {
     "nom": "Razor",
@@ -549,7 +617,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "4★, Électro, Épée à deux mains, Mondstadt, Razor",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Razor_MDPS-Physique_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Razor_MDPS-Physique_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Razor_farm.webp"
   },
   {
     "nom": "Rosalia",
@@ -557,7 +626,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "4★, Arme d'hast, Cryo, Mondstadt, Rosalia",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Rosalia_Support-Sub-DPS_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Rosalia_Support-Sub-DPS_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Rosalia_farm.webp"
   },
   {
     "nom": "Sangonomiya Kokomi",
@@ -565,7 +635,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
     "element": "Hydro",
     "description": "5★, Catalyseur, Hydro, Inazuma, Sangonomiya Kokomi",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Sangonomiya-Kokomi_Support-Healer_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Sangonomiya-Kokomi_Support-Healer_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Sangonomiya-Kokomi_farm.webp"
   },
   {
     "nom": "Sayu",
@@ -573,7 +644,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "4★, Anémo, Épée à deux mains, Inazuma, Sayu",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Sayu_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Sayu_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Sayu_farm.webp"
   },
   {
     "nom": "Sethos",
@@ -581,7 +653,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "4★, Arc, Électro, Sethos, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Sethos_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Sethos_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/05/Sethos_farm.webp"
   },
   {
     "nom": "Shenhe",
@@ -589,7 +662,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "5★, Arme d'hast, Cryo, Liyue, Shenhe",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Shenhe_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Shenhe_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Shenhe_farm.webp"
   },
   {
     "nom": "Shikanoin Heizou",
@@ -597,7 +671,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "4★, Anémo, Catalyseur, Inazuma, Shikanoin Heizou",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Shikanoin-Heizou_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Shikanoin-Heizou_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Shikanoin-Heizou_farm.webp"
   },
   {
     "nom": "Shogun Raiden",
@@ -605,7 +680,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "5★, Arme d'hast, Électro, Inazuma, Shogun Raiden",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Shogun-Raiden_Batterie-Burst-DPS_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Shogun-Raiden_Batterie-Burst-DPS_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Shogun-Raiden_farm.webp"
   },
   {
     "nom": "Sigewinne",
@@ -613,7 +689,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
     "element": "Hydro",
     "description": "5★, Arc, Fontaine, Hydro, Sigewinne",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Sigewinne_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Sigewinne_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/05/Sigewinne_farm.webp"
   },
   {
     "nom": "Sucrose",
@@ -621,7 +698,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "4★, Anémo, Catalyseur, Mondstadt, Sucrose",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Sucrose_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Sucrose_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Sucrose_farm.webp"
   },
   {
     "nom": "Tartaglia",
@@ -629,7 +707,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
     "element": "Hydro",
     "description": "5★, Arc, Hydro, Liyue, Tartaglia",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tartaglia_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tartaglia_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tartaglia_farm.webp"
   },
   {
     "nom": "Thomas",
@@ -637,7 +716,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "4★, Arme d'hast, Inazuma, Pyro, Thomas",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Thomas_Support-Shielder_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Thomas_Support-Shielder_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Thomas_farm.webp"
   },
   {
     "nom": "Tighnari",
@@ -645,7 +725,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
     "element": "Dendro",
     "description": "5★, Arc, Dendro, Sumeru, Tighnari",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tighnari_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tighnari_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tighnari_farm.webp"
   },
   {
     "nom": "Varesa",
@@ -653,7 +734,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "5★, Catalyseur, Électro, Natlan, Varesa",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Varesa_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Varesa_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Varesa_farm.webp"
   },
   {
     "nom": "Venti",
@@ -661,7 +743,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "5★, Anémo, Arc, Mondstadt, Venti",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Venti_Support-Anemo-ME_build-1.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Venti_Support-Anemo-ME_build-1.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Venti_farm.webp"
   },
   {
     "nom": "Voyageur Anémo",
@@ -669,7 +752,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "5★, Anémo, Épée à une main, Mondstadt, Voyageur Anémo",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Anemo_build-1.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Anemo_build-1.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Anemo_farm.webp"
   },
   {
     "nom": "Voyageur Dendro",
@@ -677,7 +761,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
     "element": "Dendro",
     "description": "5★, Dendro, Épée à une main, Sumeru, Voyageur Dendro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Dendro_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Dendro_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Dendro_farm.webp"
   },
   {
     "nom": "Voyageur Électro",
@@ -685,7 +770,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "5★, Électro, Épée à une main, Inazuma, Voyageur Électro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Electro_build-1.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Electro_build-1.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Electro_farm-1.webp"
   },
   {
     "nom": "Voyageur Géo",
@@ -693,7 +779,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
     "element": "Géo",
     "description": "5★, Épée à une main, Géo, Liyue, Voyageur Géo",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Geo_build-1.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Geo_build-1.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Voyageur-Geo_farm-1.webp"
   },
   {
     "nom": "Voyageur Hydro",
@@ -701,7 +788,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
     "element": "Hydro",
     "description": "5★, Épée à une main, Fontaine, Hydro, Voyageur Hydro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Voyageur-Hydro_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Voyageur-Hydro_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Voyageur-Hydro_farm.webp"
   },
   {
     "nom": "Voyageur Pyro",
@@ -709,7 +797,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "5★, Épée à une main, Natlan, Pyro, Voyageur Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Voyageur-Pyro_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Voyageur-Pyro_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Voyageur-Pyro_farm.webp"
   },
   {
     "nom": "Wriothesley",
@@ -717,7 +806,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Cryo2_icon.webp",
     "element": "Cryo",
     "description": "5★, Catalyseur, Cryo, Fontaine, Wriothesley",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Wriothesley_MDPS-Cryo-Fonte_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Wriothesley_MDPS-Cryo-Fonte_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Wriothesley_farm.webp"
   },
   {
     "nom": "Xiangling",
@@ -725,7 +815,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "4★, Arme d'hast, Liyue, Pyro, Xiangling",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xiangling_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xiangling_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xiangling_farm.webp"
   },
   {
     "nom": "Xianyun",
@@ -733,7 +824,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "5★, Anémo, Catalyseur, Liyue, Xianyun",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/01/Xianyun_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/01/Xianyun_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/01/Xianyun_farm.webp"
   },
   {
     "nom": "Xiao",
@@ -741,7 +833,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "5★, Anémo, Arme d'hast, Liyue, Xiao",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xiao_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xiao_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xiao_farm.webp"
   },
   {
     "nom": "Xilonen",
@@ -749,7 +842,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
     "element": "Géo",
     "description": "5★, Épée à une main, Géo, Natlan, Xilonen",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/10/Xilonen_support_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/10/Xilonen_support_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Xilonen_farm.webp"
   },
   {
     "nom": "Xingqiu",
@@ -757,7 +851,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
     "element": "Hydro",
     "description": "4★, Épée à une main, Hydro, Liyue, Xingqiu",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xingqiu_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xingqiu_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xingqiu_farm.webp"
   },
   {
     "nom": "Xinyan",
@@ -765,7 +860,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "4★, Épée à deux mains, Liyue, Pyro, Xinyan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xinyan_Support-Shielder_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xinyan_Support-Shielder_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Xinyan_farm.webp"
   },
   {
     "nom": "Yae Miko",
@@ -773,7 +869,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Electro2_icon.webp",
     "element": "Électro",
     "description": "5★, Catalyseur, Électro, Inazuma, Yae Miko",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yae-Miko_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yae-Miko_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yae-Miko_farm.webp"
   },
   {
     "nom": "Yanfei",
@@ -781,7 +878,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
     "description": "4★, Catalyseur, Liyue, Pyro, Yanfei",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yanfei_MDPS-Pyro_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yanfei_MDPS-Pyro_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yanfei_farm.webp"
   },
   {
     "nom": "Yaoyao",
@@ -789,7 +887,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Dendro2_icon.webp",
     "element": "Dendro",
     "description": "4★, Arme d'hast, Dendro, Liyue, Yaoyao",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yaoyao_Support-Healer_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yaoyao_Support-Healer_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yaoyao_farm.webp"
   },
   {
     "nom": "Yelan",
@@ -797,15 +896,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Hydro2_icon.webp",
     "element": "Hydro",
     "description": "5★, Arc, Hydro, Liyue, Yelan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yelan_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yelan_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yelan_farm.webp"
   },
   {
     "nom": "Yoimiya",
     "url": "https://lagazettedeteyvat.fr/personnages/yoimiya/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Pyro2_icon.webp",
     "element": "Pyro",
-    "description": "5★, Arc, Liyue, Pyro, Yoimiya",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yoimiya_build.webp"
+    "description": "5★, Arc, Inazuma, Pyro, Yoimiya",
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yoimiya_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yoimiya_farm.webp"
   },
   {
     "nom": "Yumemizuki Mizuki",
@@ -813,7 +914,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Anemo2_icon.webp",
     "element": "Anémo",
     "description": "5★, Anémo, Catalyseur, Inazuma, Yumemizuki Mizuki",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Yumemizuki-Mizuki_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Yumemizuki-Mizuki_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Yumemizuki-Mizuki_farm.webp"
   },
   {
     "nom": "Yun Jin",
@@ -821,7 +923,8 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
     "element": "Géo",
     "description": "4★, Arme d'hast, Géo, Liyue, Yun Jin",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yun-Jin_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yun-Jin_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Yun-Jin_farm.webp"
   },
   {
     "nom": "Zhongli",
@@ -829,6 +932,7 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Geo2_icon.webp",
     "element": "Géo",
     "description": "5★, Arme d'hast, Géo, Liyue, Zhongli",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Zhongli_Buffer-Shielder_build.webp"
+    "build": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Zhongli_Buffer-Shielder_build.webp",
+    "farm": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Zhongli_farm.webp"
   }
 ]

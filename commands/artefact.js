@@ -6,10 +6,10 @@ const fs = require('fs');
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('artefact')
-        .setDescription('Affiche la fiche d’un set d’artefacts Genshin Impact')
+        .setDescription('Affiche la fiche d\'un set d\'artefacts Genshin Impact')
         .addStringOption(option =>
             option.setName('nom')
-                .setDescription('Nom du set d’artefacts')
+                .setDescription('Nom du set d\'artefacts')
                 .setRequired(true)
                 .setAutocomplete(true)),
 
@@ -20,23 +20,20 @@ module.exports = {
             return interaction.reply({content: '❌ Set d\'artefacts introuvable.', ephemeral: true});
         }
 
-        const color = 0xD4AF37; // couleur 5★
-
         const embed = new EmbedBuilder()
             .setTitle(arte.nom)
             .setURL(arte.url)
             .setImage(arte.img)
             .setThumbnail(arte.thumb)
-            .setDescription(`
-Obtention : ${arte.origine}
-
-Clique sur le lien ci-dessus pour consulter la fiche complète d${('aeiouyé'.includes(arte.nom.toLowerCase()[0]) && !'aeiouyé'.includes(arte.nom.toLowerCase()[1])) ? '\'' : 'e '}**${arte.nom}** sur le site de la Gazette de Teyvat.
-                `)
-            .setColor(color)
+            .setDescription(
+                `Origine : ${arte.origine}\n\n` +
+                `Clique sur le lien ci-dessus pour consulter la fiche complète du set d'artefacts **${arte.nom}** sur le site de la Gazette de Teyvat.`
+            )
+            .setColor(0xD4AF37) // couleur 5★
             .setTimestamp();
 
         await interaction.reply({ embeds: [embed] });
-        (stats[nom]++ ? stats[nom] : 0);
+        (stats[nom] ? stats[nom]++ : 0);
         fs.writeFileSync('./data/stats.json', JSON.stringify(stats, null, 2), 'utf-8');
     },
 
