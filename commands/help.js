@@ -11,11 +11,13 @@ module.exports = {
         const embed = new EmbedBuilder()
             .setTitle('Commandes disponibles')
             .setDescription(
-                '**/personnage** - Affiche la fiche d\'un personnage de Genshin Impact\n' +
                 '**/arme** - Affiche la fiche d\'une arme\n' +
                 '**/artefact** - Affiche la fiche d\'un set d\'artefacts\n' +
-                '**/help** - Affiche cette page\n',
-                )
+                '**/ennemi** - Affiche la fiche d\'un boss ou d\'une légende locale\n' +
+                '**/farm** - Affiche la fiche de farm d\'un personnage\n' +
+                '**/help** - Affiche cette page\n' +
+                '**/personnage** - Affiche la fiche de build d\'un personnage\n'
+            )
             .setColor(0xFFFFFF)
             .setTimestamp();
 
