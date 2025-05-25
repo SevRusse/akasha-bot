@@ -1,0 +1,466 @@
+[
+  {
+    "nom": "Aide de Tupayo",
+    "url": "https://lagazettedeteyvat.fr/ennemis/aide-de-tupayo/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Aide-de-Tupayo-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Aide-de-Tupayo-guide-1.webp"
+  },
+  {
+    "nom": "Algorithme de semi-intransition matriciaire d’observation en néo-réseau",
+    "url": "https://lagazettedeteyvat.fr/ennemis/algorithme-de-semi-intransition/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/10/Algorithme-de-semi-intransition-matriciaire-dobservation-en-neo-reseau.png",
+    "type": "Boss du monde",
+    "description": "Anémo, Pyro, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/ASIMON-guide.webp"
+  },
+  {
+    "nom": "Arbre congelé",
+    "url": "https://lagazettedeteyvat.fr/ennemis/boss-du-monde/arbre-congele/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Arbre-congele-1.webp",
+    "type": "Boss du monde",
+    "description": "Cryo, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Arbre-congele-guide.webp"
+  },
+  {
+    "nom": "Arbre enflammé",
+    "url": "https://lagazettedeteyvat.fr/ennemis/boss-du-monde/arbre-enflamme/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Arbre-enflamme-1.webp",
+    "type": "Boss du monde",
+    "description": "Liyue, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Arbre-enflamme-guide.webp"
+  },
+  {
+    "nom": "Arbre foudroyé",
+    "url": "https://lagazettedeteyvat.fr/ennemis/arbre-foudroye/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Arbre-foudroye-Genshin-Impact.webp",
+    "type": "Boss du monde",
+    "description": "Électro, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arbre-foudroye-guide-1.webp"
+  },
+  {
+    "nom": "Automate de source secrète \"Configurateur\"",
+    "url": "https://lagazettedeteyvat.fr/ennemis/automate-de-source-secrete-configurateur/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Constructeur-de-source-secrete.webp",
+    "type": "Boss du monde",
+    "description": "Électro, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/10/Automate-de-source-secrete-Configurateur-guide-1.webp"
+  },
+  {
+    "nom": "Automate de source secrète « Surveillant »",
+    "url": "https://lagazettedeteyvat.fr/ennemis/automate-de-source-secrete-surveillant/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Automate-de-source-secrete-Surveillant.webp",
+    "type": "Boss du monde",
+    "description": "Hydro, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Automate-de-source-secrete-Surveillant-guide.webp"
+  },
+  {
+    "nom": "Balachko",
+    "url": "https://lagazettedeteyvat.fr/ennemis/balachko/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Balachko-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Balachko-guide-1.webp"
+  },
+  {
+    "nom": "Barbe-fer",
+    "url": "https://lagazettedeteyvat.fr/ennemis/barbe-fer/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Barbe-fer-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Barbe-fer-guide.webp"
+  },
+  {
+    "nom": "Bénédiction d'Atlatl",
+    "url": "https://lagazettedeteyvat.fr/ennemis/benediction-datlatl/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Benediction-dAtlatl-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Benediction-dAtlatl-guide-1.webp"
+  },
+  {
+    "nom": "Champieffroi panaché",
+    "url": "https://lagazettedeteyvat.fr/ennemis/champieffroi-panache/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Champieffroi-panache-Genshin-Impact.webp",
+    "type": "Boss du monde",
+    "description": "Dendro, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Champieffroi-panache-guide-1.webp"
+  },
+  {
+    "nom": "Chèvre de bataille & Griffe de fer",
+    "url": "https://lagazettedeteyvat.fr/ennemis/chevre-de-bataille-griffe-de-fer/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Chevre-de-bataille-et-Griffe-de-fer-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Chevre-de-bataille-et-Griffe-de-fer-guide.webp"
+  },
+  {
+    "nom": "Cihuacoatl d'os chimérique",
+    "url": "https://lagazettedeteyvat.fr/ennemis/cihuacoatl-dos-chimerique/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Cihuacoatl-dos-chimerique-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Cihuacoatl-dos-chimerique-guide-1.webp"
+  },
+  {
+    "nom": "Cocijo",
+    "url": "https://lagazettedeteyvat.fr/ennemis/cocijo/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Cocijo-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Cocijo-guide-1.webp"
+  },
+  {
+    "nom": "Dragon cataclysmique",
+    "url": "https://lagazettedeteyvat.fr/ennemis/dragon-cataclysmique/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/11/Enemy_Aeonblight_Drake_Icon.webp",
+    "type": "Boss du monde",
+    "description": "Cryo, Hydro, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Dragon-cataclysmique-guide.webp"
+  },
+  {
+    "nom": "Égide d'Ichcahuipilli",
+    "url": "https://lagazettedeteyvat.fr/ennemis/egide-dichcahuipilli/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Egide-dIchcahuipilli-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Egide-dIchcahuipilli-guide-1.webp"
+  },
+  {
+    "nom": "Empereur du feu ferreux",
+    "url": "https://lagazettedeteyvat.fr/ennemis/empereur-du-feu-ferreux/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Empereur-de-feu-ferreux.webp",
+    "type": "Boss du monde",
+    "description": "Fontaine, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Empereur-du-feu-ferreux-guide-1.webp"
+  },
+  {
+    "nom": "Esprit d'étoile filante déchue",
+    "url": "https://lagazettedeteyvat.fr/ennemis/esprit-detoile-filante-dechue/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Esprit-detoile-filante-dechue-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Esprit-detoile-filante-dechue-guide-1.webp"
+  },
+  {
+    "nom": "Générateur de champ expérimental",
+    "url": "https://lagazettedeteyvat.fr/ennemis/generateur-de-champ-experimental/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Generateur-de-champ-experimental-icon.webp",
+    "type": "Boss du monde",
+    "description": "Fontaine, Géo",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Generateur-de-champ-experimental-guide.webp"
+  },
+  {
+    "nom": "Géosaure antique",
+    "url": "https://lagazettedeteyvat.fr/ennemis/geosaure-antique/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Primo_Geovishap_Icon.webp",
+    "type": "Boss du monde",
+    "description": "Cryo, Électro, Géo, Hydro, Liyue, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Geosaure-antique-guide-1.webp"
+  },
+  {
+    "nom": "Harde d'Élémentosaures abyssaux",
+    "url": "https://lagazettedeteyvat.fr/ennemis/harde-delementosaures-abyssaux/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Bathysmal_Vishap_Herd_Icon.webp",
+    "type": "Boss du monde",
+    "description": "Cryo, Électro, Inazuma",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Harde-dElementosaures-abyssaux-guide-1.webp"
+  },
+  {
+    "nom": "Hippocampe perlé millénaire",
+    "url": "https://lagazettedeteyvat.fr/ennemis/hippocampe-perle-millenaire/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Hyppocampe-perle-millenaire-icon.webp",
+    "type": "Boss du monde",
+    "description": "Électro, Fontaine",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Hippocampe-perle-millenaire-guide.webp"
+  },
+  {
+    "nom": "Hypostase Anémo",
+    "url": "https://lagazettedeteyvat.fr/ennemis/hypostase-anemo/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Anemo_Hypostasis_Icon.webp",
+    "type": "Boss du monde",
+    "description": "Anémo, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Anemo-guide-1.webp"
+  },
+  {
+    "nom": "Hypostase Cryo",
+    "url": "https://lagazettedeteyvat.fr/ennemis/hypostase-cryo/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Cryo_Hypostasis_Icon.webp",
+    "type": "Boss du monde",
+    "description": "Cryo, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Cryo-guide-1.webp"
+  },
+  {
+    "nom": "Hypostase Dendro",
+    "url": "https://lagazettedeteyvat.fr/ennemis/hypostase-dendro/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/11/hypostase-dendro-1.webp",
+    "type": "Boss du monde",
+    "description": "Dendro, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Dendro-guide.webp"
+  },
+  {
+    "nom": "Hypostase Électro",
+    "url": "https://lagazettedeteyvat.fr/ennemis/hypostase-electro/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Electro_Hypostasis_Icon.webp",
+    "type": "Boss du monde",
+    "description": "Électro, Mondstadt",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Electro-guide.webp"
+  },
+  {
+    "nom": "Hypostase Géo",
+    "url": "https://lagazettedeteyvat.fr/ennemis/hypostase-geo/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Geo_Hypostasis_Icon.webp",
+    "type": "Boss du monde",
+    "description": "Géo, Liyue",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Geo-guide-1.webp"
+  },
+  {
+    "nom": "Hypostase Hydro",
+    "url": "https://lagazettedeteyvat.fr/ennemis/hypostase-hydro/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Hydro_Hypostasis_Icon.webp",
+    "type": "Boss du monde",
+    "description": "Hydro, Inazuma",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Hydro-guide-1.webp"
+  },
+  {
+    "nom": "Hypostase Pyro",
+    "url": "https://lagazettedeteyvat.fr/ennemis/hypostase-pyro/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Pyro_Hypostasis_Icon.webp",
+    "type": "Boss du monde",
+    "description": "Inazuma, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Pyro-guide-1.webp"
+  },
+  {
+    "nom": "Infinitésimal",
+    "url": "https://lagazettedeteyvat.fr/ennemis/infinitesimal/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Infinitesimal_icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Infinitesimal-guide.webp"
+  },
+  {
+    "nom": "Lame oni",
+    "url": "https://lagazettedeteyvat.fr/ennemis/lame-oni/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Maguu_Kenki_Icon.webp",
+    "type": "Boss du monde",
+    "description": "Anémo, Cryo, Inazuma",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-oni-guide.webp"
+  },
+  {
+    "nom": "Le pic",
+    "url": "https://lagazettedeteyvat.fr/ennemis/le-pic/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Le-pic_icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Le-pic-guide.webp"
+  },
+  {
+    "nom": "Loup alpha doré",
+    "url": "https://lagazettedeteyvat.fr/ennemis/loup-alpha-dore/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Golden_Wolflord_Icon.webp",
+    "type": "Boss du monde",
+    "description": "Géo, Inazuma",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Loup-alpha-dore-guide-1.webp"
+  },
+  {
+    "nom": "Lui qui ne meut jamais",
+    "url": "https://lagazettedeteyvat.fr/ennemis/lui-qui-ne-meut-jamais/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Lui-qui-ne-meut-jamais-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Lui-qui-ne-meut-jamais-guide-1.webp"
+  },
+  {
+    "nom": "Lustrateur inique",
+    "url": "https://lagazettedeteyvat.fr/ennemis/lustrateur-inique/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/04/Lustrateur-inique.webp",
+    "type": "Boss du monde",
+    "description": "Cryo, Électro, Hydro, Pyro, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/06/Lustrateur-inique-guide.webp"
+  },
+  {
+    "nom": "Luxuriance de Tupu",
+    "url": "https://lagazettedeteyvat.fr/ennemis/luxuriance-de-tupu/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Luxuriance-de-Tupu-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Luxuriance-de-Tupu-guide.webp"
+  },
+  {
+    "nom": "Manifestation du tonnerre",
+    "url": "https://lagazettedeteyvat.fr/ennemis/manifestation-du-tonnerre/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Thunder_Manifestation_Icon.webp",
+    "type": "Boss du monde",
+    "description": "Électro, Inazuma",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Manifestation-du-tonnerre-guide-1.webp"
+  },
+  {
+    "nom": "Matrice mécanique perpétuelle",
+    "url": "https://lagazettedeteyvat.fr/ennemis/matrice-mecanique-perpetuelle/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Perpetual_Mechanical_Array_Icon.webp",
+    "type": "Boss du monde",
+    "description": "Cryo, Géo, Inazuma",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Matrice-mecanique-perpetuelle-guide-1.webp"
+  },
+  {
+    "nom": "Océanide",
+    "url": "https://lagazettedeteyvat.fr/ennemis/oceanide/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Oceanide_icon.webp",
+    "type": "Boss du monde",
+    "description": "Hydro, Liyue",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Oceanide-guide.webp"
+  },
+  {
+    "nom": "Ombre de Chimalli",
+    "url": "https://lagazettedeteyvat.fr/ennemis/ombre-de-chimalli/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Ombre-de-Chimalli-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Ombre-de-Chimalli-guide-1.webp"
+  },
+  {
+    "nom": "Papille obombrée",
+    "url": "https://lagazettedeteyvat.fr/ennemis/papille-obombree/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Papille-obombree.webp",
+    "type": "Boss du monde",
+    "description": "Électro, Natlan, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Papille-obombree-guide.webp"
+  },
+  {
+    "nom": "Reji",
+    "url": "https://lagazettedeteyvat.fr/ennemis/reji/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Reji_icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Reji-guide.webp"
+  },
+  {
+    "nom": "Rilai",
+    "url": "https://lagazettedeteyvat.fr/ennemis/rilai/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Rilai-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Rilai-guide-1.webp"
+  },
+  {
+    "nom": "Roi yumkasaure glouton de la montagne",
+    "url": "https://lagazettedeteyvat.fr/ennemis/roi-yumkasaure-glouton-de-la-montagne/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Roi-yumkasaure-glouton-de-la-montagne.webp",
+    "type": "Boss du monde",
+    "description": "Dendro, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Roi-yumkasaure-glouton-de-la-montagne-guide-1.webp"
+  },
+  {
+    "nom": "Sappho au milieu des vagues",
+    "url": "https://lagazettedeteyvat.fr/ennemis/sappho-au-milieu-des-vagues/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Sappho-au-milieu-des-vagues-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Sappho-au-milieu-des-vagues-guide-1.webp"
+  },
+  {
+    "nom": "Serpent des ruines",
+    "url": "https://lagazettedeteyvat.fr/ennemis/serpent-des-ruines/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Ruin_Serpent_Icon.webp",
+    "type": "Boss du monde",
+    "description": "Géo, Liyue",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Serpent-des-ruines-guide.webp"
+  },
+  {
+    "nom": "Solidarité de Potapo",
+    "url": "https://lagazettedeteyvat.fr/ennemis/solidarite-de-potapo/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Solidarite-de-Potapo-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Solidarite-de-Potapo-guide.webp"
+  },
+  {
+    "nom": "Spiritoratrice excentrique isolée",
+    "url": "https://lagazettedeteyvat.fr/ennemis/spiritoratrice-excentrique-isolee/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Spiritoratrice-excentrique-isolee.webp",
+    "type": "Boss du monde",
+    "description": "Cryo, Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Spiritoratrice-excentrique-isolee-guide.webp"
+  },
+  {
+    "nom": "Statue de dragon de lave",
+    "url": "https://lagazettedeteyvat.fr/ennemis/statue-de-dragon-de-lave/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Statue-de-dragon-de-lave.webp",
+    "type": "Boss du monde",
+    "description": "Natlan, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Statue-de-dragon-de-lave-guide.webp"
+  },
+  {
+    "nom": "Statue de marbre et laiton",
+    "url": "https://lagazettedeteyvat.fr/ennemis/statue-de-marbre-et-laiton/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/05/Statue-de-marbre-et-laiton.webp",
+    "type": "Boss du monde",
+    "description": "Fontaine, Géo, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/05/Statue-de-marbre-et-laiton-guide.webp"
+  },
+  {
+    "nom": "Suanni solitaire",
+    "url": "https://lagazettedeteyvat.fr/ennemis/suanni-solitaire/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/01/Suanni-solitaire.webp",
+    "type": "Boss du monde",
+    "description": "Anémo, Hydro, Liyue",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/02/Suanni-solitaire-guide-1.webp"
+  },
+  {
+    "nom": "Suite cryolienne",
+    "url": "https://lagazettedeteyvat.fr/ennemis/suite-cryolienne/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Suite-cryolienne.webp",
+    "type": "Boss du monde",
+    "description": "Anémo, Cryo, Fontaine",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Suite-cryolienne-guide.webp"
+  },
+  {
+    "nom": "Tlatzacuilotl",
+    "url": "https://lagazettedeteyvat.fr/ennemis/tlatzacuilotl/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Tlatzacuilotl-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Tlatzacuilotl-guide-1.webp"
+  },
+  {
+    "nom": "Tri-étoiles polychromes",
+    "url": "https://lagazettedeteyvat.fr/ennemis/tri-etoiles-polychromes/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Tri-Etoiles-Polychromes-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Tri-etoiles-polychromes-guide-1.webp"
+  },
+  {
+    "nom": "Tulpa Hydro",
+    "url": "https://lagazettedeteyvat.fr/ennemis/tulpa-hydro/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Tulpa-Hydro-Genshin-Impact.webp",
+    "type": "Boss du monde",
+    "description": "Fontaine, Hydro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Tulpa-Hydro-guide-1.webp"
+  },
+  {
+    "nom": "Tyran qucusaure de flamme dorée",
+    "url": "https://lagazettedeteyvat.fr/ennemis/tyran-qucusaure-de-flamme-doree/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Tyran-qucusaure-de-flamme-doree.webp",
+    "type": "Boss du monde",
+    "description": "Natlan, Pyro",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Tyran-qucusaure-de-flamme-doree-guide.webp"
+  },
+  {
+    "nom": "Verrou-Bronze",
+    "url": "https://lagazettedeteyvat.fr/ennemis/verrou-bronze/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Verrou-bronze-icone.webp",
+    "type": "Légende locale",
+    "description": "Natlan",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Verrou-Bronze-guide-1.webp"
+  },
+  {
+    "nom": "Wenut de Setekh",
+    "url": "https://lagazettedeteyvat.fr/ennemis/wenut-de-setekh/",
+    "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Wenut-de-Setekh_icon.webp",
+    "type": "Boss du monde",
+    "description": "Anémo, Sumeru",
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/03/Wenut-de-Setekh-guide-1.webp"
+  }
+]

@@ -3,6 +3,7 @@ const cron = require('node-cron');
 const upPersonnages = require('./scripts/scraper-personnages');
 const upArmes = require('./scripts/scraper-armes');
 const upArtefacts = require('./scripts/scraper-artefacts');
+const upEnnemis = require('./scripts/scraper-ennemis');
 const { log } = require('./utils/logger');
 
 const { Client, GatewayIntentBits, Collection } = require('discord.js');
@@ -55,6 +56,7 @@ cron.schedule('0 0 1 * *', async () => { // tous les 1er de chaque mois
     await upPersonnages();
     await upArmes();
     await upArtefacts();
+    await upEnnemis();
 });
 
 // gestion manuelle des crashs

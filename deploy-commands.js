@@ -8,23 +8,25 @@ const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('
 
 // Récupérer toutes les données des commandes dans le dossier commands
 for (const file of commandFiles) {
-  const command = require(`./commands/${file}`);
-  commands.push(command.data.toJSON());
+    const command = require(`./commands/${file}`);
+    commands.push(command.data.toJSON());
 }
 
 const rest = new REST({ version: '10' }).setToken(process.env.TOKEN);
 
 (async () => {
-  try {
-    log('Déploiement des commandes slash en cours...');
+    try {
+        log('Déploiement des commandes slash en cours...');
 
-    await rest.put(
-      Routes.applicationCommands(process.env.CLIENT_ID),
-      { body: commands }
-    );
+        await rest.put(
+            // debugging and test
+//            Routes.applicationGuildCommands(process.env.CLIENT_ID, process.env.GUILD_ID),
+            Routes.applicationCommands(process.env.CLIENT_ID),
+            { body: commands }
+        );
 
-    log('Commandes déployées avec succès !');
-  } catch (error) {
-    console.error(error);
-  }
+        log('Commandes déployées avec succès !');
+    } catch (error) {
+        console.error(error);
+    }
 })();
