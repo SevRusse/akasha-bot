@@ -1,7 +1,5 @@
 const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
 const personnages = require('../data/personnages.json');
-const stats = require('../data/stats.json');
-const fs = require('fs');
 
 const elementColors = {
     'Anémo': 0x5EDFC5,    // turquoise clair
@@ -45,8 +43,6 @@ module.exports = {
             .setTimestamp();
 
         await interaction.reply({ embeds: [embed] });
-        (stats[nom] ? stats[nom]++ : 0);
-        fs.writeFileSync('./data/stats.json', JSON.stringify(stats, null, 2), 'utf-8');
     },
 
     // Cette fonction est spécifique pour gérer l'autocomplétion

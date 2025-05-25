@@ -1,6 +1,4 @@
 const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
-const stats = require('../data/stats.json');
-const fs = require('fs');
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -22,7 +20,5 @@ module.exports = {
             .setTimestamp();
 
         await interaction.reply({embeds: [embed], ephemeral: true});
-        (stats['help'] ? stats['help']++ : 0);
-        fs.writeFileSync('./data/stats.json', JSON.stringify(stats, null, 2), 'utf-8');
     }
 };
