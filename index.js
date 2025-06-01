@@ -1,13 +1,8 @@
 require('dotenv').config();
-const cron = require('node-cron');
-const upPersonnages = require('./scripts/scraper-personnages');
-const upArmes = require('./scripts/scraper-armes');
-const upArtefacts = require('./scripts/scraper-artefacts');
-const upEnnemis = require('./scripts/scraper-ennemis');
-const { log } = require('./utils/logger');
-
 const { Client, GatewayIntentBits, Collection } = require('discord.js');
 const fs = require('fs');
+
+const { log } = require('./utils/logger');
 
 const client = new Client({
     intents: [GatewayIntentBits.Guilds]
@@ -25,12 +20,13 @@ client.once('ready', () => {
     client.user.setActivity('/personnage', { type: 'LISTENING' });
 });
 
+// Gestion autocomplétion
 client.on('interactionCreate', async interaction => {
     if (interaction.isAutocomplete()) {
         const command = client.commands.get(interaction.commandName);
         if (!command) return;
 
-        try{
+        try {
             await command.autocomplete(interaction);
         } catch (error) {
             console.error(error);
@@ -50,16 +46,13 @@ client.on('interactionCreate', async interaction => {
     }
 });
 
-// cron exécute les scrapers à intervalle régulier => automatisation
-cron.schedule('0 0 1 * *', async () => { // tous les 1er de chaque mois
-    log('⏳ Mise à jour automatique des contenus...');
-    await upPersonnages();
-    await upArmes();
-    await upArtefacts();
-    await upEnnemis();
-});
+// Gestion des événements
+require('./event/ev_link').event_link(client);
 
-// gestion manuelle des crashs
+// Gestion scheduler
+require('./utils/scheduler').scheduler();
+
+// Gestion manuelle des crashs
 client.on('error', err => log('Erreur client Discord', err));
 process.on('unhandledRejection', err => log('Rejection non capturée', err));
 process.on('uncaughtException', err => log('Exception non capturée', err));

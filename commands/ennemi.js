@@ -15,7 +15,10 @@ module.exports = {
         const nom = interaction.options.getString('nom');
         const ennemi = ennemis.find(e => e.nom === nom)
         if (!ennemi) {
-            return interaction.reply({ content: '❌ Ennemi introuvable.', ephemeral: true });
+            return interaction.reply({
+                content: '❌ Ennemi introuvable.',
+                ephemeral: true
+            });
         }
 
         const embed = new EmbedBuilder()
@@ -23,12 +26,29 @@ module.exports = {
             .setURL(ennemi.url)
             .setImage(ennemi.img)
             .setThumbnail(ennemi.thumb)
+            .setColor(0x1e2a38) // couleur sombre evoquant la resine
             .setDescription(
                 `${ennemi.type} (${ennemi.description})\n\n` +
                 `Clique sur le lien ci-dessus pour consulter la fiche complète d${('aeiouyé'.includes(ennemi.nom.toLowerCase()[0]) && !'aeiouyé'.includes(ennemi.nom.toLowerCase()[1])) ? '\'' : 'e '}**${ennemi.nom}** sur le site de la Gazette de Teyvat.`
+            );
+        if (ennemi.type.startsWith('Boss'))
+            embed.addFields(
+                {
+                    name: 'Butin',
+                    value: `${ennemi.boss.butin.map(s =>
+                        '**•** ' + s
+                    ).join('\n')}`,
+                    inline: true
+                },
+                {
+                    name: 'Succès associés',
+                    value: `${ennemi.boss.succes.map(s =>
+                        '**•** ' + s
+                    ).join('\n')}`,
+                    inline: true
+                }
             )
-            .setColor(0x1e2a38)
-            .setTimestamp();
+                .setTimestamp();
 
         await interaction.reply({ embeds: [embed] });
     },

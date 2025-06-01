@@ -4,265 +4,598 @@
     "url": "https://lagazettedeteyvat.fr/artefacts/ame-des-profondeurs/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Ame-des-profondeurs-1.webp",
     "origine": "Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Ame-des-profondeurs-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Ame-des-profondeurs-guide.webp",
+    "sources_obtention": [
+      "Donjon : Pic de Vindagnyr (Mondstadt)",
+      "Offrande mystique"
+    ],
+    "personnages_conseilles": {
+      "top": "Kamisato Ayato, Tartaglia, Candace",
+      "good": "Neuvillette, Mona, Mualani",
+      "ok": null
+    }
   },
   {
     "nom": "Amour chéri",
     "url": "https://lagazettedeteyvat.fr/artefacts/amour-cheri/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Amour-cheri-1.webp",
     "origine": "Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Amour-cheri-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Amour-cheri-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Vallée de la réminiscence (Mondstadt)"
+    ],
+    "personnages_conseilles": {
+      "top": "Bennett, Barbara, Noëlle, Dori, Diona",
+      "good": "Chevreuse, Sigewinne, Sangonomiya Kokomi, Qiqi, Charlotte",
+      "ok": "Yaoyao, Baizhu"
+    }
   },
   {
     "nom": "Ancien rituel royal",
     "url": "https://lagazettedeteyvat.fr/artefacts/ancien-rituel-royal/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Ancien-rituel-royal-1.webp",
     "origine": "Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Ancien-rituel-royal-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Ancien-rituel-royal-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Lagunes et montagnes (Liyue)"
+    ],
+    "personnages_conseilles": {
+      "top": "Bennett, Jean, Charlotte, Diona, Mika, Shenhe, Baizhu, Dori, Gorou, Candace, Mona, Chevreuse, Yanfei, Amber, Faruzan, Kujou Sara, Rosalia",
+      "good": "Lisa, Voyageur Électro, Voyageur Géo, Barbara, Thomas, Xinyan, Chongyun, Kaeya, Kirara, Lan Yan, Iansan",
+      "ok": "Aloy"
+    }
   },
   {
     "nom": "Au-delà cinabrin",
     "url": "https://lagazettedeteyvat.fr/artefacts/au-dela-cinabrin/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Au-dela-cinabrin-1.webp",
     "origine": "Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Au-dela-cinabrin-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Au-dela-cinabrin-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Vallée recluse (Liyue)"
+    ],
+    "personnages_conseilles": {
+      "top": "Xiao",
+      "good": "Wriothesley",
+      "ok": null
+    }
   },
   {
     "nom": "Bande vagabonde",
     "url": "https://lagazettedeteyvat.fr/artefacts/bande-vagabonde/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Bande-vagabonde-1.webp",
     "origine": "Boss",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Bande-vagabonde-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Bande-vagabonde-guide-1.webp",
+    "sources_obtention": [
+      "Boss du monde, boss hebdomadaire",
+      "Offrande mystique"
+    ],
+    "personnages_conseilles": {
+      "top": "Tighnari, Ganyu, Yanfei, Amber, Sethos",
+      "good": "Chasca, Neuvillette",
+      "ok": "Lyney"
+    }
   },
   {
     "nom": "Briseur de glace",
     "url": "https://lagazettedeteyvat.fr/artefacts/briseur-de-glace/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Briseur-de-glace-1.webp",
     "origine": "Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Briseur-de-glace-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Briseur-de-glace-guide-1.webp",
+    "sources_obtention": [
+      "Donjon : Pic de Vindagnyr (Mondstadt)",
+      "Offrande mystique"
+    ],
+    "personnages_conseilles": {
+      "top": "Kamisato Ayaka, Wriothesley, Ganyu, Kaeya, Aloy, Shenhe",
+      "good": "Shenhe",
+      "ok": null
+    }
   },
   {
     "nom": "Chanson des jours d'antan",
     "url": "https://lagazettedeteyvat.fr/artefacts/chanson-des-jours-dantan/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Chanson-des-jours-dantan-1.webp",
     "origine": "Fontaine",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Chanson-des-jours-dantan-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Chanson-des-jours-dantan-guide-1.webp",
+    "sources_obtention": [
+      "Donjon : Ville des cascades (Fontaine)"
+    ],
+    "personnages_conseilles": {
+      "top": "Xianyun, Charlotte, Barbara, Sigewinne, Chevreuse, Baizhu",
+      "good": "Qiqi",
+      "ok": null
+    }
   },
   {
     "nom": "Chasseur de la Maréchaussée",
     "url": "https://lagazettedeteyvat.fr/artefacts/chasseur-de-la-marechaussee/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Chasseur-de-la-Marechaussee-1.webp",
     "origine": "Fontaine",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Chasseur-de-la-Marechaussee-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Chasseur-de-la-Marechaussee-guide.webp",
+    "sources_obtention": [
+      "Donjon : Dénouement des péchés (Fontaine)",
+      "Offrande mystique"
+    ],
+    "personnages_conseilles": {
+      "top": "Gaming, Lyney, Neuvillette, Wriothesley, Xiao, Hu Tao",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Chevalerie ensanglantée",
     "url": "https://lagazettedeteyvat.fr/artefacts/chevalerie-ensanglantee-genshin-impact/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Chevalerie-ensanglantee-1.webp",
     "origine": "Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Chevalerie-ensanglantee-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Chevalerie-ensanglantee-guide.webp",
+    "sources_obtention": [
+      ""
+    ],
+    "personnages_conseilles": {
+      "top": "Xinyan, Fréminet, Eula, Razor",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Chronique du Pavillon du désert",
     "url": "https://lagazettedeteyvat.fr/artefacts/chronique-du-pavillon-du-desert/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Chronique-du-Pavillon-du-desert.webp",
     "origine": "Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Chronique-du-Pavillon-du-desert-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Chronique-du-Pavillon-du-desert-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Cité d’or (Sumeru)"
+    ],
+    "personnages_conseilles": {
+      "top": "Nomade, Sethos, Shikanoin Heizou, Xianyun",
+      "good": "Chasca",
+      "ok": null
+    }
   },
   {
     "nom": "Codex d'obsidienne",
     "url": "https://lagazettedeteyvat.fr/artefacts/codex-dobsidienne/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Codex-dobsidienne.webp",
     "origine": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Codex-dobsidienne-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Codex-dobsidienne-guide-1.webp",
+    "sources_obtention": [
+      "Donjon : Sanctuaire des esprits (Natlan)"
+    ],
+    "personnages_conseilles": {
+      "top": "Kinich, Mualani, Xilonen, Chasca, Mavuika, Varesa",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Colère de tonnerre",
     "url": "https://lagazettedeteyvat.fr/artefacts/colere-de-tonnerre-2/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Colere-de-tonnerre-1.webp",
     "origine": "Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Colere-de-tonnerre-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Colere-de-tonnerre-guide.webp",
+    "sources_obtention": [
+      "Donjon : Jardin estival (Mondstadt)",
+      "Offrande mystique"
+    ],
+    "personnages_conseilles": {
+      "top": "Cyno, Keqing, Lisa",
+      "good": "Clorinde, Sethos",
+      "ok": null
+    }
   },
   {
     "nom": "Coquille des rêves opulents",
     "url": "https://lagazettedeteyvat.fr/artefacts/coquille-des-reves-opulents/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Coquille-des-reves-opulents-1.webp",
     "origine": "Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Coquille-des-reves-opulents-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Coquille-des-reves-opulents-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Cour d’hibernation (Inazuma)"
+    ],
+    "personnages_conseilles": {
+      "top": "Arataki Itto, Albedo, Chiori, Noëlle, Yun Jin, Xinyan",
+      "good": "Kachina",
+      "ok": null
+    }
   },
   {
     "nom": "Dompteur de foudre",
     "url": "https://lagazettedeteyvat.fr/artefacts/dompteur-de-foudre/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Dompteur-de-foudre.webp",
     "origine": "Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Dompteur-de-foudre-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Dompteur-de-foudre-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Jardin estival (Mondstadt)"
+    ],
+    "personnages_conseilles": {
+      "top": "Fischl, Keqing",
+      "good": "Beidou, Cyno, Sethos, Lisa, Clorinde",
+      "ok": null
+    }
   },
   {
     "nom": "Échos d'une offrande",
     "url": "https://lagazettedeteyvat.fr/artefacts/echos-dune-offrande/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Echos-dune-offrande-1.webp",
     "origine": "Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Echos-dune-offrande-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Echos-dune-offrande-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Vallée recluse (Liyue)"
+    ],
+    "personnages_conseilles": {
+      "top": "Kamisato Ayato",
+      "good": "Yoimiya",
+      "ok": null
+    }
   },
   {
     "nom": "Emblême du destin brisé",
     "url": "https://lagazettedeteyvat.fr/artefacts/embleme-du-destin-brise/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Embleme-du-destin-brise-1.webp",
     "origine": "Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Embleme-du-destin-brise-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Embleme-du-destin-brise-guide-1.webp",
+    "sources_obtention": [
+      "Donjon : Cour Momiji (Inazuma)",
+      "Offrande mystique"
+    ],
+    "personnages_conseilles": {
+      "top": "Venti, Aloy, Xiangling, Kaeya, Rosalia, Shogun Raiden, Kujou Sara, Candace, Yelan, Xingqiu, Dehya, Beidou",
+      "good": "Lisa, Chongyun",
+      "ok": "Xinyan"
+    }
   },
   {
     "nom": "Finale des galeries profondes",
     "url": "https://lagazettedeteyvat.fr/artefacts/finale-des-galeries-profondes/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Finale-des-galeries-profondes.webp",
     "origine": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Finale-des-galeries-profondes-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Finale-des-galeries-profondes-guide-1.webp",
+    "sources_obtention": [
+      "Donjon : Quai de maçonnerie abandonné (Natlan)"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Flamme blême",
     "url": "https://lagazettedeteyvat.fr/artefacts/flamme-bleme/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Flamme-bleme-1.webp",
     "origine": "Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Flamme-bleme-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Flamme-bleme-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Garde de la montagne (Liyue)"
+    ],
+    "personnages_conseilles": {
+      "top": "Eula, Fréminet, Razor, Xinyan",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Fleur du paradis perdu",
     "url": "https://lagazettedeteyvat.fr/artefacts/fleur-du-paradis-perdu/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Fleur-du-paradis-perdu-1.webp",
     "origine": "Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Fleur-du-paradis-perdu-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Fleur-du-paradis-perdu-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Cité d’or (Sumeru)"
+    ],
+    "personnages_conseilles": {
+      "top": "Shogun Raiden, Kuki Shinobu, Barbara, Voyageur Hydro, Sangonomiya Kokomi, Candace, Kaveh, Collei, Yaoyao, Razor, Dehya, Thomas",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Fragment d’harmonie divergente",
     "url": "https://lagazettedeteyvat.fr/artefacts/fragment-dharmonie-divergente/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Fragment-dharmonie-divergente-1.webp",
     "origine": "Fontaine",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Fragment-dharmonie-divergente-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Fragment-dharmonie-divergente-guide-1.webp",
+    "sources_obtention": [
+      "Donjon : Théâtre fané (Fontaine)"
+    ],
+    "personnages_conseilles": {
+      "top": "Arlecchino, Clorinde",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Lueur du vourukasha",
     "url": "https://lagazettedeteyvat.fr/artefacts/lueur-du-vourukasha/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Lueur-du-vourukasha.webp",
     "origine": "Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Lueur-du-vourukasha-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Lueur-du-vourukasha-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Forteresse de fer en fusion (Sumeru)"
+    ],
+    "personnages_conseilles": {
+      "top": "Nilou, Kirara, Dehya",
+      "good": "Candace, Layla",
+      "ok": null
+    }
   },
   {
     "nom": "Marcheur du feu",
     "url": "https://lagazettedeteyvat.fr/artefacts/marcheur-du-feu/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Marcheur-de-feu-1.webp",
     "origine": "Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Marcheur-du-feu-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Marcheur-du-feu-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Palais secret de la formule de Zhou (Liyue)"
+    ],
+    "personnages_conseilles": {
+      "top": "Lyney",
+      "good": "Arlecchino, Yoimiya, Klee, Wriothesley, Chongyun, Rosalia, Kaeya",
+      "ok": null
+    }
   },
   {
     "nom": "Météore inversé",
     "url": "https://lagazettedeteyvat.fr/artefacts/meteore-inverse/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Meteore-inverse-1.webp",
     "origine": "Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Meteore-inverse-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Meteore-inverse-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Au-dessus des nuages (Liyue)"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Arataki Itto",
+      "ok": null
+    }
   },
   {
     "nom": "Murmure nocturne en forêt d'échos",
     "url": "https://lagazettedeteyvat.fr/artefacts/murmure-nocturne-en-foret-dechos/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Murmure-nocturne-en-foret-dechos-1.webp",
     "origine": "Fontaine",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Murmure-nocturne-en-foret-dechos-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Murmure-nocturne-en-foret-dechos-guide.webp",
+    "sources_obtention": [
+      "Donjon : Ville des cascades (Fontaine)"
+    ],
+    "personnages_conseilles": {
+      "top": "Navia, Ningguang",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Ombre de la Verte Chasseuse",
     "url": "https://lagazettedeteyvat.fr/artefacts/ombre-de-la-verte-chasseuse/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Ombre-de-la-Verte-Chasseuse-1.webp",
     "origine": "Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Ombre-de-la-Verte-Chasseuse-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Ombre-de-la-Verte-Chasseuse-guide-1.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Vallée de la réminiscence (Mondstadt)"
+    ],
+    "personnages_conseilles": {
+      "top": "Jean, Kaedehara Kazuha, Lynette, Nomade, Sayu, Shikanoin Heizou, Sucrose, Voyageur Anémo, Venti, Xianyun, Xiao, Faruzan, Lan Yan, Yumemizuki Mizuki",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Palourde aux teintes océaniques",
     "url": "https://lagazettedeteyvat.fr/artefacts/palourde-aux-teintes-oceaniques/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Palourde-aux-teintes-oceaniques-1.webp",
     "origine": "Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Palourde-aux-teintes-oceaniques-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Palourde-aux-teintes-oceaniques-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Cour d’hibernation (Inazuma)"
+    ],
+    "personnages_conseilles": {
+      "top": "Sangonomiya Kokomi, Sigewinne, Qiqi, Barbara, Baizhu, Noëlle, Mika",
+      "good": "Xianyun, Kaveh, Sangonomiya Kokomi",
+      "ok": null
+    }
   },
   {
     "nom": "Parchemin du héros de la Cité de braise",
     "url": "https://lagazettedeteyvat.fr/artefacts/parchemin-du-heros-de-la-cite-de-braise/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Parchemin-du-heros-de-la-Cite-de-braise.webp",
     "origine": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Parchemin-du-heros-de-la-Cite-de-braise-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Parchemin-du-heros-de-la-Cite-de-braise-guide-1.webp",
+    "sources_obtention": [
+      "Donjon : Sanctuaire des esprits (Natlan)"
+    ],
+    "personnages_conseilles": {
+      "top": "Kachina, Xilonen, Mika, Ororon, Citlali, Iansan",
+      "good": "Candace, Diona, Layla, Dori, Gorou, Barbara, Baizhu, Kuki Shinobu",
+      "ok": "Candace, Charlotte"
+    }
   },
   {
     "nom": "Réminiscence nostalgique",
     "url": "https://lagazettedeteyvat.fr/artefacts/reminiscence-nostalgique/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Reminiscence-nostalgique-1.webp",
     "origine": "Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Reminiscence-nostalgique-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Reminiscence-nostalgique-guide.webp",
+    "sources_obtention": [
+      "Donjon : Cour Momiji (Inazuma)",
+      "Offrande mystique"
+    ],
+    "personnages_conseilles": {
+      "top": "Nomade, Ganyu, Yoimiya, Aloy, Wriothesley, Hu Tao, Amber",
+      "good": "Lyney, Wriothesley, Mona, Xianyun",
+      "ok": null
+    }
   },
   {
     "nom": "Rêve de la nymphe",
     "url": "https://lagazettedeteyvat.fr/artefacts/reve-de-la-nymphe/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Reve-de-la-nymphe.webp",
     "origine": "Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Reve-de-la-nymphe-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Reve-de-la-nymphe-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Forteresse de fer en fusion (Sumeru)"
+    ],
+    "personnages_conseilles": {
+      "top": "Tartaglia",
+      "good": "Kamisato Ayato",
+      "ok": null
+    }
   },
   {
     "nom": "Rêve doré",
     "url": "https://lagazettedeteyvat.fr/artefacts/reve-dore/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Reve-dore-1.webp",
     "origine": "Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Reve-dore-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Reve-dore-guide.webp",
+    "sources_obtention": [
+      "Donjon : Tour de l’illumination (Sumeru)",
+      "Offrande mystique"
+    ],
+    "personnages_conseilles": {
+      "top": "Sangonomiya Kokomi, Barbara, Alhaitham, Tighnari, Yae Miko, Fischl, Cyno, Shogun Raiden, Kuki Shinobu, Razor, Keqing, Nahida, Lisa, Diluc, Voyageur Hydro, Mona, Candace, Kaeya, Rosalia, Citlali, Mavuika",
+      "good": "Hu Tao, Yanfei, Thomas, Gaming, Dehya, Mualani, Sethos, Ganyu, Chongyun, Collei, Voyageur Dendro",
+      "ok": null
+    }
   },
   {
     "nom": "Rêverie incomplète",
     "url": "https://lagazettedeteyvat.fr/artefacts/reverie-incomplete/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Reverie-incomplete-1.webp",
     "origine": "Fontaine",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Reverie-incomplete-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Reverie-incomplete-guide-1.webp",
+    "sources_obtention": [
+      "Donjon : Théâtre fané (Fontaine)"
+    ],
+    "personnages_conseilles": {
+      "top": "Émilie, Ganyu, Kinich, Mualani, Wriothesley, Rosalia, Kaeya",
+      "good": "Arlecchino, Lyney",
+      "ok": null
+    }
   },
   {
     "nom": "Rideau du Gladiateur",
     "url": "https://lagazettedeteyvat.fr/artefacts/rideau-du-gladiateur/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Rideau-du-gladiateur.webp",
     "origine": "Boss",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Rideau-du-Gladiateur-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Rideau-du-Gladiateur-guide-1.webp",
+    "sources_obtention": [
+      "Boss du monde, boss hebdomadaires",
+      "Offrande mystique"
+    ],
+    "personnages_conseilles": {
+      "top": "Kamisato Ayato, Clorinde, Arlecchino",
+      "good": "Noëlle, Razor, Cyno",
+      "ok": null
+    }
   },
   {
     "nom": "Roche ancienne",
     "url": "https://lagazettedeteyvat.fr/artefacts/roche-ancienne/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Roche-ancienne.webp",
     "origine": "Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Roche-ancienne-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Roche-ancienne-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Au-dessus des nuages (Liyue)"
+    ],
+    "personnages_conseilles": {
+      "top": "Noëlle, Yun Jin",
+      "good": "Noëlle, Ningguang, Zhongli",
+      "ok": null
+    }
   },
   {
     "nom": "Serment de la longue nuit",
     "url": "https://lagazettedeteyvat.fr/artefacts/serment-de-la-longue-nuit/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Serment-de-la-longue-nuit.webp",
     "origine": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Serment-de-la-longue-nuit-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Serment-de-la-longue-nuit-guide.webp",
+    "sources_obtention": [
+      "Donjon : Quai de maçonnerie abandonné (Natlan)"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Sorcière des flammes ardentes",
     "url": "https://lagazettedeteyvat.fr/artefacts/sorciere-des-flammes-ardentes/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Sorciere-des-flammes-ardentes.webp",
     "origine": "Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Sorciere-des-flammes-ardentes-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Sorciere-des-flammes-ardentes-guide.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Palais secret de la formule de Zhou (Liyue)"
+    ],
+    "personnages_conseilles": {
+      "top": "Hu Tao, Arlecchino, Diluc, Gaming, Amber, Yanfei, Mavuika",
+      "good": "Yoimiya, Klee",
+      "ok": null
+    }
   },
   {
     "nom": "Souvenir de forêt",
     "url": "https://lagazettedeteyvat.fr/artefacts/souvenir-de-foret/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Souvenir-de-foret-1.webp",
     "origine": "Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Souvenir-de-foret-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Souvenir-de-foret-guide.webp",
+    "sources_obtention": [
+      "Donjon : Tour de l’illumination (Sumeru)",
+      "Offrande mystique"
+    ],
+    "personnages_conseilles": {
+      "top": "Baizhu, Kirara, Nahida, Yaoyao, Voyageur Dendro, Émilie, Dori, Tighnari, Kaveh, Nilou",
+      "good": "Zhongli, Kinich, Voyageur Hydro, Thomas",
+      "ok": null
+    }
   },
   {
     "nom": "Ténacité du Millelithe",
     "url": "https://lagazettedeteyvat.fr/artefacts/tenacite-du-millelithe/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Tenacite-du-Millelithe.webp",
     "origine": "Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Tenacite-du-Millelithe-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Tenacite-du-Millelithe-guide-1.webp",
+    "sources_obtention": [
+      "Offrande mystique",
+      "Donjon : Garde de la montagne (Liyue)"
+    ],
+    "personnages_conseilles": {
+      "top": "Zhongli, Faruzan, Layla, Dehya, Sangonomiya Kokomi, Nilou, Xinyan",
+      "good": "Sigewinne, Qiqi, Kuki Shinobu, Charlotte",
+      "ok": "Albedo"
+    }
   },
   {
     "nom": "Troupe dorée",
     "url": "https://lagazettedeteyvat.fr/artefacts/troupe-doree/",
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Troupe-doree-1.webp",
     "origine": "Fontaine",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Troupe-doree-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Troupe-doree-guide.webp",
+    "sources_obtention": [
+      "Donjon : Dénouement des péchés (Fontaine)",
+      "Offrande mystique"
+    ],
+    "personnages_conseilles": {
+      "top": "Furina, Albedo, Chiori, Fischl, Yae Miko",
+      "good": "Nahida, Kachina, Navia, Kinich",
+      "ok": null
+    }
   }
 ]

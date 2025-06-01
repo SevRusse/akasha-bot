@@ -5,7 +5,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Aide-de-Tupayo-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Aide-de-Tupayo-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Aide-de-Tupayo-guide-1.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Algorithme de semi-intransition matriciaire d’observation en néo-réseau",
@@ -13,7 +17,20 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/10/Algorithme-de-semi-intransition-matriciaire-dobservation-en-neo-reseau.png",
     "type": "Boss du monde",
     "description": "Anémo, Pyro, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/ASIMON-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/ASIMON-guide.webp",
+    "boss": {
+      "butin": [
+        "Turquoise vayuda (Anémo)",
+        "Agate agnidus (Pyro)",
+        "Tétraèdre de lumière (Candace, Faruzan, Dehya)"
+      ],
+      "succes": [
+        "Brûle, mon cosmos !",
+        "Choc, oh là !",
+        "Daisy, Daisy",
+        "Toujours légèrement inférieur"
+      ]
+    }
   },
   {
     "nom": "Arbre congelé",
@@ -21,7 +38,19 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Arbre-congele-1.webp",
     "type": "Boss du monde",
     "description": "Cryo, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Arbre-congele-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Arbre-congele-guide.webp",
+    "boss": {
+      "butin": [
+        "Jade shivada (Cryo)",
+        "Duramen de glace (Kaeya, Qiqi, Chongyun, Ganyu, Diona, Rosalia)"
+      ],
+      "succes": [
+        "Jardinage pro",
+        "Rien qu’un arbre",
+        "Vertigo",
+        "Maître corbeau, sur un Arbre congelé"
+      ]
+    }
   },
   {
     "nom": "Arbre enflammé",
@@ -29,7 +58,19 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Arbre-enflamme-1.webp",
     "type": "Boss du monde",
     "description": "Liyue, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Arbre-enflamme-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Arbre-enflamme-guide.webp",
+    "boss": {
+      "butin": [
+        "Agate agnidus (Pyro)",
+        "Graine de feu (Diluc, Amber, Xiangling, Klee, Bennett, Xinyan)"
+      ],
+      "succes": [
+        "Jardinage chaud",
+        "Super chaud",
+        "Fusion du noyau",
+        "Tout va bien"
+      ]
+    }
   },
   {
     "nom": "Arbre foudroyé",
@@ -37,7 +78,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Arbre-foudroye-Genshin-Impact.webp",
     "type": "Boss du monde",
     "description": "Électro, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arbre-foudroye-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arbre-foudroye-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Améthyste vajrada (Électro)",
+        "Fruit du tonnerre (Dori, Cyno)"
+      ],
+      "succes": [
+        "La rencontre du vent et de la rosée",
+        "Danger ! Électricité !"
+      ]
+    }
   },
   {
     "nom": "Automate de source secrète \"Configurateur\"",
@@ -45,7 +96,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Constructeur-de-source-secrete.webp",
     "type": "Boss du monde",
     "description": "Électro, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/10/Automate-de-source-secrete-Configurateur-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/10/Automate-de-source-secrete-Configurateur-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Améthyste vajrada (Électro)",
+        "Noyau source aux motifs dorés secrets (Xilonen, Mavuika)"
+      ],
+      "succes": [
+        "Y a-t-il une pleine lune ?",
+        "« C’est trop tard, inorganiques ! »"
+      ]
+    }
   },
   {
     "nom": "Automate de source secrète « Surveillant »",
@@ -53,7 +114,16 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Automate-de-source-secrete-Surveillant.webp",
     "type": "Boss du monde",
     "description": "Hydro, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Automate-de-source-secrete-Surveillant-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Automate-de-source-secrete-Surveillant-guide.webp",
+    "boss": {
+      "butin": [
+        "Lazurite varunada (Hydro)",
+        "Accumulateur d’air de source secrète (Escoffier)"
+      ],
+      "succes": [
+        "Gel liquide"
+      ]
+    }
   },
   {
     "nom": "Balachko",
@@ -61,7 +131,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Balachko-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Balachko-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Balachko-guide-1.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Barbe-fer",
@@ -69,7 +143,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Barbe-fer-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Barbe-fer-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Barbe-fer-guide.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Bénédiction d'Atlatl",
@@ -77,7 +155,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Benediction-dAtlatl-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Benediction-dAtlatl-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Benediction-dAtlatl-guide-1.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Champieffroi panaché",
@@ -85,7 +167,20 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Champieffroi-panache-Genshin-Impact.webp",
     "type": "Boss du monde",
     "description": "Dendro, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Champieffroi-panache-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Champieffroi-panache-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Émeraude nagadus (Dendro)",
+        "Bec crochu majestueux (Collei, Tighnari)"
+      ],
+      "succes": [
+        "Jamais deux sans trois ?",
+        "Flexitarienne",
+        "Nanomachines, fistons !",
+        "Kaput !",
+        "L’odeur des champignons grillés le matin…"
+      ]
+    }
   },
   {
     "nom": "Chèvre de bataille & Griffe de fer",
@@ -93,7 +188,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Chevre-de-bataille-et-Griffe-de-fer-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Chevre-de-bataille-et-Griffe-de-fer-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Chevre-de-bataille-et-Griffe-de-fer-guide.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Cihuacoatl d'os chimérique",
@@ -101,7 +200,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Cihuacoatl-dos-chimerique-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Cihuacoatl-dos-chimerique-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Cihuacoatl-dos-chimerique-guide-1.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Cocijo",
@@ -109,7 +212,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Cocijo-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Cocijo-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Cocijo-guide-1.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Dragon cataclysmique",
@@ -117,7 +224,20 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/11/Enemy_Aeonblight_Drake_Icon.webp",
     "type": "Boss du monde",
     "description": "Cryo, Hydro, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Dragon-cataclysmique-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Dragon-cataclysmique-guide.webp",
+    "boss": {
+      "butin": [
+        "Lazurite varunada (Hydro)",
+        "Jade shivada (Cryo)",
+        "Calibre perpétuel (Nilou, Layla, Nomade)"
+      ],
+      "succes": [
+        "Toute résistance est vaine !",
+        "C’est dans la tête, tout ça !",
+        "Comment abattre votre dragon",
+        "Fin de l’éternel retour"
+      ]
+    }
   },
   {
     "nom": "Égide d'Ichcahuipilli",
@@ -125,7 +245,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Egide-dIchcahuipilli-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Egide-dIchcahuipilli-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Egide-dIchcahuipilli-guide-1.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Empereur du feu ferreux",
@@ -133,7 +257,18 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Empereur-de-feu-ferreux.webp",
     "type": "Boss du monde",
     "description": "Fontaine, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Empereur-du-feu-ferreux-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Empereur-du-feu-ferreux-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Agate agnidus (Pyro)",
+        "Résolution de l’empereur (Lyney, Gaming)"
+      ],
+      "succes": [
+        "Le roi est mort, vive le roi !",
+        "Une chasse réussie",
+        "Du crabe pour le trône des crabes"
+      ]
+    }
   },
   {
     "nom": "Esprit d'étoile filante déchue",
@@ -141,7 +276,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Esprit-detoile-filante-dechue-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Esprit-detoile-filante-dechue-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Esprit-detoile-filante-dechue-guide-1.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Générateur de champ expérimental",
@@ -149,7 +288,18 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Generateur-de-champ-experimental-icon.webp",
     "type": "Boss du monde",
     "description": "Fontaine, Géo",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Generateur-de-champ-experimental-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Generateur-de-champ-experimental-guide.webp",
+    "boss": {
+      "butin": [
+        "Topaze prithiva (Géo)",
+        "« Appareil Tourbillon » (Wriothesley, Charlotte)"
+      ],
+      "succes": [
+        "Front gravitationnel",
+        "Distance jusqu’à la lune",
+        "Vous croyez aux « champs » ?"
+      ]
+    }
   },
   {
     "nom": "Géosaure antique",
@@ -157,7 +307,24 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Primo_Geovishap_Icon.webp",
     "type": "Boss du monde",
     "description": "Cryo, Électro, Géo, Hydro, Liyue, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Geosaure-antique-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Geosaure-antique-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Améthyste vajrada (Électro)",
+        "Agate agnidus (Pyro)",
+        "Lazurite varunada (Hydro)",
+        "Jade shivada (Cryo)",
+        "Topaze prithiva (Géo)",
+        "Jade juvénile (Xiao, Yanfei, Hu Tao)"
+      ],
+      "succes": [
+        "Réaction élémentaire Géo ?",
+        "C’est à vous ça ?",
+        "On n’est jamais mieux servi…",
+        "La montagne a bougé",
+        "Touche-touche"
+      ]
+    }
   },
   {
     "nom": "Harde d'Élémentosaures abyssaux",
@@ -165,7 +332,18 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Bathysmal_Vishap_Herd_Icon.webp",
     "type": "Boss du monde",
     "description": "Cryo, Électro, Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Harde-dElementosaures-abyssaux-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Harde-dElementosaures-abyssaux-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Jade shivada (Cryo)",
+        "Améthyste vajrada (Électro)",
+        "Fausse nageoire de l’héritier du dragon (Yae Miko, Shenhe)"
+      ],
+      "succes": [
+        "Atterrissage d’urgence",
+        "Natation interdite !"
+      ]
+    }
   },
   {
     "nom": "Hippocampe perlé millénaire",
@@ -173,7 +351,18 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Hyppocampe-perle-millenaire-icon.webp",
     "type": "Boss du monde",
     "description": "Électro, Fontaine",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Hippocampe-perle-millenaire-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Hippocampe-perle-millenaire-guide.webp",
+    "boss": {
+      "butin": [
+        "Améthyste vajrada (Électro)",
+        "Corne fontemarine (Neuvillette, Chevreuse, Clorinde)"
+      ],
+      "succes": [
+        "Collezione di Sabbia",
+        "Fulgura Frango",
+        "Pêche des perles"
+      ]
+    }
   },
   {
     "nom": "Hypostase Anémo",
@@ -181,7 +370,19 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Anemo_Hypostasis_Icon.webp",
     "type": "Boss du monde",
     "description": "Anémo, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Anemo-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Anemo-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Turquoise vayuda (Anémo)",
+        "Graine d’ouragan (Jean, Venti, Sucrose)"
+      ],
+      "succes": [
+        "C’est un énorme papillon cristallin Anémo…",
+        "Non représentative du produit final",
+        "Le vent va, le vent vient",
+        "Qu’il est gros ton papillon cristallin Anémo !"
+      ]
+    }
   },
   {
     "nom": "Hypostase Cryo",
@@ -189,7 +390,18 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Cryo_Hypostasis_Icon.webp",
     "type": "Boss du monde",
     "description": "Cryo, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Cryo-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Cryo-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Jade shivada (Cryo)",
+        "Fleur cristalline (Eula, Aloy)"
+      ],
+      "succes": [
+        "« Il a suffi d’un coup de pelle »",
+        "De la neige jusqu’au cou",
+        "Glace pilée"
+      ]
+    }
   },
   {
     "nom": "Hypostase Dendro",
@@ -197,7 +409,19 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/11/hypostase-dendro-1.webp",
     "type": "Boss du monde",
     "description": "Dendro, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Dendro-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Dendro-guide.webp",
+    "boss": {
+      "butin": [
+        "Émeraude nagadus (Dendro)",
+        "Liane d’oblitération (Nahida, Yaoyao, Kaveh)"
+      ],
+      "succes": [
+        "Plus dure sera la chute",
+        "L’utilisation magique de l’azote",
+        "Le feu, ça brûle",
+        "Vert d’ailleurs"
+      ]
+    }
   },
   {
     "nom": "Hypostase Électro",
@@ -205,7 +429,19 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Electro_Hypostasis_Icon.webp",
     "type": "Boss du monde",
     "description": "Électro, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Electro-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Electro-guide.webp",
+    "boss": {
+      "butin": [
+        "Améthyste vajrada (Électro)",
+        "Prisme d’éclair (Lisa, Razor, Beidou, Fischl, Keqing)"
+      ],
+      "succes": [
+        "Corrosion des forces",
+        "… Lézard, Spock.",
+        "Destruction des prismes",
+        "Avec le sourire !"
+      ]
+    }
   },
   {
     "nom": "Hypostase Géo",
@@ -213,7 +449,19 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Geo_Hypostasis_Icon.webp",
     "type": "Boss du monde",
     "description": "Géo, Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Geo-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Geo-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Topaze prithiva (Géo)",
+        "Pilier de basalte (Ningguang, Zhongli, Noëlle, Albedo)"
+      ],
+      "succes": [
+        "Non-respect des normes de construction",
+        "Invincible",
+        "Respect de l’architecture",
+        "Viser les piliers"
+      ]
+    }
   },
   {
     "nom": "Hypostase Hydro",
@@ -221,7 +469,20 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Hydro_Hypostasis_Icon.webp",
     "type": "Boss du monde",
     "description": "Hydro, Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Hydro-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Hydro-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Lazurite varunada (Hydro)",
+        "Rosée du rejet (Sangonomiya Kokomi, Kamisato Ayato)"
+      ],
+      "succes": [
+        "Semé d’embûches",
+        "Du sel pour toi, de l’eau pour moi",
+        "Nettoyage à sec",
+        "Arme bio-océanique",
+        "De l’eau, en fait"
+      ]
+    }
   },
   {
     "nom": "Hypostase Pyro",
@@ -229,7 +490,19 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Pyro_Hypostasis_Icon.webp",
     "type": "Boss du monde",
     "description": "Inazuma, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Pyro-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hypostase-Pyro-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Agate agnidus (Pyro)",
+        "Perle brûlante (Yoimiya, Thomas)"
+      ],
+      "succes": [
+        "Ouh, ça brûle !",
+        "Smells like animal spirit",
+        "C’est calme… Trop calme.",
+        "Opération feu de joie"
+      ]
+    }
   },
   {
     "nom": "Infinitésimal",
@@ -237,7 +510,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Infinitesimal_icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Infinitesimal-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Infinitesimal-guide.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Lame oni",
@@ -245,7 +522,19 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Maguu_Kenki_Icon.webp",
     "type": "Boss du monde",
     "description": "Anémo, Cryo, Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-oni-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-oni-guide.webp",
+    "boss": {
+      "butin": [
+        "Jade shivada (Cryo)",
+        "Turquoise vayuda (Anémo)",
+        "Mécanisme oni (Kaedehara Kazuha, Sayu)"
+      ],
+      "succes": [
+        "Si je cours assez vite…",
+        "Un vrai combat équitable",
+        "Liens brisés"
+      ]
+    }
   },
   {
     "nom": "Le pic",
@@ -253,7 +542,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Le-pic_icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Le-pic-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Le-pic-guide.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Loup alpha doré",
@@ -261,7 +554,16 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Golden_Wolflord_Icon.webp",
     "type": "Boss du monde",
     "description": "Géo, Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Loup-alpha-dore-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Loup-alpha-dore-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Topaze prithiva (Géo)",
+        "Régalia de faille (Arataki Itto, Yun Jin)"
+      ],
+      "succes": [
+        "La fin des inugami"
+      ]
+    }
   },
   {
     "nom": "Lui qui ne meut jamais",
@@ -269,7 +571,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Lui-qui-ne-meut-jamais-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Lui-qui-ne-meut-jamais-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Lui-qui-ne-meut-jamais-guide-1.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Lustrateur inique",
@@ -277,7 +583,22 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/04/Lustrateur-inique.webp",
     "type": "Boss du monde",
     "description": "Cryo, Électro, Hydro, Pyro, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/06/Lustrateur-inique-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/06/Lustrateur-inique-guide.webp",
+    "boss": {
+      "butin": [
+        "Améthyste vajrada (Électro)",
+        "Agate agnidus (Pyro)",
+        "Lazurite varunada (Hydro)",
+        "Jade shivada (Cryo)",
+        "Anneau de sombreur éternelle (Kirara, Baizhu)"
+      ],
+      "succes": [
+        "Le silence est d’or",
+        "Malgré la barrière entre nous…",
+        "Raisonnement par disjonction de cas",
+        "Présomption de culpabilité"
+      ]
+    }
   },
   {
     "nom": "Luxuriance de Tupu",
@@ -285,7 +606,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Luxuriance-de-Tupu-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Luxuriance-de-Tupu-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Luxuriance-de-Tupu-guide.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Manifestation du tonnerre",
@@ -293,7 +618,20 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Thunder_Manifestation_Icon.webp",
     "type": "Boss du monde",
     "description": "Électro, Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Manifestation-du-tonnerre-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Manifestation-du-tonnerre-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Améthyste vajrada (Électro)",
+        "Perles tempestives (Shogun Raiden, Kujou Sara)"
+      ],
+      "succes": [
+        "Attention non-réciproque",
+        "La chute du tonnerre",
+        "Silence radio",
+        "Paratonnerre",
+        "Nos cœurs à l’unisson"
+      ]
+    }
   },
   {
     "nom": "Matrice mécanique perpétuelle",
@@ -301,7 +639,20 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Perpetual_Mechanical_Array_Icon.webp",
     "type": "Boss du monde",
     "description": "Cryo, Géo, Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Matrice-mecanique-perpetuelle-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Matrice-mecanique-perpetuelle-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Jade shivada (Cryo)",
+        "Topaze prithiva (Géo)",
+        "Cœur perpétuel (Kamisato Ayaka, Gorou)"
+      ],
+      "succes": [
+        "Rupture du noyau",
+        "Accès interdit à toute machine non autorisée ",
+        "Bataille de l’ile de Narukami",
+        "Pas si perpétuelle que ça…"
+      ]
+    }
   },
   {
     "nom": "Océanide",
@@ -309,7 +660,18 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Oceanide_icon.webp",
     "type": "Boss du monde",
     "description": "Hydro, Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Oceanide-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Oceanide-guide.webp",
+    "boss": {
+      "butin": [
+        "Lazurite varunada (Hydro)",
+        "Cœur d’eau pure (Barbara, Xingqiu, Tartaglia, Mona)"
+      ],
+      "succes": [
+        "Chasse Hydro",
+        "Victoire humide",
+        "Un poisson nommé Rhodeia"
+      ]
+    }
   },
   {
     "nom": "Ombre de Chimalli",
@@ -317,7 +679,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Ombre-de-Chimalli-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Ombre-de-Chimalli-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Ombre-de-Chimalli-guide-1.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Papille obombrée",
@@ -325,7 +691,18 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Papille-obombree.webp",
     "type": "Boss du monde",
     "description": "Électro, Natlan, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Papille-obombree-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Papille-obombree-guide.webp",
+    "boss": {
+      "butin": [
+        "Améthyste vajrada (Électro)",
+        "Agate agnidus (Pyro)",
+        "Regard enchevêtrant (Chasca)"
+      ],
+      "succes": [
+        "Cartouche élémentaire perforante",
+        "Un élémentosaure bien singulier…"
+      ]
+    }
   },
   {
     "nom": "Reji",
@@ -333,7 +710,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Reji_icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Reji-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Reji-guide.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Rilai",
@@ -341,7 +722,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Rilai-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Rilai-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Rilai-guide-1.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Roi yumkasaure glouton de la montagne",
@@ -349,7 +734,20 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Roi-yumkasaure-glouton-de-la-montagne.webp",
     "type": "Boss du monde",
     "description": "Dendro, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Roi-yumkasaure-glouton-de-la-montagne-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Roi-yumkasaure-glouton-de-la-montagne-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Émeraude nagadus (Dendro)",
+        "Flamboigrenade surmûre (Kachina, Kinich)"
+      ],
+      "succes": [
+        "Tu es un dinobrute, toi aussi ?",
+        "Le jour où les montagnes se sont effondrées",
+        "« Pour le plus beau »",
+        "De la glace… frite ?",
+        "« Les flamboigrenades, ce n’est pas que pour faire joli ! »"
+      ]
+    }
   },
   {
     "nom": "Sappho au milieu des vagues",
@@ -357,7 +755,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Sappho-au-milieu-des-vagues-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Sappho-au-milieu-des-vagues-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Sappho-au-milieu-des-vagues-guide-1.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Serpent des ruines",
@@ -365,7 +767,18 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Enemy_Ruin_Serpent_Icon.webp",
     "type": "Boss du monde",
     "description": "Géo, Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Serpent-des-ruines-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Serpent-des-ruines-guide.webp",
+    "boss": {
+      "butin": [
+        "Topaze prithiva (Géo)",
+        "Croc runique (Kuki Shinobu, Shikanoin Heizou, Yelan)"
+      ],
+      "succes": [
+        "Ouroboros",
+        "Lumière débordante",
+        "L’héritage d’une civilisation antique"
+      ]
+    }
   },
   {
     "nom": "Solidarité de Potapo",
@@ -373,7 +786,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Solidarite-de-Potapo-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Solidarite-de-Potapo-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Solidarite-de-Potapo-guide.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Spiritoratrice excentrique isolée",
@@ -381,7 +798,16 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Spiritoratrice-excentrique-isolee.webp",
     "type": "Boss du monde",
     "description": "Cryo, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Spiritoratrice-excentrique-isolee-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Spiritoratrice-excentrique-isolee-guide.webp",
+    "boss": {
+      "butin": [
+        "Jade shivada (Cryo)",
+        "Talisman d’une terre mystérieuse (Citlali)"
+      ],
+      "succes": [
+        "Heureusement que je suis d’un meilleur niveau"
+      ]
+    }
   },
   {
     "nom": "Statue de dragon de lave",
@@ -389,7 +815,16 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Statue-de-dragon-de-lave.webp",
     "type": "Boss du monde",
     "description": "Natlan, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Statue-de-dragon-de-lave-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Statue-de-dragon-de-lave-guide.webp",
+    "boss": {
+      "butin": [
+        "Agate agnidus (Pyro)",
+        "Noyau inerte de statue (Varesa)"
+      ],
+      "succes": [
+        "Appuie sur le bouton d’autodestruction !"
+      ]
+    }
   },
   {
     "nom": "Statue de marbre et laiton",
@@ -397,7 +832,19 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/05/Statue-de-marbre-et-laiton.webp",
     "type": "Boss du monde",
     "description": "Fontaine, Géo, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/05/Statue-de-marbre-et-laiton-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/05/Statue-de-marbre-et-laiton-guide.webp",
+    "boss": {
+      "butin": [
+        "Agate agnidus (Pyro)",
+        "Topaze prithiva (Géo)",
+        "Fragment d’une mélodie dorée (Arlecchino, Émilie)"
+      ],
+      "succes": [
+        "« Je crains les Rémuriens… »",
+        "Exercice d’incendie au théâtre",
+        "La splendeur se disperse facilement"
+      ]
+    }
   },
   {
     "nom": "Suanni solitaire",
@@ -405,7 +852,19 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/01/Suanni-solitaire.webp",
     "type": "Boss du monde",
     "description": "Anémo, Hydro, Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/02/Suanni-solitaire-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/02/Suanni-solitaire-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Turquoise vayuda (Anémo)",
+        "Lazurite varunada (Hydro)",
+        "Écaille nuageuse (Xianyun, Sethos)"
+      ],
+      "succes": [
+        "Une impulsion de glace et de vent",
+        "« Meurtre Feng Shui »",
+        "Marcher sur l’eau et traverser les nuages"
+      ]
+    }
   },
   {
     "nom": "Suite cryolienne",
@@ -413,7 +872,21 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Suite-cryolienne.webp",
     "type": "Boss du monde",
     "description": "Anémo, Cryo, Fontaine",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Suite-cryolienne-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Suite-cryolienne-guide.webp",
+    "boss": {
+      "butin": [
+        "Turquoise vayuda (Anémo)",
+        "Jade shivada (Cryo)",
+        "Engrenage artificié de rechange : Coppelia (Lynette, Chiori)",
+        "Engrenage artificié de rechange : Coppelius (Fréminet, Navia)"
+      ],
+      "succes": [
+        "Tempête funéraire",
+        "Lié par la glace ",
+        "Enchaîne-moi, que je sois volontairement détruite",
+        "« Yeah, science ! »"
+      ]
+    }
   },
   {
     "nom": "Tlatzacuilotl",
@@ -421,7 +894,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Tlatzacuilotl-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Tlatzacuilotl-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Tlatzacuilotl-guide-1.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Tri-étoiles polychromes",
@@ -429,7 +906,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Tri-Etoiles-Polychromes-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Tri-etoiles-polychromes-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Tri-etoiles-polychromes-guide-1.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Tulpa Hydro",
@@ -437,7 +918,18 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Tulpa-Hydro-Genshin-Impact.webp",
     "type": "Boss du monde",
     "description": "Fontaine, Hydro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Tulpa-Hydro-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Tulpa-Hydro-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Lazurite varunada (Hydro)",
+        "Eau n’ayant pas transcendé (Furina, Sigewinne)"
+      ],
+      "succes": [
+        "Fuuuuusicooon !",
+        "Sort de sceau non manifesté",
+        "Fausse embryologie de la lumière stellaire"
+      ]
+    }
   },
   {
     "nom": "Tyran qucusaure de flamme dorée",
@@ -445,7 +937,18 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Tyran-qucusaure-de-flamme-doree.webp",
     "type": "Boss du monde",
     "description": "Natlan, Pyro",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Tyran-qucusaure-de-flamme-doree-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Tyran-qucusaure-de-flamme-doree-guide.webp",
+    "boss": {
+      "butin": [
+        "Agate agnidus (Pyro)",
+        "Marque de bénédiction liante (Mualani, Ororon)"
+      ],
+      "succes": [
+        "Les flèches noires du chasseur de sauriens…",
+        "« C’est ainsi que finissent les tyrans »",
+        "« Le bombardier ne passera pas toujours au travers »"
+      ]
+    }
   },
   {
     "nom": "Verrou-Bronze",
@@ -453,7 +956,11 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Verrou-bronze-icone.webp",
     "type": "Légende locale",
     "description": "Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Verrou-Bronze-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Verrou-Bronze-guide-1.webp",
+    "boss": {
+      "butin": null,
+      "succes": null
+    }
   },
   {
     "nom": "Wenut de Setekh",
@@ -461,6 +968,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Wenut-de-Setekh_icon.webp",
     "type": "Boss du monde",
     "description": "Anémo, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/03/Wenut-de-Setekh-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/03/Wenut-de-Setekh-guide-1.webp",
+    "boss": {
+      "butin": [
+        "Turquoise vayuda (Anémo)",
+        "Pseudo-étamines (Alhaitham, Mika)"
+      ],
+      "succes": [
+        "Celui qui contrôle l’épice…",
+        "Voilà ce qu’on appelle les Quatre Vents !",
+        "Rite de passage du peuple du désert"
+      ]
+    }
   }
 ]

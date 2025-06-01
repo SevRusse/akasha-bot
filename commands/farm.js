@@ -25,19 +25,39 @@ module.exports = {
         const nom = interaction.options.getString('nom');
         const perso = personnages.find(p => p.nom === nom)
         if (!perso) {
-            return interaction.reply({ content: '❌ Personnage introuvable.', ephemeral: true });
+            return interaction.reply({
+                content: '❌ Personnage introuvable.',
+                ephemeral: true
+            });
         }
 
         const color = elementColors[perso.element] ?? 0x5865F2; // couleur par défaut
+        const elision = ('aeiouyé'.includes(perso.nom.toLowerCase()[0]) && !'aeiouyé'.includes(perso.nom.toLowerCase()[1])) ? '\'' : 'e ';
 
         const embed = new EmbedBuilder()
             .setTitle(perso.nom)
             .setURL(perso.url)
-            .setImage(perso.farm)
+            .setImage(perso.farm.farmUrl)
             .setThumbnail(perso.thumb)
             .setDescription(
                 `${perso.description}\n\n` +
-                `Clique sur le lien ci-dessus pour consulter la fiche de farm complète d${('aeiouyé'.includes(perso.nom.toLowerCase()[0]) && !'aeiouyé'.includes(perso.nom.toLowerCase()[1])) ? '\'' : 'e '}**${perso.nom}** sur le site de la Gazette de Teyvat.`
+                `Clique sur le lien ci-dessus pour consulter la fiche de farm complète d${elision}**${perso.nom}** sur le site de la Gazette de Teyvat.`
+            )
+            .addFields(
+                {
+                    name: `Matériaux d\'élévation d${elision}${perso.nom}`,
+                    value: `${perso.farm.materiaux_personnage
+                            .map(s => '**•** ' + s)
+                            .join('\n')}`,
+                    inline: true
+                },
+                {
+                    name: 'Matériaux d\'élévation d\'aptitude',
+                    value: `${perso.farm.materiaux_aptitudes
+                            .map(s => '**•** ' + s)
+                            .join('\n')}`,
+                    inline: true
+                }
             )
             .setColor(color)
             .setTimestamp();

@@ -5,7 +5,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Mega-epee-magique-du-suzerain-ultime_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Événement limité, Version 4.3",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Mega-epee-magique-du-suzerain-ultime-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Mega-epee-magique-du-suzerain-ultime-guide-1.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Opérateur Fatui",
+      "Méka horlogoïde"
+    ],
+    "personnages_conseilles": {
+      "top": "Eula, Razor, Noëlle, Sayu, Fréminet, Gaming",
+      "good": "Diluc, Xinyan, Beidou, Chongyun, Dehya, Navia",
+      "ok": "Arataki Itto"
+    }
   },
   {
     "nom": "Absolution",
@@ -13,7 +23,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/05/Absolution_icone.webp",
     "rarete": "5★",
     "description": "5★, Clorinde, Épée à une main, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Absolution-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Absolution-guide-2.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Opérateur Fatui",
+      "Méka horlogoïde"
+    ],
+    "personnages_conseilles": {
+      "top": "Clorinde, Keqing, Kamisato Ayaka, Kamisato Ayato, Kaeya, Lynette, Alhaitham, Xingqiu",
+      "good": "Albedo, Voyageur Géo, Furina, Chiori",
+      "ok": "Jean"
+    }
   },
   {
     "nom": "Agate de Rochenoire",
@@ -21,7 +41,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Agate-de-Rochenoire_icone.webp",
     "rarete": "4★",
     "description": "4★, Boutique, Catalyseur",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Agate-de-Rochenoire-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Agate-de-Rochenoire-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Brutoshaman"
+    ],
+    "personnages_conseilles": {
+      "top": "Yanfei, Klee, Lisa, Ningguang, Shikanoin Heizou, Nomade, Wriothesley, Xianyun",
+      "good": "Yae Miko, Lisa, Mona",
+      "ok": "Nahida"
+    }
   },
   {
     "nom": "Aigue-marine de Makhaira",
@@ -29,7 +59,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/09/Aigue-marine-de-Makhaira_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Aigue-marine-de-Makhaira-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Aigue-marine-de-Makhaira-guide-2.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Dragon des ruines",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": "Diluc, Sayu, Razor, Gaming",
+      "good": "Chongyun, Dehya, Kaveh, Mavuika",
+      "ok": null
+    }
   },
   {
     "nom": "Aileron de brise-vagues",
@@ -37,7 +77,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Aileron-de-brise-vagues_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Aileron-de-brise-vagues-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Aileron-de-brise-vagues-guide.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Loup de faille",
+      "Nobushi"
+    ],
+    "personnages_conseilles": {
+      "top": "Shogun Raiden, Shenhe, Xiangling, Rosalia, Iansan",
+      "good": "Arlecchino, Émilie",
+      "ok": "Escoffier"
+    }
   },
   {
     "nom": "Ailes de la Voûte d'Azur",
@@ -45,7 +95,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Ailes-de-la-Voute-dAzur_icone.webp",
     "rarete": "5★",
     "description": "5★, Arc, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ailes-de-la-Voute-dAzur-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ailes-de-la-Voute-dAzur-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Tartaglia, Ganyu, Yoimiya, Fischl, Kujou Sara, Aloy, Venti, Amber, Yelan, Tighnari, Faruzan, Lyney, Sethos, Ororon",
+      "good": "Chasca",
+      "ok": null
+    }
   },
   {
     "nom": "Akuoumaru",
@@ -53,7 +113,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Akuoumaru_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Akuoumaru-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Akuoumaru-guide.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Loup de faille",
+      "Nobushi"
+    ],
+    "personnages_conseilles": {
+      "top": "Beidou, Chongyun, Xinyan, Diluc, Dehya, Gaming",
+      "good": "Sayu, Eula, Razor, Mavuika",
+      "ok": null
+    }
   },
   {
     "nom": "Anneau de Yaxche",
@@ -61,7 +131,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Anneau-de-Yaxche_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Forge, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Anneau-de-Yaxche-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Anneau-de-Yaxche-guide.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Manifestations de Wayob",
+      "Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Mualani, Sangonomiya Kokomi, Barbara",
+      "good": null,
+      "ok": "Neuvillette, Baizhu"
+    }
   },
   {
     "nom": "Anneau des Hakushin",
@@ -69,7 +149,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Anneau-des-Hakushin_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Forge, Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Anneau-des-Hakushin-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Anneau-des-Hakushin-guide-1.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Suivante des Fatui",
+      "Brutoshaman"
+    ],
+    "personnages_conseilles": {
+      "top": "Sangonomiya Kokomi, Yumemizuki Mizuki, Ifa",
+      "good": "Lisa, Yanfei, Baizhu, Neuvillette",
+      "ok": "Nomade, Shikanoin Heizou"
+    }
   },
   {
     "nom": "Apparat de la forêt",
@@ -77,7 +167,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Apparat-de-la-foret_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Forge, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Apparat-de-la-foret-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Apparat-de-la-foret-guide.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Dragon des ruines",
+      "Érémite"
+    ],
+    "personnages_conseilles": {
+      "top": "Razor, Kaveh",
+      "good": "Dehya",
+      "ok": null
+    }
   },
   {
     "nom": "Arc à poulies",
@@ -85,7 +185,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-a-poulies_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Forge, Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-a-poulies-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-a-poulies-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Géosaure / Élémentosaure abyssal",
+      "Fatui"
+    ],
+    "personnages_conseilles": {
+      "top": "hihi",
+      "good": "haha",
+      "ok": "hoho"
+    }
   },
   {
     "nom": "Arc courbé",
@@ -93,7 +203,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-courbe_icone.webp",
     "rarete": "3★",
     "description": "3★, Arc, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-courbe-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-courbe-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Brutoshaman"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Diona, Yelan, Sigewinne",
+      "ok": null
+    }
   },
   {
     "nom": "Arc d'Amos",
@@ -101,7 +221,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-dAmos_icone.webp",
     "rarete": "5★",
     "description": "5★, Arc, Ganyu, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-dAmos-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-dAmos-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Ganyu, Amber, Lyney",
+      "good": "Tartaglia, Ganyu, Yoimiya, Tighnari, Sethos, Chasca",
+      "ok": null
+    }
   },
   {
     "nom": "Arc d'exorcisme",
@@ -109,7 +239,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-dexorcisme_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Forge, Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-dexorcisme-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-dexorcisme-guide.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Suivante des Fatui",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Ganyu, Yoimiya, Amber",
+      "good": "Tartaglia, Chasca",
+      "ok": "Tighnari, Sethos"
+    }
   },
   {
     "nom": "Arc de chasse de Favonius",
@@ -117,7 +257,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-de-chasse-de-Favonius_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-de-chasse-de-Favonius-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-de-chasse-de-Favonius-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Fleur mensongère"
+    ],
+    "personnages_conseilles": {
+      "top": "Gorou, Diona, Yelan, Collei, Faruzan, Sigewinne",
+      "good": "Venti, Amber, Ororon",
+      "ok": "Fischl, Kujou Sara, Aloy"
+    }
   },
   {
     "nom": "Arc de chasse verdoyant",
@@ -125,7 +275,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-de-chasse-verdoyant_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Pass de bataille",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-de-chasse-verdoyant-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-de-chasse-verdoyant-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Tartaglia",
+      "good": "Ganyu, Yoimiya, Amber, Venti, Tighnari, Lyney, Sethos, Chasca, Ororon",
+      "ok": null
+    }
   },
   {
     "nom": "Arc de guerre de Rochenoire",
@@ -133,7 +293,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-de-guerre-de-Rochenoire_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Boutique",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-de-guerre-de-Rochenoire-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-de-guerre-de-Rochenoire-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Fleur mensongère"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Yoimiya, Tartaglia, Ganyu, Amber, Lyney, Chasca",
+      "ok": "Tighnari, Sethos"
+    }
   },
   {
     "nom": "Arc du corbeau",
@@ -141,7 +311,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-du-corbeau_icone.webp",
     "rarete": "3★",
     "description": "3★, Arc, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-du-corbeau-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-du-corbeau-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Amber, Yoimiya, Venti, Tartaglia, Collei",
+      "good": "Tighnari",
+      "ok": null
+    }
   },
   {
     "nom": "Arc rituel",
@@ -149,7 +329,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-rituel_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-rituel-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-rituel-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Kujou Sara, Diona, Faruzan, Yelan, Collei",
+      "good": "Venti, Sigewinne",
+      "ok": "Fischl, Gorou, Ororon"
+    }
   },
   {
     "nom": "Arc rouillé",
@@ -157,7 +347,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Arc-rouille_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-rouille-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Arc-rouille-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Tartaglia, Yoimiya, Aloy",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Atlas de la Voûte d'Azur",
@@ -165,7 +365,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Atlas-de-la-Voute-dAzur_icone.webp",
     "rarete": "5★",
     "description": "5★, Catalyseur, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Atlas-de-la-Voute-dAzur-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Atlas-de-la-Voute-dAzur-guide-2.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Yae Miko, Lisa, Ningguang, Shikanoin Heizou, Klee, Mona, Nomade, Wriothesley, Xianyun, Lan Yan",
+      "good": "Sangonomiya Kokomi, Wriothesley, Charlotte",
+      "ok": "Varesa"
+    }
   },
   {
     "nom": "Atlas des terres et des mers",
@@ -173,7 +383,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Atlas-des-terres-et-des-mers_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Forge, Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Atlas-des-terres-et-des-mers-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Atlas-des-terres-et-des-mers-guide-2.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Géosaure / Élémentosaure abyssal",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Lisa, Yanfei, Wriothesley, Mualani",
+      "good": "Lisa",
+      "ok": "Nahida, Sangonomiya Kokomi, Klee, Yae Miko, Sucrose, Shikanoin Heizou"
+    }
   },
   {
     "nom": "Balise de la mer de roseaux",
@@ -181,7 +401,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/01/Balise-de-la-mer-de-roseaux_icone.webp",
     "rarete": "5★",
     "description": "5★, Dehya, Épée à deux mains, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/03/Balise-de-la-mer-de-roseaux-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/03/Balise-de-la-mer-de-roseaux-guide-1.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Bête sacralisée",
+      "Érémite"
+    ],
+    "personnages_conseilles": {
+      "top": "Dehya, Diluc, Eula, Razor, Beidou, Fréminet, Navia, Gaming, Xinyan",
+      "good": "Kinich, Mavuika",
+      "ok": null
+    }
   },
   {
     "nom": "Ballade d'un azur infini",
@@ -189,7 +419,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Ballade-dun-azur-infini_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Événement limité, Version 4.1",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Ballade-dun-azur-infini-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Ballade-dun-azur-infini-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Géosaure / Élémentosaure abyssal",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Lisa, Ningguang",
+      "ok": "Yanfei, Neuvillette, Klee, Nomade, Wriothesley, Mualani"
+    }
   },
   {
     "nom": "Ballade des fjords",
@@ -197,7 +437,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Ballade-des-fjords_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Pass de bataille",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Ballade-des-fjords-guide-3.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Ballade-des-fjords-guide-3.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Brutovéreux",
+      "Fleur mensongère"
+    ],
+    "personnages_conseilles": {
+      "top": "Hu Tao, Cyno, Xiangling, Rosalia, Arlecchino",
+      "good": null,
+      "ok": "Escoffier"
+    }
   },
   {
     "nom": "Bâton bavard",
@@ -205,7 +455,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Baton-bavard_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Pass de bataille",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Baton-bavard-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Baton-bavard-guide.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Bête sacralisée",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Dehya, Diluc, Navia, Gaming",
+      "good": "Beidou, Chongyun",
+      "ok": "Kinich, Mavuika"
+    }
   },
   {
     "nom": "Bâton de Homa",
@@ -213,7 +473,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Baton-de-Homa_icone.webp",
     "rarete": "5★",
     "description": "5★, Arme d'hast, Hu Tao, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Baton-de-Homa-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Baton-de-Homa-guide.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Géosaure / Élémentosaure abyssal",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Hu Tao, Xiao, Xiangling, Rosalia, Shogun Raiden, Candace, Arlecchino, Émilie, Escoffier",
+      "good": "Shenhe",
+      "ok": null
+    }
   },
   {
     "nom": "Bâton des sables écarlates",
@@ -221,7 +491,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/09/Baton-des-sables-ecarlates_icone.webp",
     "rarete": "5★",
     "description": "5★, Arme d'hast, Cyno, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Baton-des-sables-ecarlates-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Baton-des-sables-ecarlates-guide-1.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Dragon des ruines",
+      "Fongus"
+    ],
+    "personnages_conseilles": {
+      "top": "Cyno, Hu Tao, Rosalia, Xiangling, Arlecchino, Escoffier",
+      "good": "Shogun Raiden, Xiao",
+      "ok": "Émilie"
+    }
   },
   {
     "nom": "Berge de la Voûte d'Azur",
@@ -229,7 +509,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Berge-de-la-Voute-dAzur_icone.webp",
     "rarete": "5★",
     "description": "5★, Arme d'hast, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Berge-de-la-Voute-dAzur-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Berge-de-la-Voute-dAzur-guide-2.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Brutoshaman"
+    ],
+    "personnages_conseilles": {
+      "top": "Shogun Raiden, Shenhe",
+      "good": "Cyno, Xiangling, Xiao, Rosalia, Candace, Iansan, Escoffier",
+      "ok": "Arlecchino, Émilie"
+    }
   },
   {
     "nom": "Brise-chaîne",
@@ -237,7 +527,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Brise-chaine_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Forge, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Brise-chaine-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Brise-chaine-guide.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Bête de Xuanwen",
+      "Saurien natlanois"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Chasca",
+      "ok": "Fischl, Sethos, Tartaglia"
+    }
   },
   {
     "nom": "Brise-pierre de corne rouge",
@@ -245,7 +545,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Brise-pierre-de-corne-rouge_icone.webp",
     "rarete": "5★",
     "description": "5★, Arataki Itto, Épée à deux mains, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Brise-pierre-de-corne-rouge-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Brise-pierre-de-corne-rouge-guide-1.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Loup de faille",
+      "Nobushi"
+    ],
+    "personnages_conseilles": {
+      "top": "Arataki Itto, Noëlle, Xinyan, Gaming",
+      "good": "Diluc, Beidou, Chongyun, Eula, Razor, Fréminet, Dehya, Navia, Kinich, Mavuika",
+      "ok": null
+    }
   },
   {
     "nom": "Chaînes mortelles",
@@ -253,7 +563,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Chaines-mortelles_icone.webp",
     "rarete": "5★",
     "description": "5★, Catalyseur, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Chaines-mortelles-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Chaines-mortelles-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Géosaure / Élémentosaure abyssal",
+      "Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Ningguang, Yanfei, Klee, Lisa, Shikanoin Heizou, Nomade, Wriothesley, Xianyun, Lan Yan",
+      "good": "Wriothesley, Charlotte",
+      "ok": "Yae Miko, Lisa"
+    }
   },
   {
     "nom": "Chalutier",
@@ -261,7 +581,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Chalutier_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Pêche",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Chalutier-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Chalutier-guide-1.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Fongus activé / calciné",
+      "Fongus"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Collei, Faruzan, Aloy, Kujou Sara",
+      "ok": null
+    }
   },
   {
     "nom": "Chanson de patrouille de sommet",
@@ -269,7 +599,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Chanson-de-patrouille-de-sommet_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à une main, Natlan, Vœux limités, Xilonen",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Chanson-de-patrouille-de-sommet-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Chanson-de-patrouille-de-sommet-guide-1.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Automate de source secrète « Chasseur-chercheur »",
+      "Saurien natlanois"
+    ],
+    "personnages_conseilles": {
+      "top": "Xilonen, Voyageur Pyro",
+      "good": "Chiori, Albedo",
+      "ok": null
+    }
   },
   {
     "nom": "Chant de quiétude",
@@ -277,7 +617,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Chant-de-quietude_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Fontaine, Forge",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Chant-de-quietude-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Chant-de-quietude-guide-1.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Fantasme Hydro croupi",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Fischl, Venti, Lyney, Chasca, Amber",
+      "ok": "Ganyu, Tartaglia, Sethos"
+    }
   },
   {
     "nom": "Clair de lune de Xiphos",
@@ -285,7 +635,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/10/Clair-de-lune-de-Xiphos_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Clair-de-lune-de-Xiphos-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Clair-de-lune-de-Xiphos-guide.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Structure primale",
+      "Érémite"
+    ],
+    "personnages_conseilles": {
+      "top": "Kaedehara Kazuha, Voyageur Anémo, Jean, Kuki Shinobu, Voyageur Dendro, Alhaitham, Voyageur Électro, Lynette, Voyageur Hydro",
+      "good": "Nilou",
+      "ok": null
+    }
   },
   {
     "nom": "Clé de Khaj-Nisut",
@@ -293,7 +653,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/10/Cle-de-Khaj-Nisut_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à une main, Nilou, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Cle-de-Khaj-Nisut-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Cle-de-Khaj-Nisut-guide.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Structure primale",
+      "Érémite"
+    ],
+    "personnages_conseilles": {
+      "top": "Nilou, Kuki Shinobu, Layla, Kirara, Furina",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Clou soutenant les montagnes",
@@ -301,7 +671,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Clou-soutenant-les-montagnes_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Natlan, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Clou-soutenant-les-montagnes-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Clou-soutenant-les-montagnes-guide.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Avatars de lave",
+      "Fleur mensongère"
+    ],
+    "personnages_conseilles": {
+      "top": "Iansan",
+      "good": "Chevreuse, Kachina, Émilie",
+      "ok": "Escoffier"
+    }
   },
   {
     "nom": "Code de Favonius",
@@ -309,7 +689,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Code-de-Favonius_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Code-de-Favonius-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Code-de-Favonius-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Brutoshaman"
+    ],
+    "personnages_conseilles": {
+      "top": "Mona, Yanfei, Charlotte, Xianyun, Yumemizuki Mizuki",
+      "good": "Barbara, Baizhu, Citlali, Lan Yan, Ifa",
+      "ok": null
+    }
   },
   {
     "nom": "Condamneur",
@@ -317,7 +707,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Condamneur_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à deux mains, Navia, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Condamneur-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/12/Condamneur-guide-1.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Primus briseur",
+      "Méka horlogoïde"
+    ],
+    "personnages_conseilles": {
+      "top": "Navia, Diluc, Fréminet, Eula, Gaming, Xinyan",
+      "good": "Kinich, Mavuika",
+      "ok": "Beidou, Chongyun, Dehya, Arataki Itto"
+    }
   },
   {
     "nom": "Contes de Dodoco",
@@ -325,7 +725,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Contes-de-Dodoco_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Événement limité, Version 1.6",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Contes-de-Dodoco-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Contes-de-Dodoco-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Yanfei, Ningguang, Nomade, Shikanoin Heizou",
+      "good": "Klee, Wriothesley",
+      "ok": "Lisa"
+    }
   },
   {
     "nom": "Corde de pluie blanche",
@@ -333,7 +743,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/05/Corde-de-pluie-blanche_icone.webp",
     "rarete": "5★",
     "description": "5★, Arc, Sigewinne, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Corde-de-pluie-blanche-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Corde-de-pluie-blanche-guide-1.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Bête de Xuanwen",
+      "Aberrant fontemarin"
+    ],
+    "personnages_conseilles": {
+      "top": "Sigewinne",
+      "good": "Diona",
+      "ok": "Yelan"
+    }
   },
   {
     "nom": "Corne à boire cendrée",
@@ -341,7 +761,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Corne-a-boire-cendree_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Événement limité, Version 5.0",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Corne-a-boire-cendree-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Corne-a-boire-cendree-guide-1.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Automate de source secrète « Chasseur-chercheur »",
+      "Saurien natlanois"
+    ],
+    "personnages_conseilles": {
+      "top": "Mualani, Neuvillette",
+      "good": null,
+      "ok": "Barbara, Sangonomiya Kokomi, Baizhu"
+    }
   },
   {
     "nom": "Coupeur de jade primordial",
@@ -349,7 +779,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Coupeur-de-jade-primordial_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à une main, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Coupeur-de-jade-primordial-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Coupeur-de-jade-primordial-guide.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": "Keqing, Kamisato Ayato, Kaeya, Albedo, Voyageur Geo, Alhaitham, Lynette, Furina, Chiori, Clorinde",
+      "good": "Jean, Xingqiu, Kamisato Ayaka",
+      "ok": null
+    }
   },
   {
     "nom": "Crépuscule couchant",
@@ -357,7 +797,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Crepuscule-couchant_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Événement limité, Version 2.7",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Crepuscule-couchant-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Crepuscule-couchant-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Brutoshaman"
+    ],
+    "personnages_conseilles": {
+      "top": "Yelan, Fischl",
+      "good": "Venti, Aloy, Tighnari, Collei, Sethos, Ororon",
+      "ok": null
+    }
   },
   {
     "nom": "Croc de loup",
@@ -365,7 +815,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Croc-de-loup_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Pass de bataille",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Croc-de-loup-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Croc-de-loup-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Keqing, Alhaitham, Chiori",
+      "good": "Lynette",
+      "ok": "Kamisato Ayaka"
+    }
   },
   {
     "nom": "Croc du roi de la montagne",
@@ -373,7 +833,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Croc-du-roi-de-la-montagne_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à deux mains, Kinich, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Croc-du-roi-de-la-montagne-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Croc-du-roi-de-la-montagne-guide.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Avatars de lave",
+      "Guerrier tribal"
+    ],
+    "personnages_conseilles": {
+      "top": "Kinich",
+      "good": "Navia, Gaming, Diluc, Mavuika",
+      "ok": null
+    }
   },
   {
     "nom": "Croc suppurant",
@@ -381,7 +851,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Croc-suppurant_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Événement limité, Version 1.2",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Croc-suppurant-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Croc-suppurant-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Fatui"
+    ],
+    "personnages_conseilles": {
+      "top": "Jean, Kaeya, Lynette, Bennett, Furina, Chiori",
+      "good": "Voyageur Géo",
+      "ok": "Voyageur Électro, Voyageur Anémo, Albedo, Kuki Shinobu, Xingqiu, Layla, Qiqi"
+    }
   },
   {
     "nom": "Crochet fructueux",
@@ -389,7 +869,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Crochet-fructueux_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Natlan, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Crochet-fructueux-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Crochet-fructueux-guide-1.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Automate de source secrète « Chasseur-chercheur »",
+      "Saurien natlanois"
+    ],
+    "personnages_conseilles": {
+      "top": "Gaming, Diluc, Navia",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Dernière corde",
@@ -397,7 +887,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Derniere-corde_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Derniere-corde-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Derniere-corde-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Venti, Fischl, Aloy, Ororon",
+      "good": "Tartaglia, Collei, Sethos, Tighnari",
+      "ok": null
+    }
   },
   {
     "nom": "Descendant du soleil flamboyant",
@@ -405,7 +905,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Descendant-du-soleil-flamboyant_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Pass de bataille",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Descendant-du-soleil-flamboyant-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Descendant-du-soleil-flamboyant-guide.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Brutovéreux",
+      "Fongus"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Lyney, Amber, Sethos, Tighnari, Ganyu, Tartaglia, Chasca",
+      "ok": "Yoimiya"
+    }
   },
   {
     "nom": "Dialogues des sages du désert",
@@ -413,7 +923,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/02/Dialogues-des-sages-du-desert_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Événement limité, Version 4.5",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/03/Dialogues-des-sages-du-desert-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/03/Dialogues-des-sages-du-desert-guide-1.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Bête de Xuanwen",
+      "Spectre"
+    ],
+    "personnages_conseilles": {
+      "top": "Chevreuse, Yaoyao, Mika, Zhongli",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Écho de la grue",
@@ -421,7 +941,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/01/Echo-de-la-grue_icone.webp",
     "rarete": "5★",
     "description": "5★, Catalyseur, Vœux limités, Xianyun",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/02/Echo-de-la-grue-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/02/Echo-de-la-grue-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Bête de Xuanwen",
+      "Brutoshaman"
+    ],
+    "personnages_conseilles": {
+      "top": "Xianyun",
+      "good": "Varesa",
+      "ok": "Lan Yan"
+    }
   },
   {
     "nom": "Éclair des impasses",
@@ -429,7 +959,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Eclair-des-impasses_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Eclair-des-impasses-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Eclair-des-impasses-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Brutoshaman"
+    ],
+    "personnages_conseilles": {
+      "top": "Qiqi, Bennett, Jean",
+      "good": "Kaeya, Voyageur Géo",
+      "ok": null
+    }
   },
   {
     "nom": "Élégie de Lumidouce",
@@ -437,7 +977,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Elegie-de-Lumidouce_icone.webp",
     "rarete": "5★",
     "description": "5★, Arme d'hast, Émilie, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Elegie-de-Lumidouce-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Elegie-de-Lumidouce-guide.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Prétorien golem",
+      "Fleur mensongère"
+    ],
+    "personnages_conseilles": {
+      "top": "Émilie, Arlecchino, Xiangling, Escoffier",
+      "good": "Hu Tao",
+      "ok": null
+    }
   },
   {
     "nom": "Épée antique des Millelithes",
@@ -445,7 +995,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-antique-des-Millelithes_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-antique-des-Millelithes-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-antique-des-Millelithes-guide.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Beidou, Chongyun, Xinyan, Navia, Gaming",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Épée céleste",
@@ -453,7 +1013,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-celeste_icone.webp",
     "rarete": "3★",
     "description": "3★, Épée à une main, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-celeste-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-celeste-guide.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Géosaure / Élémentosaure abyssal",
+      "Fatui"
+    ],
+    "personnages_conseilles": {
+      "top": "Layla, Kaeya, Qiqi, Jean, Xingqiu, Bennett, Kuki Shinobu, Voyageur Dendro, Voyageur Électro, Kirara, Lynette, Voyageur Hydro, Furina",
+      "good": "Nilou, Kamisato Ayato, Alhaitham",
+      "ok": null
+    }
   },
   {
     "nom": "Épée de Favonius",
@@ -461,7 +1031,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-de-Favonius_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-de-Favonius-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-de-Favonius-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Qiqi, Voyageur Électro, Voyageur Dendro, Xingqiu, Layla, Kirara, Lynette, Kaedehara Kazuha, Furina, Xilonen",
+      "good": "Voyageur Anémo, Kuki Shinobu, Bennett, Jean, Voyageur Géo",
+      "ok": null
+    }
   },
   {
     "nom": "Épée de la descente",
@@ -469,7 +1049,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-de-la-descente_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, PlayStation",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-de-la-descente-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-de-la-descente-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Qiqi, Jean",
+      "ok": "Keqing, Kamisato Ayaka, Kaeya, Kamisato Ayato, Clorinde"
+    }
   },
   {
     "nom": "Épée de la raison",
@@ -477,7 +1067,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-de-la-raison_icone.webp",
     "rarete": "3★",
     "description": "3★, Épée à deux mains, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-de-la-raison-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-de-la-raison-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Xinyan, Sayu",
+      "good": "Beidou, Chongyun, Diluc, Razor, Eula, Dehya, Fréminet, Navia, Gaming",
+      "ok": "Arataki Itto, Noëlle, Kinich, Mavuika"
+    }
   },
   {
     "nom": "Épée du faucon",
@@ -485,7 +1085,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-du-faucon_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à une main, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-du-faucon-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-du-faucon-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Jean, Bennett, Qiqi,",
+      "good": null,
+      "ok": "Kamisato Ayato, Keqing, Voyageur Géo, Kaeya"
+    }
   },
   {
     "nom": "Épée en fer noir",
@@ -493,7 +1103,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-en-fer-noir_icone.webp",
     "rarete": "3★",
     "description": "3★, Dialogue, Épée à une main",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-en-fer-noir-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-en-fer-noir-guide-2.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Kaedehara Kazuha, Voyageur Anémo, Jean, Kuki Shinobu, Voyageur Dendro, Voyageur Électro, Lynette, Voyageur Hydro",
+      "good": "Kaeya, Keqing, Nilou, Alhaitham",
+      "ok": null
+    }
   },
   {
     "nom": "Épée longue de Rochenoire",
@@ -501,7 +1121,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-longue-de-Rochenoire_icone.webp",
     "rarete": "4★",
     "description": "4★, Boutique, Épée à une main",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-longue-de-Rochenoire-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-longue-de-Rochenoire-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Keqing, Kamisato Ayaka, Kamisato Ayato, Clorinde",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Épée noire",
@@ -509,7 +1139,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-noire_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Pass de bataille",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-noire-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-noire-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Keqing, Kamisato Ayato, Lynette, Alhaitham, Clorinde",
+      "good": "Kamisato Ayaka, Bennett, Xilonen",
+      "ok": "Voyageur Géo"
+    }
   },
   {
     "nom": "Épée rituelle",
@@ -517,7 +1157,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-rituelle_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-rituelle-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-rituelle-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Brutoshaman"
+    ],
+    "personnages_conseilles": {
+      "top": "Kaedehara Kazuha, Voyageur Électro, Xingqiu, Lynette, Voyageur Dendro, Voyageur Anémo, Kirara",
+      "good": null,
+      "ok": "Bennett, Jean"
+    }
   },
   {
     "nom": "Épée sanglante",
@@ -525,7 +1175,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-sanglante_icone.webp",
     "rarete": "3★",
     "description": "3★, Épée à deux mains, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-sanglante-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-sanglante-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Diluc, Sayu, Razor, Dehya, Kaveh, Gaming",
+      "good": "Chongyun, Mavuika",
+      "ok": null
+    }
   },
   {
     "nom": "Épée-horloge",
@@ -533,7 +1193,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Epee-horloge_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-horloge-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Epee-horloge-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Fleur mensongère"
+    ],
+    "personnages_conseilles": {
+      "top": "Dehya",
+      "good": "Dori, Dehya",
+      "ok": null
+    }
   },
   {
     "nom": "Espadon (prototype)",
@@ -541,7 +1211,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Espadon-prototype_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Forge, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Espadon-prototype-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Espadon-prototype-guide-2.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Géosaure / Élémentosaure abyssal",
+      "Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Xinyan, Sayu",
+      "good": "Beidou, Chongyun, Diluc, Razor, Eula, Dehya, Fréminet, Gaming",
+      "ok": null
+    }
   },
   {
     "nom": "Espadon de Favonius",
@@ -549,7 +1229,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Espadon-de-Favonius_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Espadon-de-Favonius-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Espadon-de-Favonius-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Fatui"
+    ],
+    "personnages_conseilles": {
+      "top": "Noëlle, Xinyan, Dori, Kaveh, Dehya",
+      "good": "Sayu, Fréminet",
+      "ok": "Beidou, Chongyun, Dehya, Navia"
+    }
   },
   {
     "nom": "Espadon de Nagamasa",
@@ -557,7 +1247,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Espadon-de-Nagamasa_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Forge, Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Espadon-de-Nagamasa-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Espadon-de-Nagamasa-guide.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Sentinelle des ruines",
+      "Nobushi"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Sayu, Dori, Fréminet",
+      "ok": "Chongyun, Beidou, Navia, Gaming"
+    }
   },
   {
     "nom": "Espadon rituel",
@@ -565,7 +1265,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Espadon-rituel_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Espadon-rituel-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Espadon-rituel-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Sayu, Dori, Chongyun, Kaveh, Navia",
+      "good": "Dehya",
+      "ok": null
+    }
   },
   {
     "nom": "Étoile du soir errante",
@@ -573,7 +1283,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/10/Etoile-du-soir-errante_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Etoile-du-soir-errante-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Etoile-du-soir-errante-guide-2.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Fongus activé / calciné",
+      "Fongus"
+    ],
+    "personnages_conseilles": {
+      "top": "Yae Miko, Lisa, Shikanoin Heizou, Sangonomiya Kokomi, Barbara, Nahida, Citlali, Yumemizuki Mizuki, Ifa",
+      "good": "Yanfei, Klee",
+      "ok": "Sucrose, Mualani"
+    }
   },
   {
     "nom": "Étoile polaire",
@@ -581,7 +1301,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Etoile-polaire_icone.webp",
     "rarete": "5★",
     "description": "5★, Arc, Tartaglia, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Etoile-polaire-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Etoile-polaire-guide-1.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Loup de faille",
+      "Spectre"
+    ],
+    "personnages_conseilles": {
+      "top": "Tartaglia, Ganyu, Fischl, Amber, Yoimiya, Kujou Sara, Tighnari, Venti, Faruzan, Lyney, Ororon",
+      "good": "Aloy, Chasca",
+      "ok": null
+    }
   },
   {
     "nom": "Étouffeur de calamités",
@@ -589,7 +1319,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Etouffeur-de-calamites_icone.webp",
     "rarete": "5★",
     "description": "5★, Arme d'hast, Shenhe, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Etouffeur-de-calamites-guide-3.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Etouffeur-de-calamites-guide-3.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Fleur mensongère"
+    ],
+    "personnages_conseilles": {
+      "top": "Shenhe, Émilie, Iansan",
+      "good": null,
+      "ok": "Shogun Raiden, Xiao, Rosalia, Xiangling, Cyno, Arlecchino"
+    }
   },
   {
     "nom": "Fierté de la Voûte d'Azur",
@@ -597,7 +1337,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Fierte-de-la-Voute-dAzur_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à deux mains, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fierte-de-la-Voute-dAzur-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fierte-de-la-Voute-dAzur-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Eula, Razor, Noëlle, Sayu, Arataki Itto, Fréminet",
+      "good": "Diluc, Xinyan, Beidou, Chongyun, Dehya, Navia, Gaming",
+      "ok": "Noëlle"
+    }
   },
   {
     "nom": "Final des profondeurs",
@@ -605,7 +1355,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Final-des-profondeurs_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Fontaine, Forge",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Final-des-profondeurs-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Final-des-profondeurs-guide.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Fantasme Hydro croupi",
+      "Nobushi"
+    ],
+    "personnages_conseilles": {
+      "top": "Kamisato Ayaka, Kamisato Ayato",
+      "good": "Kaeya, Chiori, Clorinde, Jean, Qiqi",
+      "ok": "Jean, Qiqi"
+    }
   },
   {
     "nom": "Fléau du dragon",
@@ -613,7 +1373,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Fleau-du-dragon_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fleau-du-dragon-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fleau-du-dragon-guide-2.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Brutoshaman"
+    ],
+    "personnages_conseilles": {
+      "top": "Hu Tao, Xiangling, Shogun Raiden, Rosalia, Thomas, Arlecchino, Candace, Yaoyao",
+      "good": "Candace, Cyno",
+      "ok": null
+    }
   },
   {
     "nom": "Fleur de mailles",
@@ -621,7 +1391,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/01/Fleur-de-mailles_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Événement limité, Version 3.5",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/03/Fleur-de-mailles-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/03/Fleur-de-mailles-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Bête sacralisée",
+      "Spectre"
+    ],
+    "personnages_conseilles": {
+      "top": "Diluc, Xinyan, Beidou, Chongyun, Dehya, Navia",
+      "good": "Gaming, Noëlle",
+      "ok": null
+    }
   },
   {
     "nom": "Fluorescence",
@@ -629,7 +1409,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Fluorescence_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fluorescence-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fluorescence-guide.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Brutoshaman"
+    ],
+    "personnages_conseilles": {
+      "top": "Diluc, Sayu, Razor, Kaveh, Gaming",
+      "good": "Chongyun, Dehya",
+      "ok": "Mavuika"
+    }
   },
   {
     "nom": "Flûte",
@@ -637,7 +1427,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Flute_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Flute-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Flute-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Qiqi, Keqing",
+      "good": null,
+      "ok": "Keqing, Jean, Kamisato Ayaka, Kaeya, Kamisato Ayato, Clorinde"
+    }
   },
   {
     "nom": "Flûte d'ezpitzal",
@@ -645,7 +1445,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Flute-dezpitzal_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Forge, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Flute-dezpitzal-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Flute-dezpitzal-guide-1.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Prétorien golem",
+      "Saurien natlanois"
+    ],
+    "personnages_conseilles": {
+      "top": "Xilonen",
+      "good": "Xilonen",
+      "ok": "Albedo, Chiori"
+    }
   },
   {
     "nom": "Foret de prospecteur",
@@ -653,7 +1463,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Foret-de-prospecteur_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Foret-de-prospecteur-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Foret-de-prospecteur-guide-2.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Opérateur Fatui",
+      "Méka horlogoïde"
+    ],
+    "personnages_conseilles": {
+      "top": "Xiao",
+      "good": "Rosalia, Cyno, Émilie, Escoffier",
+      "ok": null
+    }
   },
   {
     "nom": "Fruit du permafrost",
@@ -661,7 +1481,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Fruit-du-permafrost_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Forge, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fruit-du-permafrost-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fruit-du-permafrost-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Fleur mensongère"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": null,
+      "ok": "Yae Miko, Lisa, Ningguang, Shikanoin Heizou, Nomade, Yanfei, Klee, Wriothesley, Lan Yan"
+    }
   },
   {
     "nom": "Fuseau de cinabre",
@@ -669,7 +1499,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Fuseau-de-cinabre_icone.webp",
     "rarete": "4★",
     "description": "4★, Albedo, Épée à une main, Événement limité, Version 2.3",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fuseau-de-cinabre-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Fuseau-de-cinabre-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Albedo, Xilonen",
+      "good": "Chiori, Xilonen",
+      "ok": null
+    }
   },
   {
     "nom": "Grande épée céleste",
@@ -677,7 +1517,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Grande-epee-celeste_icone.webp",
     "rarete": "3★",
     "description": "3★, Épée à deux mains, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Grande-epee-celeste-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Grande-epee-celeste-guide.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Géosaure / Élémentosaure abyssal",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": "Diluc, Sayu, Razor, Kaveh, Gaming, Chongyun, Dehya, Mavuika",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Grande épée en fer blanc",
@@ -685,7 +1535,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Grande-epee-en-fer-blanc_icone.webp",
     "rarete": "3★",
     "description": "3★, Épée à deux mains, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Grande-epee-en-fer-blanc-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Grande-epee-en-fer-blanc-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Diluc, Sayu, Razor, Kaveh, Gaming, Chongyun, Dehya, Mavuika",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Guide de magie",
@@ -693,7 +1553,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Guide-de-magie_icone.webp",
     "rarete": "3★",
     "description": "3★, Catalyseur, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Guide-de-magie-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Guide-de-magie-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Nahida, Shikanoin Heizou, Sucrose, Sangonomiya Kokomi, Barbara, Citlali, Yumemizuki Mizuki, Ifa",
+      "good": "Lisa, Mona, Yae Miko",
+      "ok": "Klee"
+    }
   },
   {
     "nom": "Guisarme stellaire (prototype)",
@@ -701,7 +1571,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Guisarme-stellaire-prototype_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Forge, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Guisarme-stellaire-prototype-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Guisarme-stellaire-prototype-guide-2.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Géosaure / Élémentosaure abyssal",
+      "Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": null,
+      "ok": "Thomas, Zhongli, Cyno, Ciao, Shogun Raiden, Candace, Rosalia, Xiangling, Yaoyao, Shenhe, Yun Jin, Mika, Chevreuse, Escoffier"
+    }
   },
   {
     "nom": "Hallebarde",
@@ -709,7 +1589,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Hallebarde_icone.webp",
     "rarete": "3★",
     "description": "3★, Arme d'hast, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hallebarde-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Hallebarde-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Fleur mensongère"
+    ],
+    "personnages_conseilles": {
+      "top": "Shenhe, Xiao, Shogun Raiden, Arlecchino, Émilie, Escoffier",
+      "good": "Xiangling, Rosalia, Candace",
+      "ok": null
+    }
   },
   {
     "nom": "Histoire des chasseurs de dragon",
@@ -717,7 +1607,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Histoire-des-chasseurs-de-dragon_icone.webp",
     "rarete": "3★",
     "description": "3★, Catalyseur, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Histoire-des-chasseurs-de-dragon-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Histoire-des-chasseurs-de-dragon-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Brutoshaman"
+    ],
+    "personnages_conseilles": {
+      "top": "Sucrose, Sangonomiya Kokomi, Mona, Barbara, Ningguang, Yanfei, Lisa, Baizhu, Neuvillette, Charlotte, Xianyun, Mualani, Citlali, Lan Yan, Ifa",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Illustre seigneur des mers",
@@ -725,7 +1625,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Illustre-seigneur-des-mers_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Événement limité, Version 2.1",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Illustre-seigneur-des-mers-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Illustre-seigneur-des-mers-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Géosaure / Élémentosaure abyssal",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Beidou, Chongyun, Diluc, Razor, Eula, Dehya, Fréminet, Xinyan, Sayu, Navia, Gaming",
+      "ok": "Mavuika"
+    }
   },
   {
     "nom": "Instant surfant",
@@ -733,7 +1643,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Instant-surfant_icone.webp",
     "rarete": "5★",
     "description": "5★, Catalyseur, Mualani, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Instant-surfant-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/08/Instant-surfant-guide-1.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Manifestations de Wayob",
+      "Saurien natlanois"
+    ],
+    "personnages_conseilles": {
+      "top": "Mualani, Neuvillette, Yae Miko, Yanfei, Ningguang, Mona, Klee, Nomade, Varesa",
+      "good": "Lisa, Shikanoin Heizou, Wriothesley",
+      "ok": "Nahida"
+    }
   },
   {
     "nom": "Jade sacrificiel",
@@ -741,7 +1661,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Jade-sacrificiel_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Pass de bataille",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Jade-sacrificiel-guide-3.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Jade-sacrificiel-guide-3.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Brutoshaman"
+    ],
+    "personnages_conseilles": {
+      "top": "Neuvillette, Mualani",
+      "good": "Xianyun, Yae Miko",
+      "ok": "Varesa"
+    }
   },
   {
     "nom": "Jauge de portée",
@@ -749,7 +1679,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Jauge-de-portee_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Jauge-de-portee-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Jauge-de-portee-guide-1.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Fantasme Hydro croupi",
+      "Aberrant fontemarin"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Lyney",
+      "ok": "Ganyu, Sethos"
+    }
   },
   {
     "nom": "Kagotsurube Isshin",
@@ -757,7 +1697,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/07/Kagotsurube-isshin_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Quête",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kagotsurube-isshin-guide-3.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Kagotsurube-isshin-guide-3.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Serpent noir",
+      "Spectre"
+    ],
+    "personnages_conseilles": {
+      "top": "Qiqi",
+      "good": null,
+      "ok": "Keqing, Jean, Kamisato Ayaka, Kaeya, Kamisato Ayato, Clorinde"
+    }
   },
   {
     "nom": "L'assistant du docker",
@@ -765,7 +1715,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Lassistant-du-docker_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Lassistant-du-docker-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Lassistant-du-docker-guide.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Opérateur Fatui",
+      "Aberrant fontemarin"
+    ],
+    "personnages_conseilles": {
+      "top": "Nilou, Layla, Kirara, Furina",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "L'origine des Quatre Vents",
@@ -773,7 +1733,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lorigine-des-Quatre-vents_icone.webp",
     "rarete": "5★",
     "description": "5★, Catalyseur, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lorigine-des-Quatre-Vents-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lorigine-des-Quatre-Vents-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Yanfei, Klee, Lisa, Ningguang, Shikanoin Heizou, Nomade, Neuvillette, Wriothesley, Xianyun, Mona, Mualani, Varesa",
+      "good": "Nahida",
+      "ok": "Yae Miko, Lisa"
+    }
   },
   {
     "nom": "La calamité d'Eshu",
@@ -781,7 +1751,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/La-calamite-dEshu_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Événement limité, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/La-calamite-dEshu-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/La-calamite-dEshu-guide.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Miméflore obombrée",
+      "Guerrier tribal"
+    ],
+    "personnages_conseilles": {
+      "top": "Clorinde",
+      "good": "Kamisato Ayato, Alhaitham, Keqing, Kamisato Ayaka",
+      "ok": null
+    }
   },
   {
     "nom": "La première grande magie",
@@ -789,7 +1769,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/La-premiere-grande-magie_icone.webp",
     "rarete": "5★",
     "description": "5★, Arc, Lyney, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/La-premiere-grande-magie-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/La-premiere-grande-magie-guide-1.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Fantasme Hydro croupi",
+      "Aberrant fontemarin"
+    ],
+    "personnages_conseilles": {
+      "top": "Lyney, Ganyu, Tighnari, Sethos, Tartaglia, Amber, Yoimiya, Aloy, Chasca, Ororon",
+      "good": "Faruzan, Venti, Fischl",
+      "ok": null
+    }
   },
   {
     "nom": "La prise",
@@ -797,7 +1787,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/La-prise_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Pêche",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/La-prise-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/La-prise-guide-1.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Sentinelle des ruines",
+      "Spectre"
+    ],
+    "personnages_conseilles": {
+      "top": "Shogun Raiden, Rosalia, Xiangling",
+      "good": "Shenhe, Candace",
+      "ok": null
+    }
   },
   {
     "nom": "La voie du chasseur",
@@ -805,7 +1805,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/La-voie-du-chasseur_icone.webp",
     "rarete": "5★",
     "description": "5★, Arc, Tighnari, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/La-voie-du-chasseur-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/La-voie-du-chasseur-guide-1.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Fongus activé / calciné",
+      "Érémite"
+    ],
+    "personnages_conseilles": {
+      "top": "Tighnari, Ganyu, Amber, Sethos, Aloy, Tartaglia",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Lame brute",
@@ -813,7 +1823,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lame-brute_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à deux mains, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-brute-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-brute-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": "Eula, Razor, Diluc, Navia, Gaming, Xinyan",
+      "good": "Sayu, Mavuika",
+      "ok": "Noëlle, Xinyan, Fréminet, Kinich"
+    }
   },
   {
     "nom": "Lame d'aubier",
@@ -821,7 +1841,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Lame-daubier_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Forge, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-daubier-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-daubier-guide-1.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Dragon des ruines",
+      "Érémite"
+    ],
+    "personnages_conseilles": {
+      "top": "Voyageur Dendro, Kuki Shinobu, Bennett, Nilou",
+      "good": "Voyageur Hydro",
+      "ok": "Alhaitham"
+    }
   },
   {
     "nom": "Lame de la Voûte d'Azur",
@@ -829,7 +1859,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lame-de-la-Voute-dAzur_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à une main, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-de-la-Voute-dAzur-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-de-la-Voute-dAzur-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Jean, Bennett, Kaeya, Qiqi",
+      "good": "Voyageur Géo, Lynette",
+      "ok": "Voyageur Électro, Xingqiu"
+    }
   },
   {
     "nom": "Lame du Narzissenkreuz",
@@ -837,7 +1877,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Lame-du-Narzissenkreuz_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Quête",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Lame-du-Narzissenkreuz-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Lame-du-Narzissenkreuz-guide.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Opérateur Fatui",
+      "Aberrant fontemarin"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": null,
+      "ok": "Keqing, Kamisato Ayaka, Kaeya, Kamisato Ayato, Qiqi, Jean, Clorinde"
+    }
   },
   {
     "nom": "Lame froide",
@@ -845,7 +1895,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lame-froide_icone.webp",
     "rarete": "3★",
     "description": "3★, Épée à une main, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-froide-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-froide-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Qiqi, Jean",
+      "ok": "Kamisato Ayaka, Kaeya, Kamisato Ayato"
+    }
   },
   {
     "nom": "Lame kageuchi d'Amenoma",
@@ -853,7 +1913,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lame-kageuchi-dAmenoma_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Forge, Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-kageuchi-dAmenoma-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lame-kageuchi-dAmenoma-guide-1.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Sentinelle des ruines",
+      "Nobushi"
+    ],
+    "personnages_conseilles": {
+      "top": "Kamisato Ayaka, Kamisato Ayato, Qiqi, Jean",
+      "good": "Voyageur Géo, Kaeya, Xingqiu, Keqing",
+      "ok": null
+    }
   },
   {
     "nom": "Lance de Favonius",
@@ -861,7 +1931,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lance-de-Favonius_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-de-Favonius-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-de-Favonius-guide-2.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Shenhe, Yun Jin, Thomas, Zhongli, Candace, Mika, Chevreuse, Rosalia, Kachina, Iansan",
+      "good": "Shogun Raiden, Xiangling, Rosalia, Émilie, Escoffier",
+      "ok": "Xiao, Cyno"
+    }
   },
   {
     "nom": "Lance de jade ailée",
@@ -869,7 +1949,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lance-de-jade-ailee_icone.webp",
     "rarete": "5★",
     "description": "5★, Arme d'hast, Vœux, Xiao",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-de-jade-ailee-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-de-jade-ailee-guide-2.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Fatui"
+    ],
+    "personnages_conseilles": {
+      "top": "Xiao, Shogun Raiden, Cyno, Arlecchino",
+      "good": "Hu Tao, Shenhe, Candace, Iansan, Escoffier",
+      "ok": "Rosalia, Xiangling, Émilie"
+    }
   },
   {
     "nom": "Lance de Rochenoire",
@@ -877,7 +1967,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lance-de-Rochenoire_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Boutique",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-de-Rochenoire-guide-3.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-de-Rochenoire-guide-3.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Fatui"
+    ],
+    "personnages_conseilles": {
+      "top": "Xiao, Arlecchino",
+      "good": "Cyno",
+      "ok": "Candace, Émilie, Escoffier"
+    }
   },
   {
     "nom": "Lance des Millelithes",
@@ -885,7 +1985,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lance-des-Millelithes_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-des-Millelithes-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-des-Millelithes-guide.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Géosaure / Élémentosaure abyssal",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "TOP : Xiao",
+      "good": "Rosalia, Shenhe, Émilie, Iansan",
+      "ok": "Xiangling, Cyno, Shogun Raiden, Escoffier"
+    }
   },
   {
     "nom": "Lance Dosdragon",
@@ -893,7 +2003,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lance-Dosdragon_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Forge, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-dosdragon-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-dosdragon-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage luciole des Fatui",
+      "Fatui"
+    ],
+    "personnages_conseilles": {
+      "top": "hihi",
+      "good": "haha",
+      "ok": "hoho"
+    }
   },
   {
     "nom": "Lance du vent saisonnier",
@@ -901,7 +2021,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/09/Lance-du-vent-saisonnier_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Événement limité, Version 3.1",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-du-vent-saisonnier-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-du-vent-saisonnier-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Serpent noir",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Shenhe, Iansan",
+      "good": "Cyno, Rosalia, Xiangling, Candace, Arlecchino, Émilie",
+      "ok": "Xiao, Escoffier"
+    }
   },
   {
     "nom": "Lance en croix de Kitain",
@@ -909,7 +2039,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lance-en-croix-de-Kitain_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Forge, Inazuma",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-en-croix-de-Kitain-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-en-croix-de-Kitain-guide-2.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Sentinelle des ruines",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": "Hu Tao, Cyno, Xiangling, Shogun Raiden, Rosalia, Candace",
+      "good": "Candace, Yaoyao, Thomas, Arlecchino",
+      "ok": null
+    }
   },
   {
     "nom": "Lance-pierres",
@@ -917,7 +2057,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lance-pierres_icone.webp",
     "rarete": "3★",
     "description": "3★, Arc, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-pierres-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lance-pierres-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Yoimiya, Tartaglia, Aloy, Tighnari, Lyney, Sethos, Chasca",
+      "good": "Kujou Sara, Venti",
+      "ok": null
+    }
   },
   {
     "nom": "Le fruit de l'accomplissement",
@@ -925,7 +2075,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Le-fruit-de-laccomplissement_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Forge, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Le-fruit-de-laccomplissement-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Le-fruit-de-laccomplissement-guide-2.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Serpent noir",
+      "Fongus"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Yae Miko, Lisa, Citlali, Yumemizuki Mizuki, Ifa",
+      "ok": "Yanfei, Wriothesley"
+    }
   },
   {
     "nom": "Le valet du roi",
@@ -933,7 +2093,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Le-valet-du-roi_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Forge, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Le-valet-du-roi-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Le-valet-du-roi-guide-1.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Fongus activé / calciné",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Amber, Ganyu, Fischl",
+      "ok": "Tighnari, Sethos"
+    }
   },
   {
     "nom": "Lueur de la lune éternelle",
@@ -941,7 +2111,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lueur-de-la-lune-eternelle_icone.webp",
     "rarete": "5★",
     "description": "5★, Catalyseur, Sangonomiya Kokomi, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lueur-de-la-lune-eternelle-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lueur-de-la-lune-eternelle-guide-2.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Suivante des Fatui",
+      "Spectre"
+    ],
+    "personnages_conseilles": {
+      "top": "Sangonomiya Kokomi, Barbara",
+      "good": "Baizhu, Neuvillette, Mualani",
+      "ok": null
+    }
   },
   {
     "nom": "Lumière d'incision foliaire",
@@ -949,7 +2129,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/01/Lumiere-dincision-foliaire_icone.webp",
     "rarete": "5★",
     "description": "5★, Alhaitham, Épée à une main, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lumiere-dincision-foliaire-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lumiere-dincision-foliaire-guide.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Bête sacralisée",
+      "Érémite"
+    ],
+    "personnages_conseilles": {
+      "top": "Alhaitham, Keqing, Clorinde",
+      "good": "Kamisato Ayaka, Kamisato Ayato, Furina, Chiori",
+      "ok": null
+    }
   },
   {
     "nom": "Lumière du faucheur",
@@ -957,7 +2147,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lumiere-du-faucheur_icone.webp",
     "rarete": "5★",
     "description": "5★, Arme d'hast, Shogun Raiden, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lumiere-du-faucheur-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lumiere-du-faucheur-guide-2.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Sentinelle des ruines",
+      "Nobushi"
+    ],
+    "personnages_conseilles": {
+      "top": "Shogun Raiden, Xiangling, Candace, Iansan",
+      "good": "Shenhe, Rosalia",
+      "ok": "Escoffier"
+    }
   },
   {
     "nom": "Lune de Mouun",
@@ -965,7 +2165,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lune-de-Mouun_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lune-de-Mouun-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lune-de-Mouun-guide.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Suivante des Fatui",
+      "Spectre"
+    ],
+    "personnages_conseilles": {
+      "top": "Faruzan, Kujou Sara, Ganyu",
+      "good": "Aloy, Yoimiya, Tartaglia, Fischl",
+      "ok": "Collei"
+    }
   },
   {
     "nom": "Lune ondulante de Futsu",
@@ -973,7 +2183,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lune-ondulante-de-Futsu_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à une main, Kamisato Ayato, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lune-ondulante-de-Futsu-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lune-ondulante-de-Futsu-guide-1.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Serpent noir",
+      "Nobushi"
+    ],
+    "personnages_conseilles": {
+      "top": "Kamisato Ayato, Alhaitham, Keqing, Kamisato Ayaka, Clorinde, Xilonen",
+      "good": "Chiori",
+      "ok": null
+    }
   },
   {
     "nom": "Lune paisible (prototype)",
@@ -981,7 +2201,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Lune-paisible-prototype_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Forge, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lune-paisible-prototype-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Lune-paisible-prototype-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Ganyu, Amber, Tighnari, Lyney",
+      "ok": "Sethos"
+    }
   },
   {
     "nom": "Malice (prototype)",
@@ -989,7 +2219,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Malice-prototype_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Forge, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Malice-prototype-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Malice-prototype-guide.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Barbara, Sangonomiya Kokomi, Mona, Yanfei, Baizhu, Neuvillette, Charlotte, Xianyun",
+      "good": "Mualani",
+      "ok": null
+    }
   },
   {
     "nom": "Matinée flânée sous le soleil",
@@ -997,7 +2237,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Matinee-flanee-sous-le-soleil_icone.webp",
     "rarete": "5★",
     "description": "5★, Catalyseur, Vœux limités, Yumemizuki Mizuki",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Matinee-flanee-sous-le-soleil-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Matinee-flanee-sous-le-soleil-guide-1.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Avatars de lave",
+      "Spectre"
+    ],
+    "personnages_conseilles": {
+      "top": "Yumemizuki Mizuki, Sucrose, Citlali, Shikanoin Heizou, Yae Miko, Lisa, Yanfei, Mualani, Barbara, Sangonomiya Kokomi, Ifa",
+      "good": "Nahida, Wriothesley",
+      "ok": null
+    }
   },
   {
     "nom": "Mémoire de Tulaytullah",
@@ -1005,7 +2255,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/11/Memoire-de-Tulaytullah_icone.webp",
     "rarete": "5★",
     "description": "5★, Catalyseur, Nomade, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Memoire-de-Tulaytullah-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Memoire-de-Tulaytullah-guide.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Fongus activé / calciné",
+      "Fongus"
+    ],
+    "personnages_conseilles": {
+      "top": "Nomade, Klee, Yanfei, Ningguang, Shikanoin Heizou, Wriothesley, Mualani, Varesa",
+      "good": "Lisa, Yae Miko",
+      "ok": "Nahida"
+    }
   },
   {
     "nom": "Mémoires de rituels",
@@ -1013,7 +2273,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Memoires-de-rituels_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Memoires-de-rituels-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Memoires-de-rituels-guide-2.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": "Sucrose, Sangonomiya Kokomi, Barbara, Nahida, Shikanoin Heizou, Yumemizuki Mizuki, Ifa",
+      "good": "Mualani, Citlali",
+      "ok": "Lisa, Yanfei, Yae Miko"
+    }
   },
   {
     "nom": "Messager",
@@ -1021,7 +2291,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Messager_icone.webp",
     "rarete": "3★",
     "description": "3★, Arc, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Messager-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Messager-guide.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": "Amber, Ganyu, Tighnari, Lyney",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Messager de l'Aube",
@@ -1029,7 +2309,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Messager-de-lAube_icone.webp",
     "rarete": "3★",
     "description": "3★, Épée à une main, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Messager-de-laube-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Messager-de-laube-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Albedo, Alhaitham, Chiori, Xilonen",
+      "good": "Voyageur Géo, Keqing, Kamisato Ayato, Kamisato Ayaka, Kaeya, Clorinde, Lynette",
+      "ok": null
+    }
   },
   {
     "nom": "Mille rêves flottants",
@@ -1037,7 +2327,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/10/Mille-reves-flottants_icone.webp",
     "rarete": "5★",
     "description": "5★, Catalyseur, Nahida, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Mille-reves-flottants-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Mille-reves-flottants-guide-2.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Structure primale",
+      "Fongus"
+    ],
+    "personnages_conseilles": {
+      "top": "Nahida, Sangonomiya Kokomi, Barbara, Baizhu, Mona, Shikanoin Heizou, Lisa, Yae Miko, Mualani, Citlali, Yumemizuki Mizuki",
+      "good": "Wriothesley",
+      "ok": null
+    }
   },
   {
     "nom": "Mille soleils brûlants",
@@ -1045,7 +2345,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Mille-soleils-brulants_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à deux mains, Mavuika, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Mille-soleils-brulants-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Mille-soleils-brulants-guide.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Automate de source secrète « Chasseur-chercheur »",
+      "Saurien natlanois"
+    ],
+    "personnages_conseilles": {
+      "top": "Mavuika, Kinich, Navia, Diluc, Eula, Fréminet, Razor",
+      "good": "Xinyan",
+      "ok": "Mavuika"
+    }
   },
   {
     "nom": "Mort-du-loup",
@@ -1053,7 +2363,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Mort-du-loup_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à deux mains, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Mort-du-loup-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Mort-du-loup-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Brutoshaman"
+    ],
+    "personnages_conseilles": {
+      "top": "Eula, Diluc, Sayu, Razor, Xinyan, Chongyun, Beidou, Dehya, Fréminet, Navia, Gaming",
+      "good": "Mavuika",
+      "ok": "Noëlle"
+    }
   },
   {
     "nom": "Mouvement vagabond",
@@ -1061,7 +2381,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Mouvement-vagabond_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Mouvement-vagabond-guide-3.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Mouvement-vagabond-guide-3.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Yae Miko, Yanfei, Klee, Lisa, Shikanoin Heizou, Mona, Nahida, Nomade, Wriothesley, Xianyun, Mualani, Varesa",
+      "good": "Ningguang",
+      "ok": "Neuvillette"
+    }
   },
   {
     "nom": "Néphrite jumelle",
@@ -1069,7 +2399,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Nephrite-jumelle_icone.webp",
     "rarete": "3★",
     "description": "3★, Catalyseur, Exploration",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Nephrite-jumelle-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Nephrite-jumelle-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Fatui"
+    ],
+    "personnages_conseilles": {
+      "top": "Lisa, Yanfei, Yae Miko, Mona, Klee, Shikanoin Heizou, Nomade, Neuvillette, Wriothesley, Xianyun",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Nimbus-forgé",
@@ -1077,7 +2417,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/05/Nimbus-forge_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Événement limité, Version 4.7",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Nimbus-forge-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/06/Nimbus-forge-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Prétorien golem",
+      "Fatui"
+    ],
+    "personnages_conseilles": {
+      "top": "Venti",
+      "good": "Fischl, Sethos, Ororon",
+      "ok": null
+    }
   },
   {
     "nom": "Notions colorées",
@@ -1085,7 +2435,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Notions-colorees_icone.webp",
     "rarete": "5★",
     "description": "5★, Catalyseur, Varesa, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Notions-colorees-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/03/Notions-colorees-guide.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Belette des montagnes à coquille fournaise",
+      "Saurien natlanois"
+    ],
+    "personnages_conseilles": {
+      "top": "Xianyun, Varesa",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Ode au chant du vent",
@@ -1093,7 +2453,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Ode-au-chant-du-vent_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à deux mains, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ode-au-chant-du-vent-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ode-au-chant-du-vent-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Eula, Razor, Xinyan, Fréminet",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Ode aux alizées",
@@ -1101,7 +2471,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Ode-aux-alizees_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Événement limité, Version 1.4",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ode-aux-alizees-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ode-aux-alizees-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Fleur mensongère"
+    ],
+    "personnages_conseilles": {
+      "top": "Venti, Tighnari",
+      "good": "Tartaglia, Collei, Fischl, Aloy, Sethos, Ororon",
+      "ok": null
+    }
   },
   {
     "nom": "Œil d'assermentation",
@@ -1109,7 +2489,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/OEil-dassermentation_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Événement limité, Version 2.5",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/OEil-dassermentation-guide-3.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/OEil-dassermentation-guide-3.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Loup de faille",
+      "Spectre"
+    ],
+    "personnages_conseilles": {
+      "top": "Yanfei, Lisa, Yae Miko, Charlotte, Ningguang, Xianyun, Lan Yan",
+      "good": "Mona, Sangonomiya Kokomi, Shikanoin Heizou, Nomade, Wriothesley",
+      "ok": "Klee"
+    }
   },
   {
     "nom": "Œil de la perception",
@@ -1117,7 +2507,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/OEil-de-la-perception_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/OEil-de-la-perception-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/OEil-de-la-perception-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Charlotte, Xianyun, Lan Yan",
+      "ok": "Yae Miko, Lisa, Ningguang, Shikanoin Heizou, Nomade, Yanfei, Klee, Wriothesley"
+    }
   },
   {
     "nom": "Ombre ferreuse",
@@ -1125,7 +2525,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/01/Ombre-ferreuse_icone.webp",
     "rarete": "3★",
     "description": "3★, Épée à deux mains, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ombre-ferreuse-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ombre-ferreuse-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Fleur mensongère"
+    ],
+    "personnages_conseilles": {
+      "top": "Dehya",
+      "good": "Dori, Dehya",
+      "ok": null
+    }
   },
   {
     "nom": "Ombre immaculée",
@@ -1133,7 +2543,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Ombre-immaculee_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Forge, Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ombre-immaculee-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ombre-immaculee-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": "Arataki Itto, Noëlle, Xinyan",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Ombre tidale",
@@ -1141,7 +2561,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Ombre-tidale_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Fontaine, Forge",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Ombre-tidale-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Ombre-tidale-guide-1.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Primus briseur",
+      "Méka horlogoïde"
+    ],
+    "personnages_conseilles": {
+      "top": "Beidou, Chongyun, Diluc, Razor",
+      "good": "Eula, Dehya, Fréminet, Xinyan, Sayu, Navia, Gaming",
+      "ok": "Mavuika"
+    }
   },
   {
     "nom": "Orbe jadien",
@@ -1149,7 +2579,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Orbe-jadien_icone.webp",
     "rarete": "3★",
     "description": "3★, Catalyseur, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Orbe-jadien-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Orbe-jadien-guide-2.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": "Yanfei, Mona, Klee, Shikanoin Heizou, Varesa",
+      "good": "Lisa, Yae Miko",
+      "ok": "Sucrose"
+    }
   },
   {
     "nom": "Os robuste",
@@ -1157,7 +2597,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Os-robuste_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Natlan, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Os-robuste-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/09/Os-robuste-guide-1.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Manifestations de Wayob",
+      "Guerrier tribal"
+    ],
+    "personnages_conseilles": {
+      "top": "Kamisato Ayato, Clorinde",
+      "good": "Lynette",
+      "ok": "Kamisato Ayaka, Keqing"
+    }
   },
   {
     "nom": "Ossature du dragon",
@@ -1165,7 +2615,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Ossature-du-dragon_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Pass de bataille",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ossature-du-dragon-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ossature-du-dragon-guide.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Géosaure / Élémentosaure abyssal",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": "Arataki Itto, Noëlle, Xinyan, Diluc, Navia, Chongyun, Eula, Razor, Fréminet, Gaming",
+      "good": "Dehya, Kinich, Mavuika",
+      "ok": null
+    }
   },
   {
     "nom": "Pampille blanche",
@@ -1173,7 +2633,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Pampille-blanche_icone.webp",
     "rarete": "3★",
     "description": "3★, Arme d'hast, Exploration",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Pampille-blanche-guide-3.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Pampille-blanche-guide-3.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Fatui"
+    ],
+    "personnages_conseilles": {
+      "top": "Cyno, Rosalia, Hu Tao, Candace, Arlecchino",
+      "good": "Xiangling, Rosalia, Xiao, Émilie",
+      "ok": null
+    }
   },
   {
     "nom": "Pampille noire",
@@ -1181,7 +2651,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Pampille-noire_icone.webp",
     "rarete": "3★",
     "description": "3★, Arme d'hast, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Pampille-noire-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Pampille-noire-guide-2.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Géosaure / Élémentosaure abyssal",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Zhongli, Thomas, Candace, Yaoyao, Mika, Chevreuse",
+      "good": null,
+      "ok": "Hu Tao"
+    }
   },
   {
     "nom": "Passeur du Fleuve cendré",
@@ -1189,7 +2669,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Passeur-du-Fleuve-cendre_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Pêche",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Passeur-du-fleuve-cendre-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Passeur-du-fleuve-cendre-guide-1.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Fantasme Hydro croupi",
+      "Aberrant fontemarin"
+    ],
+    "personnages_conseilles": {
+      "top": "Jean, Kaeya, Lynette, Bennett, Furina",
+      "good": "Voyageur Géo, Chiori",
+      "ok": "Voyageur Électro, Voyageur Anémo, Albedo, Kuki Shinobu, Xingqiu, Layla, Qiqi"
+    }
   },
   {
     "nom": "Perce-lune",
@@ -1197,7 +2687,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/08/Perce-lune_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Forge, Sumeru",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Perce-lune-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Perce-lune-guide-2.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Dragon des ruines",
+      "Fatui"
+    ],
+    "personnages_conseilles": {
+      "top": "Thomas, Shogun Raiden, Cyno",
+      "good": "Xiangling, Candace, Yaoyao",
+      "ok": null
+    }
   },
   {
     "nom": "Perceur d'ibis",
@@ -1205,7 +2705,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/04/Perceur-dibis_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Événement limité, Version 3.7",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/05/Perceur-dibis-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/05/Perceur-dibis-guide.webp",
+    "materiaux_arme": [
+      "Sumeru",
+      "Brutovéreux",
+      "Érémite"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Ganyu, Tighnari, Amber, Tartaglia, Sethos, Chasca",
+      "ok": "Fischl"
+    }
   },
   {
     "nom": "Perceur prismatique",
@@ -1213,7 +2723,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Perceur-prismatique_icone.webp",
     "rarete": "5★",
     "description": "5★, Arme d'hast, Vœux limités, Zhongli",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Perceur-prismatique-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Perceur-prismatique-guide-2.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Géosaure / Élémentosaure abyssal",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Shenhe, Xiao, Shogun Raiden, Cyno, Arlecchino, Iansan",
+      "ok": "Escoffier"
+    }
   },
   {
     "nom": "Perle solaire",
@@ -1221,7 +2741,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Perle-solaire_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Pass de bataille",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Perle-solaire-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Perle-solaire-guide-2.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Fleur mensongère"
+    ],
+    "personnages_conseilles": {
+      "top": "Ningguang, Klee, Yanfei, Shikanoin Heizou, Nomade, Lisa, Wriothesley",
+      "good": "Yae Miko, Xianyun, Mona",
+      "ok": "Varesa"
+    }
   },
   {
     "nom": "Pique du croissant de lune",
@@ -1229,7 +2759,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Pique-du-croissant-de-lune_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Forge, Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Pique-du-croissant-de-lune-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Pique-du-croissant-de-lune-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Xiangling, Zhongli, Shenhe",
+      "ok": null
+    }
   },
   {
     "nom": "Piqûre de fer",
@@ -1237,7 +2777,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Piqure-de-fer_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Forge, Liyue",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Piqure-de-fer-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Piqure-de-fer-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Géosaure / Élémentosaure abyssal",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": "Kaedehara Kazuha, Voyageur Anémo, Jean, Kuki Shinobu, Voyageur Dendro, Alhaitham, Voyageur Électro, Lynette, Voyageur Hydro",
+      "good": "Kaeya, Keqing, Nilou",
+      "ok": null
+    }
   },
   {
     "nom": "Pluie florale",
@@ -1245,7 +2795,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/11/Pluie-florale_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Événement limité, Version 3.3",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Pluie-florale-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Pluie-florale-guide-1.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Structure primale",
+      "Nobushi"
+    ],
+    "personnages_conseilles": {
+      "top": "Kaedehara Kazuha, Voyageur Anémo, Jean, Kuki Shinobu, Voyageur Dendro, Alhaitham, Voyageur Électro, Lynette, Voyageur Hydro",
+      "good": "Kaeya, Keqing, Nilou",
+      "ok": null
+    }
   },
   {
     "nom": "Plumage cramoisi du vautour astral",
@@ -1253,7 +2813,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/UI_EquipIcon_Arc_Plumage-cramoisi-du-vautour-astral.webp",
     "rarete": "5★",
     "description": "5★, Arc, Chasca, Natlan, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Plumage-cramoisi-du-vautour-astral-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Plumage-cramoisi-du-vautour-astral-guide-1.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Miméflore obombrée",
+      "Guerrier tribal"
+    ],
+    "personnages_conseilles": {
+      "top": "Chasca, Ganyu, Lyney, Tighnari, Sethos, Tartaglia, Amber",
+      "good": "Yoimiya, Ororon",
+      "ok": null
+    }
   },
   {
     "nom": "Plumard de fleurs",
@@ -1261,7 +2831,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/UI_EquipIcon_Arc_Plumard-de-fleurs.webp",
     "rarete": "4★",
     "description": "4★, Arc, Natlan, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Plumard-de-fleurs-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Plumard-de-fleurs-guide-1.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Avatars de lave",
+      "Guerrier tribal"
+    ],
+    "personnages_conseilles": {
+      "top": "Chasca, Lyney, Amber",
+      "good": "Sethos, Tighnari, Ganyu",
+      "ok": null
+    }
   },
   {
     "nom": "Predator",
@@ -1269,7 +2849,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Predator_icone-1.webp",
     "rarete": "4★",
     "description": "4★, Arc, PlayStation",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Predator-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Predator-guide.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Suivante des Fatui",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Aloy, Ganyu",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Pulsation du tonnerre",
@@ -1277,7 +2867,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Pulsation-du-tonnerre_icone.webp",
     "rarete": "5★",
     "description": "5★, Arc, Vœux limités, Yoimiya",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Pulsation-du-tonnerre-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Pulsation-du-tonnerre-guide-1.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Suivante des Fatui",
+      "Tireur Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Yoimiya, Aloy, Tartaglia",
+      "good": "Tighnari, Ganyu, Lyney, Venti, Sethos, Chasca, Ororon",
+      "ok": "Faruzan, Kujou Sara"
+    }
   },
   {
     "nom": "Pureté fluide",
@@ -1285,7 +2885,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Purete-fluide_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Fontaine, Forge",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Purete-fluide-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Purete-fluide-guide-1.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Primus briseur",
+      "Aberrant fontemarin"
+    ],
+    "personnages_conseilles": {
+      "top": "Wriothesley, Xianyun, Mona, Lan Yan",
+      "good": "Nomade, Yae Miko, Lisa, Yanfei",
+      "ok": "Klee, Ningguang"
+    }
   },
   {
     "nom": "Récompense légitime",
@@ -1293,7 +2903,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/07/Recompense-legitime_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Fontaine, Forge",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Recompense-legitime-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/08/Recompense-legitime-guide-1.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Primus briseur",
+      "Méka horlogoïde"
+    ],
+    "personnages_conseilles": {
+      "top": "Thomas, Mika, Chevreuse",
+      "good": "Yaoyao, Zhongli",
+      "ok": null
+    }
   },
   {
     "nom": "Reflet de tranche-brume",
@@ -1301,7 +2921,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Reflet-de-tranche-brume_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à une main, Kamisato Ayaka, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Reflet-de-tranche-brume-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Reflet-de-tranche-brume-guide-1.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Sentinelle des ruines",
+      "Nobushi"
+    ],
+    "personnages_conseilles": {
+      "top": "Kamisato Ayaka, Keqing, Kamisato Ayato, Kaeya, Xingqiu, Alhaitham, Lynette",
+      "good": "Clorinde, Voyageur Géo, Furina",
+      "ok": "Chiori, Xilonen"
+    }
   },
   {
     "nom": "Rugissement du Lion",
@@ -1309,7 +2939,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Rugissement-du-Lion_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Rugissement-du-lion-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Rugissement-du-lion-guide.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": "Keqing, Kamisato Ayato",
+      "good": "Jean, Qiqi, Clorinde",
+      "ok": null
+    }
   },
   {
     "nom": "Scie électrique portative",
@@ -1317,7 +2957,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Scie-electrique-portative_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Scie-electrique-portative-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Scie-electrique-portative-guide.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Primus briseur",
+      "Méka horlogoïde"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Dori, Dehya",
+      "ok": null
+    }
   },
   {
     "nom": "Scion de la victoire",
@@ -1325,7 +2975,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Scion-de-la-victoire_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Pass de bataille",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Scion-de-la-victoire-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Scion-de-la-victoire-guide-2.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Fleur mensongère"
+    ],
+    "personnages_conseilles": {
+      "top": "Xiao, Hu Tao, Rosalia, Cyno, Arlecchino, Émilie, Escoffier",
+      "good": "Xiangling, Shogun Raiden, Candace",
+      "ok": null
+    }
   },
   {
     "nom": "Semblance de la lune écarlate",
@@ -1333,7 +2993,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/03/Semblance-de-la-lune-ecarlate_icone.webp",
     "rarete": "5★",
     "description": "5★, Arlecchino, Arme d'hast, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/03/Semblance-de-la-lune-ecarlate-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/03/Semblance-de-la-lune-ecarlate-guide-2.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Prétorien golem",
+      "Méka horlogoïde"
+    ],
+    "personnages_conseilles": {
+      "top": "Arlecchino",
+      "good": "Iansan, Escoffier",
+      "ok": "Shenhe, Candace, Xiao, Shogun Raiden, Cyno"
+    }
   },
   {
     "nom": "Séquence de solitude",
@@ -1341,7 +3011,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Sequence-de-solitude_icone.webp",
     "rarete": "5★",
     "description": "5★, Arme d'hast, Escoffier, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Sequence-de-solitude-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Sequence-de-solitude-guide-1.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Belette des montagnes à coquille fournaise",
+      "Méka horlogoïde"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Diona, Yelan, Sigewinne",
+      "ok": null
+    }
   },
   {
     "nom": "Serment de l'archer",
@@ -1349,7 +3029,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Serment-de-larcher_icone.webp",
     "rarete": "3★",
     "description": "3★, Arc, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Serment-de-larcher-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Serment-de-larcher-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Amber, Ganyu, Tighnari, Lyney",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Serment de la liberté",
@@ -1357,7 +3047,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Serment-de-la-liberte_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à une main, Kaedehara Kazuha, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Serment-de-la-liberte-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Serment-de-la-liberte-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Brutoshaman"
+    ],
+    "personnages_conseilles": {
+      "top": "Kaedehara Kazuha, Voyageur Anémo, Jean, Kuki Shinobu, Voyageur Dendro, Layla, Alhaitham, Voyageur Électro, Kirara, Lynette, Voyageur Hydro, Xilonen",
+      "good": "Kaeya, Keqing, Nilou, Clorinde",
+      "ok": null
+    }
   },
   {
     "nom": "Simulacre d'eau",
@@ -1365,7 +3065,13 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Simulacre-deau_icone.webp",
     "rarete": "5★",
     "description": "5★, Arc, Vœux limités, Yelan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Simulacre-deau-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Simulacre-deau-guide-1.webp",
+    "materiaux_arme": null,
+    "personnages_conseilles": {
+      "top": "Yelan, Fischl, Tartaglia, Ganyu, Yoimiya, Amber, Aloy, Venti, Tighnari, Lyney, Sethos, Chasca, Ororon",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Splendeur de l'azur",
@@ -1373,7 +3079,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/04/Splendeur-de-lazur_icone.webp",
     "rarete": "5★",
     "description": "5★, Baizhu, Catalyseur, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/04/Splendeur-de-lazur-guide-2.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/04/Splendeur-de-lazur-guide-2.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Brutovéreux",
+      "Fongus"
+    ],
+    "personnages_conseilles": {
+      "top": "Baizhu, Sangonomiya Kokomi, Neuvillette",
+      "good": "Barbara, Mualani",
+      "ok": null
+    }
   },
   {
     "nom": "Splendeur des eaux calmes",
@@ -1381,7 +3097,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Splendeur-des-eaux-calmes_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à une main, Furina, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Splendeur-des-eaux-calmes-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/11/Splendeur-des-eaux-calmes-guide.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Fantasme Hydro croupi",
+      "Aberrant fontemarin"
+    ],
+    "personnages_conseilles": {
+      "top": "Furina",
+      "good": "Keqing, Alhaitham, Chiori, Clorinde, Xilonen",
+      "ok": null
+    }
   },
   {
     "nom": "Supervision de trésorerie",
@@ -1389,7 +3115,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Supervision-de-tresorerie_icone.webp",
     "rarete": "5★",
     "description": "5★, Catalyseur, Vœux limités, Wriothesley",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Supervision-de-tresorerie-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/10/Supervision-de-tresorerie-guide-1.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Opérateur Fatui",
+      "Aberrant fontemarin"
+    ],
+    "personnages_conseilles": {
+      "top": "Wriothesley, Neuvillette, Yanfei, Klee, Ningguang, Nomade, Shikanoin Heizou, Lisa, Varesa",
+      "good": "Yae Miko, Lisa, Mona",
+      "ok": "Nahida"
+    }
   },
   {
     "nom": "Symphoniste des senteurs",
@@ -1397,7 +3133,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/04/Symphoniste-des-senteurs_icone.webp",
     "rarete": "5★",
     "description": "5★, Arme d'hast, Escoffier, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Symphoniste-des-senteurs-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/05/Symphoniste-des-senteurs-guide.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Fantasme Hydro croupi",
+      "Aberrant fontemarin"
+    ],
+    "personnages_conseilles": {
+      "top": "Chevreuse, Escoffier, Iansan",
+      "good": "Arlecchino, Cyno, Émilie, Rosalia, Shogun Raiden, Xiangling, Xiao",
+      "ok": null
+    }
   },
   {
     "nom": "Tailleur de pierre (prototype)",
@@ -1405,7 +3151,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Tailleur-de-pierre-prototype_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à une main, Forge, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tailleur-de-pierre-prototype-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tailleur-de-pierre-prototype-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Fatui"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Bennett, Jean, Qiqi",
+      "ok": null
+    }
   },
   {
     "nom": "Tamayuratei no Ohanashi",
@@ -1413,7 +3169,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Tamayuratei-no-Ohanashi_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Événement limité, Version 5.4",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Tamayuratei-no-Ohanashi-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/02/Tamayuratei-no-Ohanashi-guide.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Miméflore obombrée",
+      "Nobushi"
+    ],
+    "personnages_conseilles": {
+      "top": "Iansan",
+      "good": "Rosalia, Xiangling",
+      "ok": "Xiao, Escoffier"
+    }
   },
   {
     "nom": "Tombe-neige en argétoile",
@@ -1421,7 +3187,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Tombe-neige-en-argetoile_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Exploration, Forge, Mondstadt",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tombe-neige-en-argetoile-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tombe-neige-en-argetoile-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Eula, Fréminet",
+      "good": "Razor, Xinyan",
+      "ok": null
+    }
   },
   {
     "nom": "Tome du flux éternel",
@@ -1429,7 +3205,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Tome-du-flux-eternel_icone.webp",
     "rarete": "5★",
     "description": "5★, Catalyseur, Neuvillette, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Tome-du-flux-eternel-guide-3.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/09/Tome-du-flux-eternel-guide-3.webp",
+    "materiaux_arme": [
+      "Fontaine",
+      "Primus briseur",
+      "Méka horlogoïde"
+    ],
+    "personnages_conseilles": {
+      "top": "Neuvillette, Ningguang, Yanfei, Mona, Klee, Xianyun, Mualani, Varesa",
+      "good": "Nomade, Shikanoin Heizou, Yae Miko, Lisa",
+      "ok": "Nahida"
+    }
   },
   {
     "nom": "Tourbillon sur les vagues",
@@ -1437,7 +3223,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/UI_EquipIcon_Catalyseur_Tourbillon-sur-les-vagues.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Natlan, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Tourbillon-sur-les-vagues-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/11/Tourbillon-sur-les-vagues-guide.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Manifestations de Wayob",
+      "Saurien natlanois"
+    ],
+    "personnages_conseilles": {
+      "top": "Barbara, Sangonomiya Kokomi, Baizhu, Yanfei",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Trace d'arc-en-ciel",
@@ -1445,7 +3241,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Trace-darc-en-ciel_icone.webp",
     "rarete": "4★",
     "description": "4★, Arme d'hast, Forge, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Trace-darc-en-ciel-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Trace-darc-en-ciel-guide.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Automate de source secrète « Chasseur-chercheur »",
+      "Guerrier tribal"
+    ],
+    "personnages_conseilles": {
+      "top": "Kachina, Yun Jin",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Tranche-Sommets",
@@ -1453,7 +3259,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Tranche-sommets_icone.webp",
     "rarete": "5★",
     "description": "5★, Épée à une main, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tranche-sommets-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Tranche-sommets-guide.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Usurier des Fatui",
+      "Brutocollinus"
+    ],
+    "personnages_conseilles": {
+      "top": "Kamisato Ayaka, Qiqi",
+      "good": "Jean, Keqing, Clorinde",
+      "ok": null
+    }
   },
   {
     "nom": "Trancheuse de Rochenoire",
@@ -1461,7 +3277,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Trancheuse-de-Rochenoire_icone.webp",
     "rarete": "4★",
     "description": "4★, Boutique, Épée à deux mains",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Trancheuse-de-Rochenoire-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Trancheuse-de-Rochenoire-guide-1.webp",
+    "materiaux_arme": [
+      "Liyue",
+      "Mage luciole des Fatui",
+      "Fatui"
+    ],
+    "personnages_conseilles": {
+      "top": null,
+      "good": "Arataki Itto, Eula, Razor, Diluc, Dehya, Fréminet, Navia, Gaming",
+      "ok": "Noëlle, Beidou, Chongyun, Mavuika"
+    }
   },
   {
     "nom": "Traqueur des impasses",
@@ -1469,7 +3295,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Traqueur-des-impasses_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Traqueur-des-impasses-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Traqueur-des-impasses-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Gardien / Chasseur des ruines",
+      "Blob"
+    ],
+    "personnages_conseilles": {
+      "top": "Fischl, Venti, Aloy, Kujou Sara, Faruzan, Ororon",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Trembleur de terre",
@@ -1477,7 +3313,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Trembleur-de-terre_icone.webp",
     "rarete": "4★",
     "description": "4★, Épée à deux mains, Forge, Natlan",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Trembleur-de-terre-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/07/Trembleur-de-terre-guide-1.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Avatars de lave",
+      "Guerrier tribal"
+    ],
+    "personnages_conseilles": {
+      "top": "Kinich, Navia, Gaming, Diluc",
+      "good": "Sayu",
+      "ok": "Mavuika"
+    }
   },
   {
     "nom": "Ultime soupir",
@@ -1485,7 +3331,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Ultime-soupir_icone.webp",
     "rarete": "5★",
     "description": "5★, Arc, Venti, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ultime-soupir-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Ultime-soupir-guide-1.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Fatui"
+    ],
+    "personnages_conseilles": {
+      "top": "Venti, Amber, Diona, Yelan, Collei, Ororon",
+      "good": "Aloy, Faruzan, Kujou Sara, Venti, Sigewinne",
+      "ok": null
+    }
   },
   {
     "nom": "Uraku Misugiri",
@@ -1493,7 +3349,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/02/Uraku-Misugiri_icone.webp",
     "rarete": "5★",
     "description": "5★, Chiori, Épée à une main, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/03/Uraku-Misugiri-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/03/Uraku-Misugiri-guide.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Sentinelle des ruines",
+      "Nobushi"
+    ],
+    "personnages_conseilles": {
+      "top": "Chiori, Alhaitham, Keqing, Furina, Albedo, Clorinde, Xilonen",
+      "good": "Kamisato Ayaka, Lynette, Kaeya",
+      "ok": null
+    }
   },
   {
     "nom": "Valse nocturne",
@@ -1501,7 +3367,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Valse-nocturne_icone.webp",
     "rarete": "4★",
     "description": "4★, Arc, Fischl, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Valse-noctune-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Valse-noctune-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Brutoviandi, Chef Brutocollinus",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": "Fischl",
+      "good": null,
+      "ok": null
+    }
   },
   {
     "nom": "Veillée d'appel d'étoiles",
@@ -1509,7 +3385,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2024/12/Veillee-dappel-detoiles_icone.webp",
     "rarete": "5★",
     "description": "5★, Catalyseur, Citlali, Natlan, Vœux limités",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Veillee-dappel-detoiles-guide-1.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2025/01/Veillee-dappel-detoiles-guide-1.webp",
+    "materiaux_arme": [
+      "Natlan",
+      "Manifestations de Wayob",
+      "Guerrier tribal"
+    ],
+    "personnages_conseilles": {
+      "top": "Citlali, Nahida, Sucrose, Yae Miko, Lisa, Yanfei, Mualani, Baizhu, Barbara, Sangonomiya Kokomi, Yumemizuki Mizuki",
+      "good": "Wriothesley",
+      "ok": null
+    }
   },
   {
     "nom": "Vérité de Kagura",
@@ -1517,7 +3403,17 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Verite-de-Kagura_icone.webp",
     "rarete": "5★",
     "description": "5★, Catalyseur, Vœux limités, Yae Miko",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Verite-de-Kagura-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Verite-de-Kagura-guide.webp",
+    "materiaux_arme": [
+      "Inazuma",
+      "Loup de faille",
+      "Spectre"
+    ],
+    "personnages_conseilles": {
+      "top": "Yae Miko, Yanfei, Klee, Lisa, Ningguang, Shikanoin Heizou, Nahida, Nomade, Wriothesley, Varesa",
+      "good": "Lisa, Mona, Neuvillette, Xianyun, Mualani",
+      "ok": null
+    }
   },
   {
     "nom": "Vins et chants",
@@ -1525,6 +3421,16 @@
     "thumb": "https://lagazettedeteyvat.fr/wp-content/uploads/2022/06/Vins-et-chants_icone.webp",
     "rarete": "4★",
     "description": "4★, Catalyseur, Vœux",
-    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Vins-et-chants-guide.webp"
+    "img": "https://lagazettedeteyvat.fr/wp-content/uploads/2023/02/Vins-et-chants-guide.webp",
+    "materiaux_arme": [
+      "Mondstadt",
+      "Mage de l’Abîme",
+      "Pilleur de trésor"
+    ],
+    "personnages_conseilles": {
+      "top": "Charlotte, Xianyun",
+      "good": null,
+      "ok": "Shikanoin Heizou, Nomade, Yanfei, Lisa, Ningguang, Mona, Yae Miko, Klee, Wriothesley"
+    }
   }
 ]

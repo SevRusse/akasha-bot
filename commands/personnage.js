@@ -25,7 +25,10 @@ module.exports = {
         const nom = interaction.options.getString('nom');
         const perso = personnages.find(p => p.nom === nom)
         if (!perso) {
-            return interaction.reply({ content: '❌ Personnage introuvable.', ephemeral: true });
+            return interaction.reply({
+                content: '❌ Personnage introuvable.',
+                ephemeral: true
+            });
         }
 
         const color = elementColors[perso.element] ?? 0x5865F2; // couleur par défaut
@@ -33,16 +36,39 @@ module.exports = {
         const embed = new EmbedBuilder()
             .setTitle(perso.nom)
             .setURL(perso.url)
-            .setImage(perso.build)
+            .setImage(perso.build.buildUrl)
             .setThumbnail(perso.thumb)
+            .setColor(color)
             .setDescription(
                 `${perso.description}\n\n` +
                 `Clique sur le lien ci-dessus pour consulter la fiche de build complète d${('aeiouyé'.includes(perso.nom.toLowerCase()[0]) && !'aeiouyé'.includes(perso.nom.toLowerCase()[1])) ? '\'' : 'e '}**${perso.nom}** sur le site de la Gazette de Teyvat.`
             )
-            .setColor(color)
+            .addFields(
+                {
+                    name: 'Rôle',
+                    value: perso.build.role,
+                    inline: false
+                },
+                {
+                    name: 'Armes conseillées',
+                    value: `${perso.build.armes_conseillees.map((s, i) =>
+                        `${i + 1}. ` + s)
+                        .join('\n')}`,
+                    inline: true
+                },
+                {
+                    name: 'Sets conseillés',
+                    value: `${perso.build.sets_conseilles.map((s, i) =>
+                        `${i + 1}. ` + s)
+                        .join('\n')}`,
+                    inline: true
+                }
+            )
             .setTimestamp();
 
-        await interaction.reply({ embeds: [embed] });
+        await interaction.reply({
+            embeds: [embed]
+        });
     },
 
     // Cette fonction est spécifique pour gérer l'autocomplétion
