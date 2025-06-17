@@ -4,6 +4,16 @@ const fs = require('fs');
 
 const { log } = require('./utils/logger');
 
+// serveur Express
+const express = require('express');
+const app = express();
+const PORT = process.env.PORT || 3000; // Render fournit automatiquement process.env.PORT
+
+app.get('/', (_, res) => res.send('Bot is alive!'));
+app.listen(PORT, () => {
+    log(`✅ Serveur Express en ligne sur le port ${PORT}`);
+});
+
 const client = new Client({
     intents: [
         GatewayIntentBits.Guilds,
