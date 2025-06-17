@@ -1,5 +1,5 @@
 require('dotenv').config();
-const { Client, GatewayIntentBits, Collection } = require('discord.js');
+const { Client, GatewayIntentBits, Collection, ActivityType } = require('discord.js');
 const fs = require('fs');
 
 const { log } = require('./utils/logger');
@@ -21,7 +21,7 @@ for (const file of commandFiles) {
 
 client.once('ready', () => {
     log(`Akasha est en ligne ! Connecté en tant que ${client.user.tag}`);
-    client.user.setActivity('/personnage', { type: 'LISTENING' });
+    client.user.setActivity('/help', { type: ActivityType.Watching });
 });
 
 // Gestion autocomplétion
