@@ -1,4 +1,4 @@
-const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
+const { SlashCommandBuilder, EmbedBuilder, MessageFlags } = require('discord.js');
 const armes = require('../data/armes.json');
 
 const rarityColors = {
@@ -23,7 +23,7 @@ module.exports = {
         if (!arme) {
             return interaction.reply({
                 content: '❌ Arme introuvable.',
-                ephemeral: true
+                flags: MessageFlags.Ephemeral
             });
         }
 

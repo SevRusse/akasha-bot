@@ -17,7 +17,7 @@ module.exports = {
         if (!ennemi) {
             return interaction.reply({
                 content: '❌ Ennemi introuvable.',
-                ephemeral: true
+                flags: MessageFlags.Ephemeral
             });
         }
 

@@ -24,12 +24,11 @@ function event_link(client) {
                 fs.writeFileSync('./data/profils.json', JSON.stringify(data, null, 2));
             }
 
-            await interaction.send({
+            await interaction.channel.send({
                 embeds: [embed
                     .setDescription(`✅ ${interaction.member.nickname || interaction.user.globalName}, ton compte Genshin, **UID ${uid}**, est maintenant lié à ton profil Discord.`)
                     .setTimestamp()
-                ],
-                ephemeral: false,
+                ]
             });
         } else if (action === 'cancel' && type === 'link') {
             await interaction.update({

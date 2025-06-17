@@ -27,7 +27,7 @@ module.exports = {
         if (!perso) {
             return interaction.reply({
                 content: '❌ Personnage introuvable.',
-                ephemeral: true
+                flags: MessageFlags.Ephemeral
             });
         }
 

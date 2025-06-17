@@ -17,7 +17,7 @@ module.exports = {
         if (!arte) {
             return interaction.reply({
                 content: '❌ Set d\'artefacts introuvable.',
-                ephemeral: true
+                flags: MessageFlags.Ephemeral
             });
         }
 

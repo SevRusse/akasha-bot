@@ -25,7 +25,7 @@ module.exports = {
                 embeds: [embed
                     .setDescription('❌ UID invalide. Il doit comporter **exactement 9 chiffres**.')
                 ],
-                ephemeral: true
+                flags: MessageFlags.Ephemeral
             });
         }
         if (!uid.startsWith('7')) {
@@ -33,7 +33,7 @@ module.exports = {
                 embeds: [embed
                     .setDescription('❌ UID invalide. Il doit commencer par **le chiffre 7**.')
                 ],
-                ephemeral: true
+                flags: MessageFlags.Ephemeral
             });
         }
 
@@ -43,7 +43,7 @@ module.exports = {
                 embeds: [embed
                     .setDescription('❌ Vous avez déjà lié votre profil Discord.')
                 ],
-                ephemeral: true
+                flags: MessageFlags.Ephemeral
             });
         }
 
@@ -54,7 +54,7 @@ module.exports = {
                         embeds: [embed
                             .setDescription(`❌ Aucun profil Genshin trouvé pour l'UID **${uid}**.`)
                         ],
-                        ephemeral: true,
+                        flags: MessageFlags.Ephemeral
                     });
                 }
             );
@@ -96,7 +96,7 @@ module.exports = {
             await interaction.reply({
                 embeds: [embed],
                 components: [row],
-                ephemeral: true,
+                flags: MessageFlags.Ephemeral
             });
 
         }
@@ -106,7 +106,7 @@ module.exports = {
                 embeds: [embed
                     .setDescription('❌ Une erreur est survenue lors de la vérification de l\'UID.')
                 ],
-                ephemeral: true,
+                flags: MessageFlags.Ephemeral
             });
         }
     }
