@@ -8,7 +8,7 @@ const upPersonnages = require('../scripts/scraper-personnages');
 
 // Scheduler
 function scheduler() {
-    cron.schedule('0 0 1 * *', async () => { // tous les 1er de chaque mois
+    cron.schedule('0 0 * * 1', async () => { // tous les lundis
         log('⏳ Mise à jour automatique des contenus...');
         await upPersonnages();
         await upArmes();
