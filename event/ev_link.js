@@ -15,7 +15,7 @@ function event_link(client) {
             if (data[interaction.user.id]) {
                 await interaction.update({
                     embeds: [embed
-                        .setDescription(`❌ L'opération déjà abouti.`)
+                        .setDescription(`❌ L'opération a déjà abouti.`)
                     ],
                 });
             }

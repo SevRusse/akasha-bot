@@ -5,7 +5,11 @@ const fs = require('fs');
 const { log } = require('./utils/logger');
 
 const client = new Client({
-    intents: [GatewayIntentBits.Guilds]
+    intents: [
+        GatewayIntentBits.Guilds,
+        GatewayIntentBits.GuildMessages,
+        GatewayIntentBits.MessageContent
+    ]
 });
 client.commands = new Collection();
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
@@ -48,6 +52,7 @@ client.on('interactionCreate', async interaction => {
 
 // Gestion des événements
 require('./event/ev_link').event_link(client);
+require('./event/ev_say').event_say(client);
 
 // Gestion scheduler
 require('./utils/scheduler').scheduler();
