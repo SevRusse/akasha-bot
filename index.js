@@ -29,9 +29,8 @@ for (const file of commandFiles) {
     client.commands.set(command.data.name, command);
 }
 
-client.once('ready', () => {
+client.once('ready', async () => {
     log(`Akasha est en ligne ! Connecté en tant que ${client.user.tag}`);
-    client.user.setActivity('/help', { type: ActivityType.Watching });
 });
 
 // Gestion autocomplétion
@@ -61,11 +60,7 @@ client.on('interactionCreate', async interaction => {
 });
 
 // Gestion des événements
-require('./event/ev_link').event_link(client);
 require('./event/ev_say').event_say(client);
-
-// Gestion scheduler
-require('./utils/scheduler').scheduler();
 
 // Gestion manuelle des crashs
 client.on('error', err => log('Erreur client Discord', err));

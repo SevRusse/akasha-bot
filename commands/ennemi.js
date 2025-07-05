@@ -1,68 +1,135 @@
 const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
-const ennemis = require('../data/ennemis.json');
+const axios = require('axios');
+const cheerio = require('cheerio');
+
+const visions = [   // Noms des éléments
+    'Anémo',
+    'Géo',
+    'Électro',
+    'Dendro',
+    'Hydro',
+    'Pyro',
+    'Cryo'
+];
+
+async function fetchNomEnnemis() {
+    const res = await axios.get('https://lagazettedeteyvat.fr/ennemis');
+    const $ = cheerio.load(res.data);
+    return $('a.elementor-element h5')
+        .map((_, el) => $(el).text().trim())
+        .get()
+        .filter(Boolean);
+}
+
+async function fetchInfosEnnemi(nomRecherche) {
+    const res = await axios.get('https://lagazettedeteyvat.fr/ennemis');
+    const $ = cheerio.load(res.data);
+    const linkEl = $('a.elementor-element').filter((_, el) =>
+        $(el).find('h5').text().trim().toLowerCase()
+        === nomRecherche.toLowerCase())
+        .first();
+    if (!linkEl.length) return;
+
+    const url = linkEl.attr('href');
+    const thumb = linkEl.find('.elementor-element-9f2ca69 img').first().attr('data-src');
+
+    // Aller chercher dans la page de l'ennemi
+    const pageEnnemi = await axios.get(url);
+    const $$ = cheerio.load(pageEnnemi.data);
+    const region = $$('.elementor-post-info__terms-list-item')
+        .filter((_, el) => !visions.includes($$(el).text()))
+        .first().text().trim();
+    const type = $$('h2:first').text().endsWith('boss')
+        ? 'Boss'
+        : 'Légende locale';
+    const ennemiImage = $$('.elementor-element-a5051ac, .elementor-element-a3f2663').find('img').first().attr('data-src');
+    const butin = type === 'Boss'
+        ? $$('.elementor-element-823722d').find('ul:first').text().trim().replaceAll('’', '\'').split('\n')
+        : ['Commun ou élite identique à la créature originelle'];
+    const succes = type === 'Boss'
+        ? $$('.elementor-element-823722d').find('ul:last').text().trim().replaceAll('’', '\'').split('\n')
+        : $$('.elementor-element-980e285').find('b, strong').text().trim().replaceAll('’', '\'').split('.').slice(0, -1);
+
+    return {
+        nom: linkEl.find('h5').text().trim(),
+        url,
+        thumb,
+        region,
+        type,
+        ennemiImage,
+        butin,
+        succes
+    };
+}
 
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('ennemi')
-        .setDescription('Affiche la fiche d\'un ennemi Genshin Impact')
+        .setDescription('Affiche les infos pour un ennemi de Genshin Impact')
         .addStringOption(option =>
             option.setName('nom')
                 .setDescription('Nom de l\'ennemi')
                 .setRequired(true)
                 .setAutocomplete(true)),
 
+    // Cette fonction est spécifique pour gérer l'autocomplétion
+    async autocomplete(interaction) {
+        const focused = interaction.options.getFocused().toLowerCase();
+        // Filtrer les suggestions selon ce que l'utilisateur tape
+        const suggestions = (await fetchNomEnnemis())
+            .filter(n => n
+                .toLowerCase()
+                .includes(focused))
+            .slice(0, 25) // Limite de 25 suggestions
+            .map(s => ({ name: s, value: s }));
+        await interaction.respond(suggestions);
+    },
+
     async execute(interaction) {
+        // ••• *Bot* réfléchit...
+        await interaction.deferReply();
+
         const nom = interaction.options.getString('nom');
-        const ennemi = ennemis.find(e => e.nom === nom)
+        const ennemi = await fetchInfosEnnemi(nom);
         if (!ennemi) {
-            return interaction.reply({
+            return interaction.editReply({
                 content: '❌ Ennemi introuvable.',
                 flags: MessageFlags.Ephemeral
             });
         }
 
+        const elision = ('aâeéiou'.includes(ennemi.nom.toLowerCase()[0])) ? '\'' : 'e ';
         const embed = new EmbedBuilder()
             .setTitle(ennemi.nom)
             .setURL(ennemi.url)
-            .setImage(ennemi.img)
-            .setThumbnail(ennemi.thumb)
-            .setColor(0x1e2a38) // couleur sombre evoquant la resine
             .setDescription(
-                `${ennemi.type} (${ennemi.description})\n\n` +
-                `Clique sur le lien ci-dessus pour consulter la fiche complète d${('aeiouyé'.includes(ennemi.nom.toLowerCase()[0]) && !'aeiouyé'.includes(ennemi.nom.toLowerCase()[1])) ? '\'' : 'e '}**${ennemi.nom}** sur le site de la Gazette de Teyvat.`
-            );
-        if (ennemi.type.startsWith('Boss'))
-            embed.addFields(
+                `**Région :** ${ennemi.region}\n` +
+                `**Type d\'ennemi :** ${ennemi.type}\n\n` +
+                `Cliquez sur le lien ci-dessus pour consulter la fiche complète d${elision}**${ennemi.nom}** sur le site de la Gazette de Teyvat.`
+            )
+            .setColor(0x1e2a38) // couleur sombre evoquant la resine
+            .setImage(ennemi.ennemiImage)
+            .setThumbnail(ennemi.thumb)
+            .addFields(
                 {
                     name: 'Butin',
-                    value: `${ennemi.boss.butin.map(s =>
+                    value: `${ennemi.butin.map(s =>
                         '**•** ' + s
                     ).join('\n')}`,
                     inline: true
                 },
                 {
                     name: 'Succès associés',
-                    value: `${ennemi.boss.succes.map(s =>
-                        '**•** ' + s
+                    value: `${ennemi.succes.map(s =>
+                        `**•** *${s}*`
                     ).join('\n')}`,
                     inline: true
                 }
             )
-                .setTimestamp();
+            .setTimestamp();
 
-        await interaction.reply({ embeds: [embed] });
-    },
-
-    // Cette fonction est spécifique pour gérer l'autocomplétion
-    async autocomplete(interaction) {
-        const focusedValue = interaction.options.getFocused();
-        // Filtrer les suggestions selon ce que l'utilisateur tape
-        const suggestions = ennemis.filter(e => e.nom
-            .toLowerCase()
-            .includes(focusedValue.toLowerCase()))
-            .slice(0, 25) // max 25 suggestions
-            .map(e => ({ name: e.nom, value: e.nom }));
-
-        await interaction.respond(suggestions);
+        await interaction.editReply({
+            embeds: [embed]
+        });
     }
 };

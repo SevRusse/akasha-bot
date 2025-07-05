@@ -1,79 +1,117 @@
 const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
-const artefacts = require('../data/artefacts.json');
+const axios = require('axios');
+const cheerio = require('cheerio');
+
+async function fetchNomArtefacts() {
+    const res = await axios.get('https://lagazettedeteyvat.fr/artefacts');
+    const $ = cheerio.load(res.data);
+    return $('a.elementor-element h5')
+        .map((_, el) => $(el).text().trim())
+        .get()
+        .filter(Boolean);
+}
+
+async function fetchInfosArtefact(nomRecherche) {
+    const res = await axios.get('https://lagazettedeteyvat.fr/artefacts');
+    const $ = cheerio.load(res.data);
+    const linkEl = $('a.elementor-element').filter((_, el) =>
+        $(el).find('h5').text().trim().toLowerCase()
+        === nomRecherche.toLowerCase())
+        .first();
+    if (!linkEl.length) return;
+
+    const url = linkEl.attr('href');
+    const thumb = linkEl.find('.elementor-element-9f2ca69 img').first().attr('data-src');
+
+    // Aller chercher dans la page de l'artefact
+    const pageArtefact = await axios.get(url);
+    const $$ = cheerio.load(pageArtefact.data);
+    const artefactImage = $$('div.elementor-element-daf6008 img').first().attr('data-src');
+    const conseils = $$('div.elementor-element-737bbe6').find('ul:last').text().trim().replaceAll('’', '\'').split('\n');
+
+    return {
+        nom: linkEl.find('h5').text().trim(),
+        url,
+        thumb,
+        origine: $$('.elementor-post-info__terms-list').text().trim(),
+        artefactImage,
+        sources_obtention: $$('div.elementor-element-737bbe6').find('ol:first').text().trim().replaceAll('’', '\'').split('\n'),
+        personnages_conseilles: {
+            top: conseils.filter(s => s.toLowerCase().startsWith('top')),
+            good: conseils.filter(s => s.toLowerCase().startsWith('good')),
+            ok: conseils.filter(s => s.toLowerCase().startsWith('ok')),
+        }
+    };
+}
 
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('artefact')
-        .setDescription('Affiche la fiche d\'un set d\'artefacts Genshin Impact')
+        .setDescription('Affiche les infos pour un set d\'artefacts de Genshin Impact')
         .addStringOption(option =>
             option.setName('nom')
                 .setDescription('Nom du set d\'artefacts')
                 .setRequired(true)
                 .setAutocomplete(true)),
 
+    // Cette fonction est spécifique pour gérer l'autocomplétion
+    async autocomplete(interaction) {
+        const focused = interaction.options.getFocused().toLowerCase();
+        // Filtrer les suggestions selon ce que l'utilisateur tape
+        const suggestions = (await fetchNomArtefacts())
+            .filter(n => n
+                .toLowerCase()
+                .includes(focused))
+            .slice(0, 25) // Limite de 25 suggestions
+            .map(s => ({ name: s, value: s }));
+        await interaction.respond(suggestions);
+    },
+
     async execute(interaction) {
+        // ••• *Bot* réfléchit...
+        await interaction.deferReply();
+
         const nom = interaction.options.getString('nom');
-        const arte = artefacts.find(a => a.nom === nom)
-        if (!arte) {
-            return interaction.reply({
+        const artefact = await fetchInfosArtefact(nom);
+        if (!artefact) {
+            return interaction.editReply({
                 content: '❌ Set d\'artefacts introuvable.',
                 flags: MessageFlags.Ephemeral
             });
         }
 
+        const elision = ('aâeéiou'.includes(artefact.nom.toLowerCase()[0])) ? '\'' : 'e ';
         const embed = new EmbedBuilder()
-            .setTitle(arte.nom)
-            .setURL(arte.url)
-            .setImage(arte.img)
-            .setThumbnail(arte.thumb)
-            .setColor(0xD4AF37) // couleur 5★
+            .setTitle(artefact.nom)
+            .setURL(artefact.url)
             .setDescription(
-                `Origine : ${arte.origine}\n\n` +
-                `Clique sur le lien ci-dessus pour consulter la fiche complète du set d'artefacts **${arte.nom}** sur le site de la Gazette de Teyvat.`
+                `**Origine :** ${artefact.origine}\n\n` +
+                `Cliquez sur le lien ci-dessus pour consulter la fiche complète d${elision}**${artefact.nom}** sur le site de la Gazette de Teyvat.`
             )
+            .setColor(0xD4AF37) // couleur 5★
+            .setImage(artefact.artefactImage)
+            .setThumbnail(artefact.thumb)
             .addFields(
                 {
                     name: 'Sources d\'obtention',
-                    value: `${arte.sources_obtention.map((s, i) =>
-                        `${i + 1}. ` + s)
+                    value: `${artefact.sources_obtention.map((s, i) =>
+                        `**${i + 1}.** ` + s)
                         .join('\n')}`,
                     inline: true
                 },
                 {
                     name: 'Personnages conseillés',
-                    value: `${(arte.personnages_conseilles.top !== 'hihi'
-                        && arte.personnages_conseilles.good !== 'haha'
-                        && arte.personnages_conseilles.ok !== 'hoho')
-                        ? `${arte.personnages_conseilles.top
-                            ? '**• TOP** : ' + arte.personnages_conseilles.top + '\n'
-                            : ''
-                        }${arte.personnages_conseilles.good
-                            ? '**• GOOD** : ' + arte.personnages_conseilles.good + '\n'
-                            : ''
-                        }${arte.personnages_conseilles.ok
-                            ? '**• OK** : ' + arte.personnages_conseilles.ok + '\n'
-                            : ''
-                        }`
-                        : 'Aucun personnage conseillé :/'
-                        }`,
+                    value:
+                        `${artefact.personnages_conseilles.top.length ? `**•** ${artefact.personnages_conseilles.top}\n` : ''}` +
+                        `${artefact.personnages_conseilles.good.length ? `**•** ${artefact.personnages_conseilles.good}\n` : ''}` +
+                        `${artefact.personnages_conseilles.ok.length ? `**•** ${artefact.personnages_conseilles.ok}\n` : ''}`,
                     inline: true
                 }
             )
             .setTimestamp();
 
-        await interaction.reply({ embeds: [embed] });
-    },
-
-    // Cette fonction est spécifique pour gérer l'autocomplétion
-    async autocomplete(interaction) {
-        const focusedValue = interaction.options.getFocused();
-        // Filtrer les suggestions selon ce que l'utilisateur tape
-        const suggestions = artefacts.filter(a => a.nom
-            .toLowerCase()
-            .includes(focusedValue.toLowerCase()))
-            .slice(0, 25) // max 25 suggestions
-            .map(a => ({ name: a.nom, value: a.nom }));
-
-        await interaction.respond(suggestions);
+        await interaction.editReply({
+            embeds: [embed]
+        });
     }
 };
