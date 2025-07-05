@@ -1,8 +1,7 @@
-const { SlashCommandBuilder, EmbedBuilder, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
+const { SlashCommandBuilder, EmbedBuilder, MessageFlags } = require('discord.js');
 const axios = require('axios');
 const cheerio = require('cheerio');
-const profils = require('../data/profils.json');
-// const { log } = require('../utils/logger');
+const supabase = require('../utils/supabase');
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -14,22 +13,39 @@ module.exports = {
                 .setRequired(true)),
 
     async execute(interaction) {
-        const userId = interaction.user.id;
-        const uid = interaction.options.getString('uid');
+        // ••• *Bot* réfléchit...
+        await interaction.deferReply();
+
+        const genshin_uid = interaction.options.getString('uid');
+        const discord_uid = interaction.user.id;
         const embed = new EmbedBuilder()
-            .setColor(0xA65E2E) // terre cuite
+            .setColor(0xA65E2E); // terre cuite
+
+        // Fetch data
+        let { data: profiles, errorFetch } = await supabase
+            .from('profiles')
+            .select()
+            .eq('discord_uid', discord_uid);
+
+        if (profiles.length)
+            return interaction.editReply({
+                embeds: [embed
+                    .setDescription('❌ Vous avez déjà lié votre profil Discord.')
+                ],
+                flags: MessageFlags.Ephemeral
+            });
 
         // Vérification UID
-        if (!/^\d{9}$/.test(uid)) {
-            return interaction.reply({
+        if (!/^\d{9}$/.test(genshin_uid)) {
+            return interaction.editReply({
                 embeds: [embed
                     .setDescription('❌ UID invalide. Il doit comporter **exactement 9 chiffres**.')
                 ],
                 flags: MessageFlags.Ephemeral
             });
         }
-        if (!uid.startsWith('7')) {
-            return interaction.reply({
+        if (!genshin_uid.startsWith('7')) {
+            return interaction.editReply({
                 embeds: [embed
                     .setDescription('❌ UID invalide. Il doit commencer par **le chiffre 7**.')
                 ],
@@ -37,77 +53,65 @@ module.exports = {
             });
         }
 
-        // Gestion base de données
-        if (profils[userId]) {
-            return interaction.reply({
-                embeds: [embed
-                    .setDescription('❌ Vous avez déjà lié votre profil Discord.')
-                ],
-                flags: MessageFlags.Ephemeral
-            });
-        }
-
-        try {
-            const { data } = await axios.get(`https://enka.network/api/uid/${uid}`).catch(
+        const { data: enkaApi } = await axios.get(`https://enka.network/api/uid/${genshin_uid}`)
+            .catch(
                 function () {
-                    return interaction.reply({
+                    return interaction.editReply({
                         embeds: [embed
-                            .setDescription(`❌ Aucun profil Genshin trouvé pour l'UID **${uid}**.`)
+                            .setDescription(`❌ Aucun profil Genshin trouvé pour l'UID **${genshin_uid}**.`)
                         ],
                         flags: MessageFlags.Ephemeral
                     });
                 }
             );
 
-            const info = data.playerInfo;
-            const pseudo = info.nickname || 'Voyageur';
-            const ar = info.level || 0;
-            const wl = info.worldLevel || 0;
-            const signature = info.signature || 'Aucune signature';
+        const { data: enkaHtml } = await axios.get(`https://enka.network/u/${genshin_uid}`);
+        const $ = cheerio.load(enkaHtml);
+        const avatarUrl = `https://enka.network${$('div.svelte-ea8b6b img').first().attr('src')}`;
 
-            const { data: html } = await axios.get(`https://enka.network/u/${uid}`);
-            const $ = cheerio.load(html);
-            const avatarUrl =
-                'https://enka.network' + `${$('.svelte-ea8b6b').find('img').attr('src')}`
-                // Paimon par défaut
-                || 'https://enka.network/ui/UI_AvatarIcon_Paimon.png';
+        // Insert data
+        const { error } = await supabase
+            .from('profiles')
+            .insert({ discord_uid: discord_uid, genshin_uid: genshin_uid });
+        log(error);
 
-            embed.setTitle('Est-ce bien vous ?')
-                .setThumbnail(avatarUrl)
-                .setDescription('Voici le profil associé :')
-                .addFields(
-                    { name: 'Pseudo', value: pseudo, inline: true },
-                    { name: 'Niveau d\'aventure', value: `${ar}`, inline: true },
-                    { name: 'Niveau de monde', value: `${wl}`, inline: true },
-                    { name: 'Signature', value: signature, inline: false }
-                );
-
-            const row = new ActionRowBuilder().addComponents(
-                new ButtonBuilder()
-                    .setCustomId(`confirm_link_${uid}`)
-                    .setLabel('✅ Confirmer')
-                    .setStyle(ButtonStyle.Success),
-                new ButtonBuilder()
-                    .setCustomId('cancel_link')
-                    .setLabel('❌ Annuler')
-                    .setStyle(ButtonStyle.Secondary)
-            );
-
-            await interaction.reply({
-                embeds: [embed],
-                components: [row],
-                flags: MessageFlags.Ephemeral
-            });
-
-        }
-        catch (err) {
-            console.error(err);
-            return interaction.reply({
+        if (error) {
+            return interaction.editReply({
                 embeds: [embed
-                    .setDescription('❌ Une erreur est survenue lors de la vérification de l\'UID.')
+                    .setDescription('❌ Une erreur est survenue.')
                 ],
                 flags: MessageFlags.Ephemeral
             });
         }
+
+        embed.setTitle('Lié avec succès')
+            .setThumbnail(avatarUrl)
+            .setDescription(`✅ ${interaction.member.nickname || interaction.user.globalName}, ton compte Genshin, **UID ${genshin_uid}**, est maintenant lié à ton profil Discord.`)
+            .addFields(
+                {
+                    name: 'Pseudo',
+                    value: enkaApi.playerInfo.nickname
+                        || 'Voyageur',
+                },
+                {
+                    name: 'Niveau d\'aventure',
+                    value: `${enkaApi.playerInfo.level
+                        || 0}`
+                },
+                {
+                    name: 'Niveau de monde',
+                    value: `${enkaApi.playerInfo.worldLevel
+                        || 0}`
+                },
+                {
+                    name: 'Signature',
+                    value: enkaApi.playerInfo.signature
+                        || 'Aucune signature',
+                },
+            );
+
+        return interaction.editReply({
+            embeds: [embed],
+        });
     }
 };
