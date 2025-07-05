@@ -1,20 +1,11 @@
-# Local modules
-data/armes.json
-data/artefacts.json
-data/ennemis.json
-data/personnages.json
-data/profils.json
-
-# Node modules
 node_modules/
+package-lock.json
+.env
 
 # Logs
 logs/
 *.log
 npm-debug.log*
-
-# Environnements
-.env
 
 # Mac
 .DS_Store
