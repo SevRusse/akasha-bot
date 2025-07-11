@@ -19,15 +19,15 @@ module.exports = {
                     value:
                         '**/arme** - Affiche la fiche d\'une arme\n' +
                         '**/artefact** - Affiche la fiche d\'un set d\'artefacts\n' +
-                        '**/ennemi** - Affiche la fiche d\'un boss ou d\'une légende locale\n' +
-                        '**/farm** - Affiche la fiche de farm d\'un personnage\n' +
-                        '**/personnage** - Affiche la fiche de build d\'un personnage\n'
+                        '**/build** - Affiche la fiche de build d\'un personnage\n' +
+                        '**/ennemi** - Affiche la fiche d\'un boss de monde (hors boss de semaine) ou d\'une légende locale (Natlan uniquement)\n' +
+                        '**/farm** - Affiche la fiche de farm d\'un personnage\n'
                 },
                 {
                     name: '***__Liaison à Genshin Impact__***',
                     value:
                         '**/link** - Associe un compte Genshin Impact à Discord\n' +
-                        '**/unlink** - Retire l\'association un UID à Discord\n',
+                        '**/unlink** - Retire l\'association d\'un compte Genshin Impact à Discord\n',
                 },
             )
             .setTimestamp();

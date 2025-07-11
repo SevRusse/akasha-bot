@@ -13,13 +13,13 @@ const elementColors = {
     'Cryo': 0xADD8E6      // bleu clair (blanc/bleu)
 };
 
-async function fetchNomPersonnages() {
+async function fetchNomsPersonnages() {
     const res = await axios.get('https://lagazettedeteyvat.fr/personnages');
     const $ = cheerio.load(res.data);
     return $('a.elementor-element h5')
-        .map((_, el) => $(el).text().trim())
-        .get()
-        .filter(Boolean);
+        .map((_, el) =>
+            $(el).text().trim())
+        .get();
 }
 
 async function fetchInfosPersonnage(nomRecherche) {
@@ -61,7 +61,7 @@ async function fetchInfosPersonnage(nomRecherche) {
 
 module.exports = {
     data: new SlashCommandBuilder()
-        .setName('personnage')
+        .setName('build')
         .setDescription('Affiche les infos de build pour un personnage de Genshin Impact')
         .addStringOption(option =>
             option.setName('nom')
@@ -73,7 +73,7 @@ module.exports = {
     async autocomplete(interaction) {
         const focused = interaction.options.getFocused().toLowerCase();
         // Filtrer les suggestions selon ce que l'utilisateur tape
-        const suggestions = (await fetchNomPersonnages())
+        const suggestions = (await fetchNomsPersonnages())
             .filter(n => n
                 .toLowerCase()
                 .includes(focused))

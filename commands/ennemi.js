@@ -2,7 +2,8 @@ const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
 const axios = require('axios');
 const cheerio = require('cheerio');
 
-const visions = [   // Noms des éléments
+const visions = [
+    // Noms des éléments
     'Anémo',
     'Géo',
     'Électro',
@@ -12,13 +13,12 @@ const visions = [   // Noms des éléments
     'Cryo'
 ];
 
-async function fetchNomEnnemis() {
+async function fetchNomsEnnemis() {
     const res = await axios.get('https://lagazettedeteyvat.fr/ennemis');
     const $ = cheerio.load(res.data);
     return $('a.elementor-element h5')
         .map((_, el) => $(el).text().trim())
-        .get()
-        .filter(Boolean);
+        .get();
 }
 
 async function fetchInfosEnnemi(nomRecherche) {
@@ -76,7 +76,7 @@ module.exports = {
     async autocomplete(interaction) {
         const focused = interaction.options.getFocused().toLowerCase();
         // Filtrer les suggestions selon ce que l'utilisateur tape
-        const suggestions = (await fetchNomEnnemis())
+        const suggestions = (await fetchNomsEnnemis())
             .filter(n => n
                 .toLowerCase()
                 .includes(focused))

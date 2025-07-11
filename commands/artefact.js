@@ -2,13 +2,12 @@ const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
 const axios = require('axios');
 const cheerio = require('cheerio');
 
-async function fetchNomArtefacts() {
+async function fetchNomsArtefacts() {
     const res = await axios.get('https://lagazettedeteyvat.fr/artefacts');
     const $ = cheerio.load(res.data);
     return $('a.elementor-element h5')
         .map((_, el) => $(el).text().trim())
-        .get()
-        .filter(Boolean);
+        .get();
 }
 
 async function fetchInfosArtefact(nomRecherche) {
@@ -58,7 +57,7 @@ module.exports = {
     async autocomplete(interaction) {
         const focused = interaction.options.getFocused().toLowerCase();
         // Filtrer les suggestions selon ce que l'utilisateur tape
-        const suggestions = (await fetchNomArtefacts())
+        const suggestions = (await fetchNomsArtefacts())
             .filter(n => n
                 .toLowerCase()
                 .includes(focused))

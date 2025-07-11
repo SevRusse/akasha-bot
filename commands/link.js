@@ -1,6 +1,7 @@
 const { SlashCommandBuilder, EmbedBuilder, MessageFlags } = require('discord.js');
 const axios = require('axios');
 const cheerio = require('cheerio');
+const { log } = require('../utils/logger');
 const supabase = require('../utils/supabase');
 
 module.exports = {

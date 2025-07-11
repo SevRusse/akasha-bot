@@ -9,13 +9,13 @@ const rarityColors = {
     '5★': 0xD4AF37,    // armes 5★
 };
 
-async function fetchNomArmes() {
+async function fetchNomsArmes() {
     const res = await axios.get('https://lagazettedeteyvat.fr/armes');
     const $ = cheerio.load(res.data);
     return $('a.elementor-element h5')
-        .map((_, el) => $(el).text().trim())
-        .get()
-        .filter(Boolean);
+        .map((_, el) =>
+            $(el).text().trim())
+        .get();
 }
 
 async function fetchInfosArme(nomRecherche) {
@@ -71,7 +71,7 @@ module.exports = {
     async autocomplete(interaction) {
         const focused = interaction.options.getFocused().toLowerCase();
         // Filtrer les suggestions selon ce que l'utilisateur tape
-        const suggestions = (await fetchNomArmes())
+        const suggestions = (await fetchNomsArmes())
             .filter(n => n
                 .toLowerCase()
                 .includes(focused))

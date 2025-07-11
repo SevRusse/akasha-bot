@@ -33,7 +33,7 @@ function event_say(client) {
         }
 
         // what? ELSE!
-        if (message.content
+        else if (message.content
             .toLowerCase()
             .replaceAll(/[^\w ]/g, '').trim()
             .match(/w+h+a+t+$/)) {
@@ -55,7 +55,7 @@ function event_say(client) {
         }
 
         // oui? STITI!
-        if (message.content
+        else if (message.content
             .toLowerCase()
             .replaceAll(/[^\w ]/g, '').trim()
             .match(/o+u+i+$/)) {
@@ -78,7 +78,7 @@ function event_say(client) {
 
 
         // wesh? CANNE A PÊCHE!
-        if (message.content
+        else if (message.content
             .toLowerCase()
             .replaceAll(/[^\w ]/g, '').trim()
             .match(/w+e+s+h+$/)) {
