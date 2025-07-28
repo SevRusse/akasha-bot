@@ -60,7 +60,6 @@ client.on('interactionCreate', async interaction => {
 });
 
 // Gestion des événements
-require('./event/ev_say').event_say(client);
 
 // Gestion manuelle des crashs
 client.on('error', err => log('Erreur client Discord', err));

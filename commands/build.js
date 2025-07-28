@@ -71,9 +71,10 @@ module.exports = {
 
     // Cette fonction est spécifique pour gérer l'autocomplétion
     async autocomplete(interaction) {
+        const personnages = await fetchNomsPersonnages();
         const focused = interaction.options.getFocused().toLowerCase();
         // Filtrer les suggestions selon ce que l'utilisateur tape
-        const suggestions = (await fetchNomsPersonnages())
+        const suggestions = personnages
             .filter(n => n
                 .toLowerCase()
                 .includes(focused))

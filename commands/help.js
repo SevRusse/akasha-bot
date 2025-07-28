@@ -23,12 +23,6 @@ module.exports = {
                         '**/ennemi** - Affiche la fiche d\'un boss de monde (hors boss de semaine) ou d\'une légende locale (Natlan uniquement)\n' +
                         '**/farm** - Affiche la fiche de farm d\'un personnage\n'
                 },
-                {
-                    name: '***__Liaison à Genshin Impact__***',
-                    value:
-                        '**/link** - Associe un compte Genshin Impact à Discord\n' +
-                        '**/unlink** - Retire l\'association d\'un compte Genshin Impact à Discord\n',
-                },
             )
             .setTimestamp();
 
