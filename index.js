@@ -1,18 +1,7 @@
 require('dotenv').config();
 const { Client, GatewayIntentBits, Collection, ActivityType } = require('discord.js');
 const fs = require('fs');
-
 const { log } = require('./utils/logger');
-
-// serveur Express
-const express = require('express');
-const app = express();
-const PORT = process.env.PORT || 3000; // Render fournit automatiquement process.env.PORT
-
-app.get('/', (_, res) => res.send('Bot is alive!'));
-app.listen(PORT, () => {
-    log(`✅ Serveur Express en ligne sur le port ${PORT}`);
-});
 
 const client = new Client({
     intents: [
@@ -67,3 +56,18 @@ process.on('unhandledRejection', err => log('Rejection non capturée', err));
 process.on('uncaughtException', err => log('Exception non capturée', err));
 
 client.login(process.env.TOKEN);
+
+// --- Serveur Express pour UptimeRobot ---
+const express = require('express');
+const app = express();
+
+// Route de test pour vérifier que le bot est en ligne
+app.get('/', (req, res) => {
+    res.status(200).send('✅ Akasha bot is alive and running!');
+});
+
+// Écoute sur le port fourni par Render (ou 3000 en local)
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+    console.log(`🌐 Serveur web actif sur le port ${PORT}`);
+});
