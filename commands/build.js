@@ -52,7 +52,13 @@ async function fetchInfosPersonnage(nomRecherche) {
         element: linkEl.find('div.elementor-element-c40c4b3 img').attr('alt'),
         classe: linkEl.find('div.elementor-element-c8d236c img').attr('alt'),
         stat: linkEl.find('div.elementor-element-73c3fb1 img').attr('alt'),
-        isMultipleRoles: $$('.elementor-element-8b7a6d7, .elementor-element-7213383')?.length > 0,
+        howManyRoles:
+            $$('.elementor-element-a58951b').length
+                ? 1
+                : ($$('.elementor-element-026d307').length
+                    ? 2
+                    : ($$('.elementor-element-cc77023').length
+                        ? 3 : null)),
         role: $$('h3').first().text().trim(),
         buildImage,
         armes_conseillees: $$('.elementor-element-52edd3c, .elementor-element-c9f5115, .elementor-element-0e4697f').find('ol:first').text().trim().replaceAll('’', '\'').split('\n'),
@@ -108,9 +114,9 @@ module.exports = {
                 `**Stat :** ${perso.stat}\n` +
                 `**Rôle :** ${perso.role}\n` +
                 `\n` +
-                `${perso.isMultipleRoles
-                    ? `Ce personnage possède __plusieurs rôles__ différents, seul le premier est affiché ici.\n`
-                    : `Ce personnage ne possède qu'__un seul rôle__.\n`}` +
+                `${perso.howManyRoles > 1
+                    ? `Ce personnage possède __${perso.howManyRoles} rôles__ différents, seul le premier est affiché ici.\n`
+                    : `Ce personnage ne possède qu'__${perso.howManyRoles} seul rôle__.\n`}` +
                 `Cliquez sur le lien ci-dessus pour consulter la fiche de build complète d${elision}**${perso.nom}** sur le site de la Gazette de Teyvat.`
             )
             .setColor(color)    // Adaptable selon l’élément
