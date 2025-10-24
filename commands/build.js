@@ -57,8 +57,7 @@ async function fetchInfosPersonnage(nomRecherche) {
                 ? 1
                 : ($$('.elementor-element-026d307').length
                     ? 2
-                    : ($$('.elementor-element-cc77023').length
-                        ? 3 : null)),
+                    : 3),
         role: $$('h3').first().text().trim(),
         buildImage,
         armes_conseillees: $$('.elementor-element-52edd3c, .elementor-element-c9f5115, .elementor-element-0e4697f').find('ol:first').text().trim().replaceAll('’', '\'').split('\n'),
