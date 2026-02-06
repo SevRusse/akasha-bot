@@ -37,7 +37,7 @@ async function fetchInfosArme(nomRecherche) {
         .filter((_, el) => $$(el).text()?.includes('★'))
         .first().text().trim();
     const armeImage = $$('div.elementor-element-319df57').find('img').first().attr('data-src');
-    const conseils = $$('div.elementor-element-bc4175c').find('ul:last').text().trim().replaceAll('’', '\'').split('\n');
+    const conseils = $$('div.elementor-element-bc4175c').find('ul:last li').map((_, el) => $$(el).text()).toArray();
 
     return {
         nom: linkEl.find('h5').text().trim(),
@@ -48,7 +48,7 @@ async function fetchInfosArme(nomRecherche) {
         obtention: linkEl.find('div.elementor-element-5247fa5 img').attr('alt'),
         rarete,
         armeImage,
-        materiaux_arme: $$('div.elementor-element-bc4175c').find('ul:first').text().trim().replaceAll('’', '\'').split('\n'),
+        materiaux_arme: $$('div.elementor-element-bc4175c').find('ul:first li').map((_, el) => $$(el).text()).toArray(),
         personnages_conseilles: {
             top: conseils.filter(s => s.toLowerCase().startsWith('top')),
             good: conseils.filter(s => s.toLowerCase().startsWith('good')),

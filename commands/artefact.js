@@ -26,7 +26,7 @@ async function fetchInfosArtefact(nomRecherche) {
     const pageArtefact = await axios.get(url);
     const $$ = cheerio.load(pageArtefact.data);
     const artefactImage = $$('div.elementor-element-daf6008 img').first().attr('data-src');
-    const conseils = $$('div.elementor-element-737bbe6').find('ul:last').text().trim().replaceAll('’', '\'').split('\n');
+    const conseils = $$('div.elementor-element-737bbe6').find('ul:last li').map((_, el) => $$(el).text()).toArray();
 
     return {
         nom: linkEl.find('h5').text().trim(),
@@ -34,7 +34,7 @@ async function fetchInfosArtefact(nomRecherche) {
         thumb,
         origine: $$('.elementor-post-info__terms-list').text().trim(),
         artefactImage,
-        sources_obtention: $$('div.elementor-element-737bbe6').find('ol:first').text().trim().replaceAll('’', '\'').split('\n'),
+        sources_obtention: $$('div.elementor-element-737bbe6').find('ol:first li').map((_, el) => $$(el).text()).toArray(),
         personnages_conseilles: {
             top: conseils.filter(s => s.toLowerCase().startsWith('top')),
             good: conseils.filter(s => s.toLowerCase().startsWith('good')),

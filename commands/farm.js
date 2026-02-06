@@ -54,8 +54,8 @@ async function fetchInfosPersonnage(nomRecherche) {
         stat: linkEl.find('div.elementor-element-73c3fb1 img').attr('alt'),
         role: $$('h3').first().text().trim(),
         farmImage,
-        materiaux_personnage: $$('.elementor-element-fa24de3').find('ul:first').text().trim().replaceAll('’', '\'').split('\n'),
-        materiaux_aptitudes: $$('.elementor-element-fa24de3').find('ul:last').text().trim().replaceAll('’', '\'').split('\n')
+        materiaux_personnage: $$('.elementor-element-fa24de3').find('ul:first li').map((_, el) => $$(el).text()).toArray(),
+        materiaux_aptitudes: $$('.elementor-element-fa24de3').find('ul:last li').map((_, el) => $$(el).text()).toArray()
     };
 }
 

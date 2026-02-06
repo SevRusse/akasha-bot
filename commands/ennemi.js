@@ -44,11 +44,11 @@ async function fetchInfosEnnemi(nomRecherche) {
         : 'Légende locale';
     const ennemiImage = $$('.elementor-element-a5051ac, .elementor-element-a3f2663').find('img').first().attr('data-src');
     const butin = type === 'Boss'
-        ? $$('.elementor-element-823722d').find('ul:first').text().trim().replaceAll('’', '\'').split('\n')
+        ? $$('.elementor-element-823722d').find('ul:first li').map((_, el) => $$(el).text()).toArray()
         : ['Commun ou élite identique à la créature originelle'];
     const succes = type === 'Boss'
-        ? $$('.elementor-element-823722d').find('ul:last').text().trim().replaceAll('’', '\'').split('\n')
-        : $$('.elementor-element-980e285').find('b, strong').text().trim().replaceAll('’', '\'').split('.').slice(0, -1);
+        ? $$('.elementor-element-823722d').find('ul:last').text().trim().split('\n')
+        : $$('.elementor-element-980e285').find('b, strong').text().trim().split('.').slice(0, -1);
 
     return {
         nom: linkEl.find('h5').text().trim(),

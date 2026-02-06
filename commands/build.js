@@ -60,8 +60,10 @@ async function fetchInfosPersonnage(nomRecherche) {
                     : 3),
         role: $$('h3').first().text().trim(),
         buildImage,
-        armes_conseillees: $$('.elementor-element-52edd3c, .elementor-element-c9f5115, .elementor-element-0e4697f').find('ol:first').text().trim().replaceAll('’', '\'').split('\n'),
-        sets_conseilles: $$('.elementor-element-52edd3c, .elementor-element-c9f5115, .elementor-element-0e4697f').find('ol:last').text().trim().replaceAll('’', '\'').split('\n')
+        armes_conseillees: $$('.elementor-element-52edd3c, .elementor-element-c9f5115, .elementor-element-0e4697f')
+            .find('ol:first li').map((_, el) => $$(el).text()).toArray(),
+        sets_conseilles: $$('.elementor-element-52edd3c, .elementor-element-c9f5115, .elementor-element-0e4697f')
+            .find('ol:last li').map((_, el) => $$(el).text()).toArray()
     };
 }
 
